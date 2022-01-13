@@ -29,7 +29,7 @@ url: "https://jeffreycwitt.com" # the base hostname & protocol for your site, e.
 #github_username:  jeffreycwitt
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
