@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/lecture.css' | absolute_url }}">
+
+<h1>{{page.title}}</h1>
+{%- if page.date -%}
+<div style="font-size: 12px">
+<p id="published-date" data-date="{{page.date}}">Published on {{page.date}}</p>
+</div>
+{%- endif -%} 
+<div class="overview">
+  <span class="reading-time"></span>
+  <span class="watch-time" data-watchtime="{{page.watchtime}}"></span>
+  <!-- <span class="numQuestions"></span> -->
+  <!-- <span class="numDiscussions"></span> -->
+</div>
+<div style="font-size: 12px">
+  <p>Preparatory Readings:</p>
+  <ul>
+  {%- for node in page.reading -%}
+    <li class="reading" data-reading="{{node}}"></p>
+  {%- endfor -%}
+  </ul>
+</div>
+
+
+
+{{content}}
+<br/>
+<br/>
+<br/>
+
+
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script type="text/javascript" src="{{ '/assets/js/custom.js' | absolute_url }}"></script>
+  
+  <!-- uncomment if login is desired for main pages <script src="{{ '/assets/js/checkLogin.js' | absolute_url }}"></script> -->
+  
+  

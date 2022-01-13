@@ -31,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: just-the-docs
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
@@ -55,3 +55,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# custom url bases
+assets_url: "https://s3.amazonaws.com/lum-faculty-jcwitt-public/hn202/"
