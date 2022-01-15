@@ -143,11 +143,12 @@
   .answer{
     display: none;
     /* visibility: hidden; */
-    border-left: 2px solid blue;
+    border-left: 2px solid lightblue;
     padding: 10px;
-    margin-left: 20px;
+    margin-left: 10px;
     background-color: #f5f6fa
   }
+  
   .answer::before{
     content: "Possible Answer: ";
     display: block;

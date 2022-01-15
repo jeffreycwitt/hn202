@@ -8,24 +8,28 @@ $(document).ready(function(){
     /* checkLogin(function(){console.log("login checked")});*/
   
     if (postRelease){
-      $(".dquestion").append("<span style='display: block; font-size: 12px'>click on question to toggle a possible response</span>")
+      $(".dquestion").next(".answer").css("display", "block");
     }
     else{
-      $(".dquestion").append("<span style='display: block; font-size: 12px'>This is a time release question; a possible response will be available after our class discussion</span>")
+      $(".dquestion").append("<span style='display: inline; font-size: 12px'> (TR)</span>")
     }
 
-    $(".dquestion").click(function(){
-      if (postRelease){
-        /* $(this).next(".answer").toggle();*/
-        if ($(this).next(".answer").css("display") === "block"){
-          $(this).next(".answer").css("display", "none");
-        }
-        else{
-          $(this).next(".answer").css("display", "block");
-        }
-      }
-    });
+    // $(".dquestion").click(function(){
+    //   if (postRelease){
+    //     /* $(this).next(".answer").toggle();*/
+    //     if ($(this).next(".answer").css("display") === "block"){
+    //       $(this).next(".answer").css("display", "none");
+    //     }
+    //     else{
+    //       $(this).next(".answer").css("display", "block");
+    //     }
+    //   }
+    // });
   
+    if (postRelease){
+      $(".dquestion").next(".answer").css("display", "block");
+    }
+    else {
     $(".question").append("<span style='display: block; font-size: 12px'>click on question to toggle a possible response</span>")
   
     $(".question").click(function(){
@@ -36,8 +40,8 @@ $(document).ready(function(){
       else{
         $(this).next(".answer").css("display", "block");
       }
-      
     });
+  }
     
     getReadingTime();
 
