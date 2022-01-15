@@ -3,7 +3,7 @@ title: 'Class 3'
 layout: lecture
 description: "Augustine and the Fall of Rome"
 readings: "Augustine, City of God, Book 19"
-published: true
+published: false
 date: 2022-01-12
 nav_order: 3
 ---
