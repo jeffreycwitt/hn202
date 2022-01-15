@@ -16,42 +16,10 @@ Welcome to our course, HN202: Medieval World.
 
 I'm excited to spend the semester with you. 
 
-# Course Annotating and Discussion Participation. 
-
-One tool we're going to use to engage in collaborative discussion around course content is a text annotation tool called "hypothes.is". 
-
-This tool will allow us to annotate any part of course content and begin threaded discussions. If our synchronous classes get disrupted, this tool will allow us to continue to engage in asynchronous discussions. Likewise, our pre-class discussions will improve our synchronous meetings by allowing us to build up a discussion ahead of time, which we can then build upon during our in person meetings.
-
-Here's a short promotional video of the tool.
-
-<div class="video">
-<iframe width="720" height="405" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p class="vda">discuss video anchor</p>
-</div>
-
-To use this tool we need to set up a few things ([as described by hypothes.is](https://web.hypothes.is/start/))
-
-1. Set up hypothesis account so your annotations can be saved.
-2. Add the chrome browser extension or (for use in other browsers) drag the "hypothesis bookmarklet" to your bookmark bar. 
-  * Using Chrome is recommended so that we can all have a consistent experience, and so that I can more easily help you.
-3. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/course/view.php?id=46745) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
-
-We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and then "lean" into it, so that we can allow it to help us create a vibrant connected discussion around common ideas. 
-
-If you're not able to get working, we can discuss it during our live course time, or during office hours.
-
-Here's a video me starting to annotate, once I have the Chrome Plug-in Installed.
-
-<div class="video">
-
-<p class="vda">discuss video anchor</p>
-</div>
-
-Once you've got it working, you can annotation ANYTHING and asks questions or make comments about ANYTHING on the page.
 
 <div class="activity" markdown="1">
 
-Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, here are few questions. (To answer these questions, make sure the Chrome plugin is enabled, then highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation.)
+Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, here are few questions. (To answer these questions, highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation.)
 
 {:.rquestion} 
 General Introduction Stuff: What is your name, your major, and your hometown?
