@@ -3,6 +3,7 @@ layout: lecture
 title:  "1: Intro"
 date:   2022-01-18
 nav_order: 1
+moodleId: 3078723
 ---
 
 ## Table of contents
