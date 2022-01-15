@@ -6,7 +6,6 @@ readings: "Augustine, City of God, Book 19"
 published: true
 date: 2022-01-12
 nav_order: 3
-parent: classes
 ---
 
 ## Table of contents

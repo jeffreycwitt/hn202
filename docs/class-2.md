@@ -5,7 +5,6 @@ description: "Augustine and the Fall of Rome"
 readings: "Augustine, City of God, Book 2"
 nav_order: 2
 date: 2022-01-20
-parent: classes
 
 ---
 ## Table of contents
