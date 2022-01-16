@@ -112,7 +112,7 @@ In my view, to study history is part of an attempt to take seriously the Socrati
 Let's think about this at a macro level. 
 
 {:.rquestion}
-What are some of the common histories that we are told? In what way might these histories be designed by the present to serve or protect the status quo.
+What are some of the common histories that we are told? In what way might these histories be designed by the present to serve or protect the status quo?
 
 Finally, let's turn our attention back to the Middle Ages
 
@@ -121,7 +121,7 @@ Consider some of the present associations you have with the Middle Ages (associa
 
 <div class="answer" markdown="1">
 
-One common association I hear is that the Middle Ages is barbaric, dark, ignorant. There is likely some truth to this and there is likely some falsity. But true or not, it certainly reinforces the idea that we in the present, who are no longer living in the Middle Ages, are NOT barbaric, dark, or ignorant. 
+One common association I hear is that the Middle Ages is barbaric, dark, ignorant. There is likely some truth to this and there is likely some falsity. But true or not, it certainly reinforces the idea that we, in the present who are no longer living in the Middle Ages, are NOT barbaric, dark, or ignorant. 
 
 Another association I hear is that the Middle Ages is pastoral, chivalrous, idyllic, and in touch with the nature. This reinforces a criticism of the present as "unnatural" (often attributed to the rise of modern technology).
 
