@@ -107,7 +107,7 @@ Studying history is in many ways the critical examination of the "stories" that 
 
 In my view, to study history is part of an attempt to take seriously the Socratic dictum: "Know thyself" and "the unexamined life is not worth living".
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 Let's think about this at a macro level. 
 
