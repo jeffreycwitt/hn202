@@ -7,6 +7,7 @@ $(document).ready(function(){
   console.log(postRelease);
     /* checkLogin(function(){console.log("login checked")});*/
   
+    
     if (postRelease){
       $(".dquestion").next(".answer").css("display", "block");
     }
