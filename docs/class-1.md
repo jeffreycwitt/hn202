@@ -20,7 +20,13 @@ I'm excited to spend the semester with you.
 
 <div class="discussion" markdown="1">
 
-Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, here are few questions. (To answer these questions, highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation.)
+Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, here are few questions. 
+
+To answer these questions, highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation. Here's an example what it should look like when you highlight a portion of the text. 
+
+
+![example annotation]({{site.assets_url}}annotateExample.png)
+<p class="vda">discuss image anchor</p>
 
 {:.rquestion} 
 General Introduction Stuff: What is your name, your major, and your hometown?
@@ -132,11 +138,11 @@ Another association I hear is that the Middle Ages is pastoral, chivalrous, idyl
 
 Hopefully, at this point we might have some ideas about why studying history (which includes studying the Middle Ages) is important.
 
-Thus at this point, we might begin to ask, what are the "Middle Ages" anyway? Why does History include a period known as the "Middle Ages"?
+Thus at this point, we might begin to ask, what are the "Middle Ages" anyway? Why does history include a period known as the "Middle Ages"?
 
 I hope it is clear that the term "Middle Ages" is itself a modern invention. No one living in the time period that we today call the "Middle Ages" would have recognized themselves as living in the Middle Ages. As we discussed above, the designation "Middle" tells us more about the people creating the label than it does about the period itself. To call a prior age "middle" suggest that the person doing the labelling is living at the "end" or "the last" or even the "culmination".
 
-It also suggest a desire to "compartmentalize" history and we should reflect a little bit about this desire.
+It also suggests a desire to "compartmentalize" history and we should reflect a little bit about this desire.
 
 <div class="discussion" markdown="1"> 
 
