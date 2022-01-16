@@ -19,7 +19,7 @@ I'm excited to spend the semester with you.
 
 Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, what follows are few questions to get us started.
 
-Note: To answer these questions, highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation. Here's an example what it should look like when you highlight a portion of the text. 
+**Note**: To answer these questions, highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation. Here's an example of what it should look like when you highlight a portion of the text. 
 
 ![example annotation]({{site.assets_url}}annotateExample.png)
 <p class="vda">discuss image anchor</p>
