@@ -121,7 +121,7 @@ Consider some of the present associations you have with the Middle Ages (associa
 
 <div class="answer" markdown="1">
 
-One common association I hear is that the Middle Ages is barbaric, dark, ignorant. There is likely some truth to this and their likely some falsity. But true or not, it certainly reinforces the idea that we in the present, who are no longer living in the Middle Ages, are NOT barbaric, dark, or ignorant. 
+One common association I hear is that the Middle Ages is barbaric, dark, ignorant. There is likely some truth to this and there is likely some falsity. But true or not, it certainly reinforces the idea that we in the present, who are no longer living in the Middle Ages, are NOT barbaric, dark, or ignorant. 
 
 Another association I hear is that the Middle Ages is pastoral, chivalrous, idyllic, and in touch with the nature. This reinforces a criticism of the present as "unnatural" (often attributed to the rise of modern technology).
 
