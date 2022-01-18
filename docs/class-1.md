@@ -76,7 +76,6 @@ Can you think of a way our social identity (e.g. our identify as "students", Bal
 </div>
 
 <div class="example" markdown="1">
-
 Let's consider one example. 
 
 Imagine that we all entered our class room together and at the center of the room is an ice cream sundae.
@@ -86,7 +85,7 @@ The first questions that would likely arise would not necessarily be about the p
 {:.question}
 If our direct goal is about the future? Why might questions about the past quickly follow? (Offer your own thoughts before looking at my possible answer.)
 
-<div class="answer">
+<div class="answer" markdown="1">
 
 In deciding who gets the sundae, a natural question is, "how did it get here"? "who made it"? 
 
