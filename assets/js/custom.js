@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  const releaseDate =  new Date($("#published-date").attr("data-date"));
+  const releaseDate =  new Date($("#published-date").attr("data-date") + " 9:25 EST");
   console.log("releaseDate", releaseDate)
   const currentDate = new Date()
   console.log("current date", currentDate)
