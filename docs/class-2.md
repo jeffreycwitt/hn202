@@ -114,7 +114,7 @@ So, we need to go slowly here and try to dis-entangle and then reconstruct the s
 <div class="discussion" markdown="1"> 
 Before reading further, stop, consider, and annotate: 
 
-{:.question} 
+{:.rquestion} 
 Based on your reading, what general strategies of 'defense' do you see at work in his response in chapter 2? 
 
 </div>
@@ -305,7 +305,7 @@ And Scipio responds to the contrary, no in fact there is no city with justice.
 
 I'd like to consider where Augustine falls within this debate and the ramifications of this position. 
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 {:.question}
 First off, is there any way we can support the position of Pilus? Why might it be impossible to have a functioning city without Injustice. (Offer some of your own examples before looking at mine.)

@@ -28,10 +28,11 @@ $(document).ready(function(){
     // });
   
     if (postRelease){
-      $(".dquestion").next(".answer").css("display", "block");
+      $(".question").next(".answer").css("display", "block");
     }
     else {
     $(".question").append("<span style='display: block; font-size: 12px'>click on question to toggle a possible response</span>")
+
   
     $(".question").click(function(){
       /* $(this).next(".answer").toggle();*/

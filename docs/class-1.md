@@ -86,7 +86,8 @@ The first questions that would likely arise would not necessarily be about the p
 {:.question}
 If our direct goal is about the future? Why might questions about the past quickly follow? (Offer your own thoughts before looking at my possible answer.)
 
-<div class="answer" markdown="1">
+<div class="answer">
+
 In deciding who gets the sundae, a natural question is, "how did it get here"? "who made it"? 
 
 If Bob spent all morning making this sundae and brought it to class with him and then Bob stepped out to go to the bathroom, this would likely affect our views about what is right in the future. The past suggest that Bob owns the Sunda because he made the sundae (in the past). Since Bob "owns" it, it seems right that Bob gets to eat it. 
@@ -96,7 +97,9 @@ But maybe Bob stole the ice cream from my freezer. How Bob sourced the ice cream
 And finally, what if no one created the ice cream sundae, but it spontaneously appeared, as if some kind of gratuitous fruit of nature or divine gift? This would once again affect our ideas about what we can or should do with it. If it is a product of nature, then perhaps it belongs to all of us and therefore the ice cream sundae should be shared equally.
 
 For more thinking along these lines consider [Entitlement Theory and Robert Nozick's ideas about "just acquisition"](https://en.wikipedia.org/wiki/Entitlement_theory) and the extent to which our ideas about what is just and unjust are dependent on our views about history.
+
 </div>
+
 </div>
 
 I hope you can see some reasons why history is already "relevant" whether we choose to study it or not.
