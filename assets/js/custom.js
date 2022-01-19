@@ -115,12 +115,13 @@ $(document).ready(function(){
       e.preventDefault(); 
       console.log("html fragment link override is running")
       const anchor_id = $(this).attr("href")
-      scroll_to_anchor(anchor_id)
+      const justId = anchor_id.split("#")[1]
+      scroll_to_anchor(justId)
   });
 
   };
 
-function scroll_to_anchor(anchor_id){
-    var tag = $(anchor_id);
+function scroll_to_anchor(justId){
+    var tag = $("#" + justId);
     $('html,body').animate({scrollTop: tag.offset().top},'slow');
 }
