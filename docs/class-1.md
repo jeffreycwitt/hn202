@@ -6,10 +6,10 @@ nav_order: 1
 moodleId: 3078723
 ---
 
-<!-- ## Table of contents
+## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 
-{:toc} -->
+{:toc}
 
 # Introduction 
 

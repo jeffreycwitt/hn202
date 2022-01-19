@@ -158,3 +158,11 @@
   .overview{
     font-size: 12px;
   }
+
+  /* side bar and main width override */
+  /* .side-bar{
+    width: calc((100% - 1500px) / 2 + 264px);
+  }
+  .main{
+    margin-left: calc( (100% - 1500px) / 2 + 264px);
+  } */

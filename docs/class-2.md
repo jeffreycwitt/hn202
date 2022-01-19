@@ -9,11 +9,10 @@ published: true
 moodleId: 3097063
 
 ---
-## Table of contents
-
-Note: the table of contents links will take you out of the moodle-hypothesis module, so use them to get an overview, but don't click on them. If you click on them, you'll need to find your way back to the moodle-hypothesis module.
 
 {: .no_toc .text-delta } 
+## Table of contents
+
 1. TOC 
 {:toc}
 

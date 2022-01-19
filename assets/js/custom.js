@@ -108,4 +108,19 @@ $(document).ready(function(){
     if (numDiscussions > 0){
       $('.numDiscussions').html(" | Number of Discussions: " + numDiscussions);
     }
+
+    // toc link behavior override 
+
+    $('#markdown-toc a').click(function(e) {
+      e.preventDefault(); 
+      console.log("html fragment link override is running")
+      const anchor_id = $(this).attr("href")
+      scroll_to_anchor(anchor_id)
+  });
+
   };
+
+function scroll_to_anchor(anchor_id){
+    var tag = $(anchor_id);
+    $('html,body').animate({scrollTop: tag.offset().top},'slow');
+}
