@@ -281,7 +281,7 @@ In Chapter 18, the historian Sallust seems to directly contradict Augustine and 
 {:.question}
 How does Augustine respond to this?
 
-<div class="answer">
+<div class="answer" markdown="1">
 It might be true that they “behaved well”. But what was the motivation?
 
 > “…the cause of this was not their love of good order, but their fear lest the peace they had with Carthage might be broken” (Augustine, City of God, II, c. 18 (p. 56))
