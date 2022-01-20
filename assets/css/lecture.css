@@ -10,10 +10,10 @@
   blockquote p {
     display: inline;
   }
-  blockquote p::before {
+  /* blockquote p::before {
   counter-increment: blockquote;
   content: counter(blockquote) ": ";
-  }
+  } */
   blockquote a.quote-link {
     display: inline;
   }
