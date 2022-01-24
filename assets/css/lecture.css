@@ -160,9 +160,10 @@
   }
 
   /* side bar and main width override */
+  /* doesn't work; units need to be changed at sass level */
   /* .side-bar{
-    width: calc((100% - 1500px) / 2 + 264px);
+    width: calc((100% - 1500px) / 2 + 264px) !important;
   }
   .main{
-    margin-left: calc( (100% - 1500px) / 2 + 264px);
+    margin-left: calc((100% - 1500px) / 2 + 264px) !important;
   } */
