@@ -36,7 +36,7 @@ As individuals, we naturally ask questions like why do I have to do what this ot
 
 Finding a common goal is natural way to answer to these questions. When all individuals expect to find happiness in the city, we can explain that happiness is a goal we all can achieve when we coordinate our action.
 
-Accordingly, I will be willing to submit to th laws because I want to be happy and I know that I can only be happy through participation in the city.
+Accordingly, I will be willing to submit to the laws because I want to be happy and I know that I can only be happy through participation in the city.
 
 Augustine's position can appear dangerous because, when he asserts that City of God is not possible on earth and that happiness is not found in this life, he would appear to weaken the incentive for social coordination.
 
