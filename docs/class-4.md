@@ -6,7 +6,7 @@ readings: "Rule of St. Benedict"
 published: true
 date: 2022-01-27
 nav_order: 4
-moodleId: 
+moodleId: 3105916
 ---
 
 ## Table of contents
