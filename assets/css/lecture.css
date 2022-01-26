@@ -65,7 +65,8 @@
  /* discussion, activity, and respond */ 
   .discussion{
     border-left: 2px solid red;
-    padding-left: 5px
+    padding-left: 5px;
+    margin-top: 5px;
   }
 
   .discussion::before{
@@ -146,7 +147,8 @@
     border-left: 2px solid lightblue;
     padding: 10px;
     margin-left: 10px;
-    background-color: #f5f6fa
+    background-color: #f5f6fa;
+    margin-bottom: 20px;
   }
   
   .answer::before{
