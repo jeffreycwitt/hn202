@@ -123,7 +123,7 @@ At this point, I would like to pause and consider closely the kinds of social an
 
 Review what Rosenwein says in SHMA pp. 24-29 and then consider:
 
-{:dquestion}
+{:.dquestion}
 What does former Western Rome look like after 476? Can we summarize the key changes? Use the annotation tool to identify a change that seems significant to you and be sure to tell us why?
 
 <div class="answer" markdown="1">
