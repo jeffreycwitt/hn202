@@ -68,7 +68,7 @@ We are already familiar with one group, responsible for sacking Rome in 410. Vis
 {:.question}
 Why did the Visigoths begin to migrate away from the Black Sea Area? (We mentioned this once before, but see SHMA p. 23)
 
-{:answer}
+{:.answer}
 The Huns invaded the region triggering a mass migration and refugee crises.
 
 Though they sacked Rome in 410, they did not remain there. By the end of the 5th century they had settled in southern Gaul and the Iberian peninsula (modern day Spain)
@@ -133,16 +133,16 @@ What does former Western Rome look like after 476? Can we summarize the key chan
 * "Disconnection of rural landscape" (SHMA, p. 27)
 * Wealth became based largely on land (p. 27), 
 * Sewage system stop working
-* Aqueducts cease; people begin using wells
+* Aqueducts ceased; people begin using wells
 * Transition back to a primarily agricultural economy
 * General illiteracy
 * High poverty
 * High infant mortality rates
 * Frequent arrival of plague
 * General loss of traditional unities (empire, province, state, town)
-* Western Europe in 6th and 7th centuries was SURPRISINGLY EMPTY
+* Western Europe in 6th and 7th centuries was surprisingly empty
 * General sense of misery, encourages sense of pilgrim status, and religious hope.
-* Disappearance of Middle Class (SHMA, p. 26) leading to cessation of tax revenue for barbarian kings entirely in 7th century, dramatically affecting development in western Europe
+* Disappearance of Middle Class (SHMA, p. 26), leading to cessation of tax revenue for barbarian kings in 7th century, dramatically affecting development in western Europe
 </div>
 
 {:.dquestion} 
@@ -151,10 +151,10 @@ Compare these changes to how Rosenwein describes the Eastern part of the former 
 <div class="answer" markdown="1">
 
 * Retrenchment. 
-* Urban centers were still thriving, but eastern concern with the remainder of the former empire waned. 
-* What was response to 410 sacking of Rome? East did not come to help, but instead began fortifying Constantinople with a new wall (p. 30)
+* Urban centers were still thriving, but Eastern concern with the remainder of the former Empire was lacking. 
+* After 410, the East did not come to help, but instead began fortified Constantinople with a new wall (SHMA, p. 30)
 * Taxes were still collected. 
-* Legal codes were developed (Codex Justianianus, 529, 534; Digest 533)
+* Legal codes were developed (Codex Justianianus, 529 and 534; Digest 533).
 </div>
 
 </div>
@@ -164,7 +164,7 @@ Finally, let's note how the Italian Peninsula is emerging as a kind of bridge or
 * The Ostragoths are eventually battled by the East, using Lombardian (another Barbarian Tribe) soldiers. 
 * Lombardian soldiers eventually take over much of Italy for themselves. (See the map on p. 35 of SHMA and the prose description on p. 36).
 * At the same time, the east retains control over a small sliver of the region from Ravenna to Rome. 
-* Finally, looking at the map in SHMA. p. 25, note the geographical position of Monte Cassino (just south of Rome), where St. Benedict will establishing his monastic community around 529.
+* Finally, looking at the map in SHMA. p. 25, note the geographical position of Monte Cassino (just south of Rome), where St. Benedict will establish his monastic community around 529.
   
 # The Rise of Benedictine Monasticism
 
@@ -235,11 +235,16 @@ And how is humility cultivated?
 
 > "the first step toward humility is unhesitating obedience" (BSB c. 5).
 
+> "Hate your own will. OBey the abbot's commands in all circumstances..." (BSB, p. 18)
+
 The secluded monastery and the rule of the abbot seems to be the place where he thinks this is best accomplished. 
 
-> "The workshop where we diligently work at all these tasks is the enclosure of the monastery, in the stability of the community". (BSB, p. 18)
+> "These, then, are the tools [i.e. the humbling commands described above] of the spiritual craft" 
+
+> "The workshop [i.e. the monastery] where we diligently work at all these tasks is the enclosure of the monastery, in the **stability** of the community". (BSB, p. 18)
 
 The mention of "stability" seems important given the political instability that would have been raging through Europe at this time.
+
 </div>
 
 </div>
