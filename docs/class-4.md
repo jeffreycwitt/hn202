@@ -22,7 +22,8 @@ Today, we begin by tracing a few of the important historical events leading up t
 
 While 410 is a date we know as important for tracing the decline of the Empire and for understanding what motivates Augustine to write *The City of God*, 476 is often pointed to as better date for identifying the end of the Roman Empire.
 
-{:.question} According to Rosenwein what happened in 476 (SHMA, p. 24).
+{:.question} 
+According to Rosenwein what happened in 476 (SHMA, p. 24).
 
 {:.answer}
 It was in this year that a Barbarian chieftain, "Odavacer" (sometimes spelled "Odoacer") deposed the child emperor of West, Augustulus.
