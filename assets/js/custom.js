@@ -9,6 +9,7 @@ $(document).ready(function(){
   
     
     if (postRelease){
+      $(".dquestion").append("<span style='display: inline; font-size: 12px'> (TR)</span>")
       $(".dquestion").next(".answer").css("display", "block");
     }
     else{
