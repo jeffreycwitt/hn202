@@ -5,7 +5,7 @@ description: "The Medieval Legacy of Monasticism."
 readings: ""
 published: true
 date: 2022-02-01
-nav_order: 4
+nav_order: 5
 moodleId: 3109211
 ---
 
