@@ -9,6 +9,11 @@ nav_order: 6
 moodleId: 3111216
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
+1. TOC 
+{:toc}
+
 # Introductory Note
 
 We have a lot of history to cover today. What follows therefore will include lots of historical notes and bullet point lists. Please use these lists, combined with our reading, to develop your own narrative that you can think and walk through on your own. The goal of course is not that you can read and report someone else's notes, but that you yourself possess a sense of this narrative and could walk someone else through it. So after reading, step away from the class notes for a while and try to see if you can walk yourself (perhaps in your own notebook or talking to yourself aloud) through the main events. When you find places in your own account that are fuzzy, create an annotation and we can work through this places of un-clarity together. Likewise, if there are dates, events, or ideas that you think need to be added to our class narrative, please suggest them and tell us why they should be added using a "page annotation".

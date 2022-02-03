@@ -9,6 +9,11 @@ nav_order: 5
 moodleId: 3109211
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
+1. TOC 
+{:toc}
+
 # Intro 
 
 Our goals for today are to get a general understanding of how Monasticism spread, developed, and continually reformed itself during the course of the Middle Ages. 
