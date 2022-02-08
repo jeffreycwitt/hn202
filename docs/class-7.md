@@ -231,9 +231,9 @@ Like Augustine, Muhammad has put forward a doctrine that asserts a kind of pilgr
 Why does the author say that this creates a new sense of "individualism"
 
 <div class="answer" markdown="1">
-If one believed they could act in a certain way because of their blood or family times, the doctrine of the day of judgment, challenges this. It says, you will be judged as an individual. 
+If one believed they could act in a certain way because of their blood or family times, the doctrine of the day of judgment challenges this. It says, you will be judged as an individual. 
 
-It also changes your self-interested calculus. It creates the possibility that the demands of the community might work at cross purposes with your individual interest. If the community demands something that will be judged on the last day, one has to choose one value system over the other.
+It also changes your self-interest calculus. It creates the possibility that the demands of the community might work at cross purposes with your individual interest. If the community demands something that will be judged on the last day, one has to choose one value system over the other.
 </div>
 </div>
 
