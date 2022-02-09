@@ -220,9 +220,9 @@ At this point we can introduce [Al-Shafi'i](https://en.wikipedia.org/wiki/Al-Sha
 
 Al Shafi'i helps find a middle ground between the Traditionalist and the Rationalists by providing a kind synthesis. As a result, he helps shape the canonical hadith literature that emerges in the 9th century.
 
-How does he provide this synthesis:
+How does he provide this synthesis?
 
-**First**, in a nod to the traditionalists, Al-Shafi'i justifies portions of the Hadith literature by asserting that Muhammad is not only the "deliver of the message" but also the "interpreter" 
+**First**, in a nod to the traditionalists, Al-Shafi'i justifies portions of the Hadith literature by asserting that Muhammad is not only the "deliver of the message" but also the "interpreter".
 
 The Quran does not stand alone. In order to be understood it has to be interpreted, and Muhammad is the true interpreter.
 
@@ -232,11 +232,11 @@ The Quran does not stand alone. In order to be understood it has to be interpret
 {:.answer}
 Perhaps Cassiodorus
 
-How can Muhammad function as "interpreter"? Certainly, he could provide explicit instruction, but he could also interpret the Quran through his recorded "practice" (or "Sunna"). 
+How can Muhammad function as "interpreter"? Certainly, he could provide explicit instruction, but he could also interpret the Quran through his "practice" (or "Sunna") which was recorded in the Hadith.
 
 **Second**, Al Shafi'i pacifies the rationalists by developing a **method** which could help keep the Hadith literature from expanding out of control and leading to inconsistent and conflicting interpretations (making it unusable for political decision making).
 
-So, with respect to the Hadith he developed some principles. For example:
+So, with respect to the Hadith, he developed some principles. For example:
 
 He privileged the Prophet's Sunna as necessary Hadiths for interpretation, but he also insisted on a rigorous criticism of the subsequent Hadith literature and he limited the number of Hadiths, and thereby help preserved the Orthodoxy of the Rationalists (See Ruthven, p. 135).
 
@@ -255,7 +255,7 @@ In sum, Al-Shafi'i is known for founding the science of "fiqh", which basically 
 
 The "four roots" of *fiqh* (as described by Ruthven, p. 138) are: the Quran, the Prophet's Sunna, consensus of community, and analogical reasoning.
 
-The result of the architecture is know today as *Sharia Law* or the Divine Law of the Islamic community. Al-Shafi'i stands behind it as its chief architect.
+The result of this architecture is know today as *Sharia Law* or the Divine Law of the Islamic community. Al-Shafi'i stands behind it as its chief architect.
 
 <!-- [cut below]
 
@@ -294,7 +294,7 @@ It's through this lens of interpretation and justification that I would like to 
 
 # Key takeaways
 
-* The basic transitions from the Umayyad to the Abbasid Dynasty
+* The basic transition from the Umayyad to the Abbasid Dynasty
 * The political problems faced by the new Abbasid Empire
 * How the Hadith tradition offered a way to resolve some of these challenges.
 
