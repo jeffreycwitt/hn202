@@ -93,7 +93,7 @@ Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us unders
 
 # The Hadith Tradition
 
-With this in the background, I'd like to consider some of the political challenges facing the Abbasids and how the Hadith tradition and Al-Shafi'i's work help to meet these challenges.
+With this in the background, I'd like to consider some of the political challenges facing the Abbasids and how the Hadith tradition and Al-Shafi'i's work helped to meet these challenges.
 
 ## The Problem
 
@@ -113,7 +113,7 @@ But this tax was also burdensome, and understandably lots of people wanted to co
 
 Second: The vast size of Umayyad Empire was unsustainable from a military and political point of view. The dream of a single *umma* was proving to be impossible. 
 
-As the Umayyad Empire fell, the Abbasid Empire replaced it and then contracted. THis contraction left huge geographic areas with Muslim people. These people lived in different localities under different rulers, with different traditions, customs, and protocols. And as new political questions arose, each locality was developing their own answers.
+As the Umayyad Empire fell, the Abbasid Empire replaced it and then contracted. This contraction left huge geographic areas with Muslim people. These people lived in different localities under different rulers, with different traditions, customs, and protocols. And as new political questions arose, each locality was developing their own answers.
 
 For both of theses reasons, the question become pressing: 
 
@@ -142,16 +142,16 @@ On the surface, it seems like the core requirements of Islam (confession, prayer
 But can we imagine ways that, in a political context, these requirements are raising new kind of questions. 
 
 {:.dquestion}
-Consider, for example, questions that might arise about the command for everyone in the community to pray at a specified hour? Think about the command in a modern context, in your world, what problems might arise if everyone followed such a command, leading you to a desire for clarification and nuance? Do you see an examples of these kinds of questions arising in our assigned sample Hadiths?
+Consider, for example, questions that might arise about the command for everyone in the community to pray at a specified hour? Think about the command in a modern context, in your world. What problems might arise if everyone followed such a command leading you to a desire for clarification and nuance? Do you see any examples of these kinds of questions arising in our assigned reading sample Hadiths?
 
 {:.answer}
 What if you were driving at the required time of prayer? Is there an exception? Can I do my prayer later?
-What if you were a bus driving driving at the required time?
+What if you were a bus driver driving at the required time?
 What if you were an airplane pilot?
-What if you were a policeman our guard?
+What if you were a policeman or guard?
 
 {:.dquestion}
-Consider Islam under the Umayyad dynasty, where vasts amount of people remain unconverted, why might these questions have been less pressing?
+Consider Islam under the Umayyad dynasty, where vasts amount of people remain unconverted. Why might these questions have been less pressing?
 
 <div class="answer" markdown="1">
 
@@ -159,14 +159,14 @@ With a large community of non-muslims, society could use existing people and exi
    
 (An analogous example might be: what side of the road should we drive on? Well the Quran doesn't tell us, but people in this region have always been driving on the right, so let's keep doing that.)
 
-And in our example, we could use local, non-muslim, people to avoid political problems arising from the proscribed islamic practice.
+And in our example, we could use local, non-muslim, people to avoid political problems arising from the proscribed Islamic practice.
 
 </div>
 </div>
 
-As the number of questions grow, and as the number people convert to Islam, we start to see a diversification of political practices, to the point that idea of a recognizable global islamic community is threatened. 
+As the number of questions grow, and as the number people convert to Islam, we start to see a diversification of political practices, to the point that idea of a recognizable global Islamic community is threatened. 
 
-At this point, we might object however: the original islamic community at Medina did not have non-Muslims to help plug political holes. Nor was there an existing set of local customs and protocols that could answer political questions that arise for various problems. 
+At this point, we might object: the original Islamic community at Medina did not have non-Muslims to help plug political holes. Nor was there an existing set of local customs and protocols that could answer political questions that arise for various problems. 
 
 <div class="discussion" markdown="1">
 
@@ -174,10 +174,10 @@ At this point, we might object however: the original islamic community at Medina
 Why didn't the first generation of Muslims need a complex code of written law? 
 
 {:.dquestion} 
-If you wanted to know whether you could brush your teeth while you were fasting, why didn't you need to consult big legal code? Do the example hadiths from our reading offering any suggestions?
+If you wanted to know whether you could brush your teeth while you were fasting, why didn't you need to consult a big legal code? Do the example Hadiths from our reading offer any suggestions?
 
 {:.answer}
-You could just as Muhammad yourself.
+You could just ask Muhammad yourself.
 
 {:.dquestion}
 And why, in many cases, was it unnecessary to even ask the prophet for direct instruction?
@@ -189,7 +189,7 @@ You could just observe what he does. His practice. (The "Sunna" of the Prophet).
 
 The need for more detailed guidance on specific issues is the impetus behind the collections that make up the Hadith. The Hadith recorded the practice of the prophet and other Muslims considered holy or exemplary. As such they became a kind of way to consult the prophet or other holy muslims about specific questions even after they had died.
 
-So the Hadith's hold a lot of promise for providing the kind of explicitly islamic political guidance needed by the islamic community under the new Abbasid regime. 
+So the Hadiths hold a lot of promise for providing the kind of explicitly Islamic political guidance needed by the Islamic community under the new Abbasid regime. 
 
 <div class="discussion" markdown="1">
 
@@ -200,7 +200,7 @@ But what new kinds of problems might arise through the organic collection of "su
 Lots of Hadiths means the possibility of conflicting Hadiths. 
 </div>
 
-# The Traditionalists, Rationalists, and the Synthesis of fo Al-Shafi'i
+# The Traditionalists, Rationalists, and the Synthesis of Al-Shafi'i
 
 With the need for the Hadith to provide more detailed instruction about how the Islamic community should conduct itself, there began to arise questions about to authenticate individual Hadiths and discern between conflicting or spurious Hadiths.
 
