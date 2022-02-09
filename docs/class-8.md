@@ -13,7 +13,7 @@ moodleId:
 
 Today, I first want to begin with some historical background related to the rise and fall of the Umayyad Empire and the subsequent rise of the Abbasid Empire. 
 
-Second, I want to look some of the unique political challenges that the Abbasid empire and how the development of the Hadith tradition can be see a mechanism or tool for addressing these challenges.
+Second, I want to look at some of the unique political challenges that the Abbasid Empire faced and how the development of the Hadith tradition can be see a mechanism or tool for addressing these challenges.
 
 # Conquest under Umayyad dynasty
 
@@ -69,7 +69,7 @@ The point I glean from Greek's research is simply that Martel's resistance was o
 
 # The emergence of Abbasid empire (750-1258)
 
-Let's turn next to rise the Abassid Empire with a quick overview, and then we can connect this directly with our reading of some extracts from the hadith. 
+Let's turn next to rise the Abbasid Empire with a quick overview, and then we can connect this directly with our reading of some extracts from the hadith. 
 
 Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us understand the decline of the Umayyads and their replacement by the Abbasids. Here, in bullet form, I review some of the highlights. (Please annotate and comment on entries that seem to you especially important or would benefit from more class discussion.)
 
@@ -142,7 +142,7 @@ On the surface, it seems like the core requirements of Islam (confession, prayer
 But can we imagine ways that, in a political context, these requirements are raising new kind of questions. 
 
 {:.dquestion}
-Consider, for example, questions that might arise about the command for everyone in the community to pray at a specified hour? Think about the command in a modern context, in your world, what problems might arise if everyone followed such a command, leading you to a desire for clarification and nuance? Do you see an examples of these kinds of questions arising in our assigned sample hadiths?
+Consider, for example, questions that might arise about the command for everyone in the community to pray at a specified hour? Think about the command in a modern context, in your world, what problems might arise if everyone followed such a command, leading you to a desire for clarification and nuance? Do you see an examples of these kinds of questions arising in our assigned sample Hadiths?
 
 {:.answer}
 What if you were driving at the required time of prayer? Is there an exception? Can I do my prayer later?
@@ -253,7 +253,7 @@ What is the function of the *isnad* and how does it relate to this kind of rigor
 
 In sum, Al-Shafi'i is known for founding the science of "fiqh", which basically means jurisprudence. Most notably he defined the sources that should be used in decision making and the application of Islamic principles in specific and unique cases. 
 
-The "four roots" of *fiqh* (as described by Ruthvenp. 138) are: the Quran, the Prophet's Sunna, consensus of community, and analogical reasoning.
+The "four roots" of *fiqh* (as described by Ruthven, p. 138) are: the Quran, the Prophet's Sunna, consensus of community, and analogical reasoning.
 
 The result of the architecture is know today as *Sharia Law* or the Divine Law of the Islamic community. Al-Shafi'i stands behind it as its chief architect.
 
