@@ -69,13 +69,13 @@ The point I glean from Greek's research is simply that Martel's resistance was o
 
 # The emergence of Abbasid empire (750-1258)
 
-Let's turn next to rise the Abbasid Empire with a quick overview, and then we can connect this directly with our reading of some extracts from the hadith. 
+Let's turn next to the rise of the Abbasid Empire with a quick overview, and then we can connect this directly with our reading of some extracts from the hadith. 
 
 Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us understand the decline of the Umayyads and their replacement by the Abbasids. Here, in bullet form, I review some of the highlights. (Please annotate and comment on entries that seem to you especially important or would benefit from more class discussion.)
 
-* The Abassids partnered with disgruntled Shia Mulawi (converts) and other holy men 'ulama who were dissatisfied with the general monarchial decadence of the Umayyad rulers.
+* The Abbasids partnered with disgruntled Shia Mulawi (converts) and other holy men ('ulama) who were dissatisfied with the general monarchial decadence of the Umayyad rulers.
 * This transition to power originally had Shia support and a Shia inspiration.
-* But this alliance was quickly betrayed as the Abassids gained power.
+* But this alliance was quickly betrayed as the Abbasids gained power.
 * Some key achievement of Abbasid Empire include:
   * The capital is moved from Damascus to Baghdad (closer to the old Persian capital).
   * Peter Brown calls this the Persianization of the empire, which includes increased interaction and involvement of non-arab muslims.
@@ -85,9 +85,9 @@ Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us unders
   * Caliphs funded translations into Arabic of Greek and Persian texts of science, geography, mathematics, philosophy, and medicine.
   * In 830 a library/research institute was established, known in english as the "House of Wisdom". 
   * The "House of Wisdom" was partly established to create translations but also to conduct research.
-  * The primary text of interests were texts dealing with Greek science (Greek plays, poems, etc. were not of as much interest) and philosophy. These texts were likely transported to Baghdad from Constantinople for the purposes of making copies and translations.
-  * One major project was a translation of Aristotle in Arabic, spawning major commentaries that would dramatically affect the interpretation of Aristotle in the West.
-    * Aristotle was particularly interesting because of the comprehensiveness of his work.
+  * The primary texts of interests were those dealing with Greek science (Greek plays, poems, etc. were not of as much interest) and philosophy. These texts were likely transported to Baghdad from Constantinople for the purposes of making copies and translations.
+  * One major project was a translation of Aristotle into Arabic, spawning major commentaries that would dramatically affect the interpretation of Aristotle in the West.
+    * Aristotle was particularly interesting because of the comprehensiveness nature of his work.
     * Aristotle offers a possible total world synthesis.
   * Abbasid cultural achievements also included the sophisticated development of Hadith tradition. An achievement often attributed to the scholar and jurist Al-Shafi'i's (767-820) (who we will discuss below).
 
