@@ -202,9 +202,9 @@ Lots of Hadiths means the possibility of conflicting Hadiths.
 
 # The Traditionalists, Rationalists, and the Synthesis of Al-Shafi'i
 
-With the need for the Hadith to provide more detailed instruction about how the Islamic community should conduct itself, there began to arise questions about to authenticate individual Hadiths and discern between conflicting or spurious Hadiths.
+With the need for the Hadith to provide more detailed instruction about how the Islamic community should conduct itself, there began to arise questions about how to authenticate individual Hadiths and discern between conflicting or spurious Hadiths.
 
-Within this context, there to be two camps with conflicting ideas of how to proceed.
+Within this context, there seem to be two camps with conflicting ideas of how to proceed.
 
 **Traditionalist** grew fond of Hadiths important to their locality and to holy figures important to their locality. By analogy, we're talking about something like the cult of saints seen in Christianity. 
 
