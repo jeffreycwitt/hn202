@@ -191,7 +191,7 @@ The need for more detailed guidance on specific issues is the impetus behind the
 
 So the Hadith's hold a lot of promise for providing the kind of explicitly islamic political guidance needed by the islamic community under the new Abbasid regime. 
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 {:.dquestion}
 But what new kinds of problems might arise through the organic collection of "sunna" by lots of different people in lots of different places?
@@ -240,7 +240,7 @@ So, with respect to the Hadith he developed some principles. For example:
 
 He privileged the Prophet's Sunna as necessary Hadiths for interpretation, but he also insisted on a rigorous criticism of the subsequent Hadith literature and he limited the number of Hadiths, and thereby help preserved the Orthodoxy of the Rationalists (See Ruthven, p. 135).
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 How do we see an example of this emphasis on rigor and method in the Hadith excerpts we read for today? 
 
 {:.rquestion}
