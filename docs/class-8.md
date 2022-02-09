@@ -42,9 +42,9 @@ But Umayyad forces did not stop in Iberia, they crossed the Pyrenees and attempt
 
 ### A note on the Battle of Tours and the modern "use" of history.
 
-As the story is typically told, the invading forces suffered a defeat here at the hands of an army led by a Frankish military leader, Charles Martel (or Charles the Hammer). (Don't forget this name as were going to come back to this figure on Thursday). They then retreated back behind the mountains, content to control the Iberian Peninsula. 
+As the story is typically told, the invading forces suffered a defeat in Tours in 732 at the hands of an army led by a Frankish military leader, Charles Martel (or Charles the Hammer). (Don't forget this name as we are going to come back to this figure on Thursday). The Umayyads then retreated back behind the mountains, content to control the Iberian Peninsula. 
 
-Given our class's early discussion of the relevance and "uses" of history -- i.e. that the way history gets told often has a lot to do with how we want to understand the present and shape the future -- this is a great place for us to briefly reflect on.
+Given our class's early discussion of the relevance and "uses" of history -- i.e. that the way history gets told often has a lot to do with how we want to understand the present and shape the future -- this is a great place for us to briefly reflect.
 
 You may remember, in 2019 there was a horrific attack on a Mosque in Christchurch, New Zealand. 51 people died and 40 we're injured. 
 
