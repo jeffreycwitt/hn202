@@ -123,7 +123,7 @@ The new task, then, as Ruthven notes, is:
 
 > "[the Abbaids] must find Islamic solutions to the problems the Umayyads had often solved by recourse to of Graeco-Roman precedents." (Ruthven, p. 129)
 
-## The Hadiths as Resolution
+## The Hadith as Resolution
 
 The emergence and organization of the Hadith literature is part of this response, but before we look at it directly, I'd like us to try to imagine the need for it in a more organic way. 
 
