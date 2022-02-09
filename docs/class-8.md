@@ -123,6 +123,8 @@ The new task, then, as Ruthven notes, is:
 
 > "[the Abbaids] must find Islamic solutions to the problems the Umayyads had often solved by recourse to of Graeco-Roman precedents." (Ruthven, p. 129)
 
+## The Hadiths as Resolution
+
 The emergence and organization of the Hadith literature is part of this response, but before we look at it directly, I'd like us to try to imagine the need for it in a more organic way. 
 
 Let's assume the core of Islamic identify is the practice of the 5 pillars of Islam. 
@@ -198,7 +200,7 @@ But what new kinds of problems might arise through the organic collection of "su
 Lots of Hadiths means the possibility of conflicting Hadiths. 
 </div>
 
-# The Traditionalists and the Rationalists. 
+# The Traditionalists and the Rationalists and the Synthesis of fo Al-Shafi'i
 
 With the need for the Hadith to provide more detailed instruction about how the Islamic community should conduct itself, there began to arise questions about to authenticate individual Hadiths and discern between conflicting or spurious Hadiths.
 
