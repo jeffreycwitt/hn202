@@ -13,7 +13,7 @@ moodleId:
 
 Today, I first want to begin with some historical background related to the rise and fall of the Umayyad Empire and the subsequent rise of the Abbasid Empire. 
 
-Second, I want to look at some of the unique political challenges that the Abbasid Empire faced and how the development of the Hadith tradition can be see a mechanism or tool for addressing these challenges.
+Second, I want to look at some of the unique political challenges that the Abbasid Empire faced and how the development of the Hadith tradition can be seen as a mechanism or tool for addressing these challenges.
 
 # Conquest under Umayyad dynasty
 
