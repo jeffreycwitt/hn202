@@ -200,7 +200,7 @@ But what new kinds of problems might arise through the organic collection of "su
 Lots of Hadiths means the possibility of conflicting Hadiths. 
 </div>
 
-# The Traditionalists and the Rationalists and the Synthesis of fo Al-Shafi'i
+# The Traditionalists, Rationalists, and the Synthesis of fo Al-Shafi'i
 
 With the need for the Hadith to provide more detailed instruction about how the Islamic community should conduct itself, there began to arise questions about to authenticate individual Hadiths and discern between conflicting or spurious Hadiths.
 
