@@ -4,10 +4,16 @@ layout: lecture
 description: "Islamic Empires and the Development of Islamic Law"
 readings: ""
 published: true
-date: 2022-02-10
+date: 2022-02-09
 nav_order: 8
-moodleId: 
+moodleId: 3078731
 ---
+
+## Table of contents
+{: .no_toc .text-delta } 
+1. TOC 
+{:toc}
+
 
 # Intro
 
