@@ -76,7 +76,7 @@ Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us unders
 * The Abbasids partnered with disgruntled Shia Muwali (converts) and other holy men ('ulama) who were dissatisfied with the general monarchial decadence of the Umayyad rulers.
 * This transition to power originally had Shia support and a Shia inspiration.
 * But this alliance was quickly betrayed as the Abbasids gained power.
-* Some key achievement of Abbasid Empire include:
+* Some key achievements of Abbasid Empire include:
   * The capital is moved from Damascus to Baghdad (closer to the old Persian capital).
   * Peter Brown calls this the Persianization of the empire, which includes increased interaction and involvement of non-arab muslims.
   * This shift changes the center of gravity further east and further away from the Mediterranean.
