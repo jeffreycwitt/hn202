@@ -127,7 +127,7 @@ What makes our society -- now full of Arabs and non Arabs -- Islamic? What makes
 
 The new task, then, as Ruthven notes, is:
 
-> "[the Abbaids] must find Islamic solutions to the problems the Umayyads had often solved by recourse to of Graeco-Roman precedents." (Ruthven, p. 129)
+> "[the Abbaids] must find Islamic solutions to the problems the Umayyads had often solved by recourse to Graeco-Roman precedents." (Ruthven, p. 129)
 
 ## The Hadith as Resolution
 
