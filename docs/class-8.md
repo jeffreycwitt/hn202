@@ -73,7 +73,7 @@ Let's turn next to the rise of the Abbasid Empire with a quick overview, and the
 
 Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us understand the decline of the Umayyads and their replacement by the Abbasids. Here, in bullet form, I review some of the highlights. (Please annotate and comment on entries that seem to you especially important or would benefit from more class discussion.)
 
-* The Abbasids partnered with disgruntled Shia Mulawi (converts) and other holy men ('ulama) who were dissatisfied with the general monarchial decadence of the Umayyad rulers.
+* The Abbasids partnered with disgruntled Shia Muwali (converts) and other holy men ('ulama) who were dissatisfied with the general monarchial decadence of the Umayyad rulers.
 * This transition to power originally had Shia support and a Shia inspiration.
 * But this alliance was quickly betrayed as the Abbasids gained power.
 * Some key achievement of Abbasid Empire include:
