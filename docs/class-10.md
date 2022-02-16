@@ -17,7 +17,7 @@ moodleId:
 # Review
 
 Some Key Dates. 
-
+<div class="discussion" markdown="1">
 {:.rquestion}
 What’s important about these dates? How do they help us tell our story?
 
@@ -27,57 +27,63 @@ What’s important about these dates? How do they help us tell our story?
 * 751
 * 754
 * 800
+  
+</div>
 
-800 is date we didn't get a chance to say too much about.
+800 is a date we didn't get a chance to say too much about.
 
-If you recall, Rosenwein suggested that Carolingian success had something to do with the way Charlemagne effectively used the symbols of Rome to his advantage. But that he also deviated from Roman practices and innovated when it was to his advantage. 
+If you recall, Rosenwein suggested that Carolingian success had something to do with the way Charlemagne effectively used the symbols of Rome to his advantage, while at the same time deviating from Roman practices and innovating when it was to his advantage. 
 
-The events of Christmas Day 800 capture this tension to some extent. (See SHMA, p.100)
+The events of Christmas Day 800 capture this tension to some extent (see SHMA, p.100).
 
-* Charlemagne takes on the title of "Augustus" and Emperor. (which is very roman)
-* But he is crowned by the Pope. (Rather un-roman). 
+* Charlemagne takes on the title of "Augustus" and Emperor (which is very Roman)
+* But he allows himself to be crowned by the Pope (which is rather un-roman). 
 
 We can also see slightly different interpretations of this event.
 
-How might the Pope interpret these events? If the pope can crown the emperor, perhaps the pope can "uncrown"? At the very least, the authority of the emperor seems to flow through the Pope.
+How might the Pope interpret this event? If the pope can crown the emperor, perhaps the pope can "uncrown" an emperor? At the very least, the authority of the emperor seems to flow through the Pope.
 
-Charlemange, however, later calls himself "serene Augustus, crowned by God". The suggestion is that Charlemange's power comes directly from God. The Pope involvement is a witness to this direct authority, not the mediator.
+Charlemagne, however, later calls himself "serene Augustus, crowned by God". The suggestion is that Charlemagne's power comes directly from God. The Pope's involvement is a witness to this direct authority, not a necessary mediator.
 
 Here we see the seeds for several controversies that will follow in the Middle Ages. 
 
 Generally, the debate is about the relation between secular and spiritual powers and where the secular receives it power. 
 
-Within the debate there is common assumption that political authority comes from God, but a debate about how that power is transferred. The Medieval "Hierocratic" view believes that God transfers power to the pope or the spiritual leader who then transfers that to the secular princes. 
+Within the debate there is common assumption that all political authority comes from God, but a debate about how that power is transferred. The Medieval "Hierocratic" view believes that God transfers power to the pope who then transfers part of that power to secular princes. 
 
-The contrasting view is that God appoints one ruler to care for the spiritual needs of people and another ruler with jurisdiction over secular concerns. Neither has jurisdiction over the other and both receive their authority directly from God. In theory they powers should not conflict since their jurisdictions are over separate spheres. 
+The contrasting view is that God appoints one ruler to care for the spiritual needs of people and another ruler with jurisdiction over secular concerns. Neither has jurisdiction over the other and both receive their authority directly from God. In theory, these powers should not conflict since their jurisdictions are over separate spheres. 
 
 <div class="discussion" markdown="1">
 
-{:.rquestion}
-But can we think of examples of how the separation of jurisdictions, in practice, might not be so clear. 
+{:.dquestion}
+But can we think of examples of how these theoretically separate jurisdictions might conflict in practice? 
 
+<div class="answer" markdown="1">
 For example: 
-* Discipline of clergy who injury not clergy
-* Collection revenues from a church or monastery or the vassals of the land connected to a church or monastery. Is the church or monastery itself a vassal of who? Should the church collect revenue at all? etc. 
+
+* Discipline of clergy who injury non-clergy
+* Collection revenues from a church or monastery or the vassals of the land connected to a church or monastery. Is the church or monastery itself a vassal? of whom? Should the church collect revenue at all? etc. 
+
+</div>
   
 </div>
 
-In any case, this will be a perpetual that we will see below as well as in the later Middle Ages. For now, let's turn to the decline of the Carolingian Empire adn the conditions leading to the First Crusade.
+In any case, this will be a perpetual conflict that we will see below, as well as in the later Middle Ages. For now, let's turn to the decline of the Carolingian Empire and the conditions leading up to the First Crusade.
  
 # Decline of the Carolingian Empire
 
 In 814 Charlemagne dies and is succeeded by his son, Louis the Pious (r. 814-840).
 
-Louis the Pious is often considered well meaning, but he suffered from at least two big problems.
+Louis the Pious is often considered well meaning, but his rule suffered from at least two big problems.
 
-1. Viking Invasions (1st part of the 9th century)
-   1. Several coastal areas (western France) were lost between 814-840 (see SHMA 130-134).
-2. His sons fought amongst themselves and against their father. (This created civil wars that were beginning to break up the empire into the areas look closer to what we see on a modern map.)
+1. Viking Invasions (especially during the first part of the 9th century)
+   1. Several coastal areas (western Francia) were lost between 814-840 (see SHMA 130-134).
+2. His sons fought amongst themselves and against their father. (This created civil wars that were beginning to break up the empire into areas that look more similar to what we see on a modern map.)
 
 The conflicts between the sons of Louis the Pious are particularly well illustrated in the events following Louis’ death in 840.
 
 * Lothar, the eldest son, claims the title of emperor. As eldest son, this may seem somewhat understandable, but we should note that it was a Frankish custom (Merovingian and Carolingian) to divide the kingdom up among a King’s surviving sons (as the 806 arrangement by Charlemagne made clear).
-* But the even greater offense was that Lothar supported his nephew Pippin (grandson of Louis the Pious) to rule Aquitaine over Charles the Bald. Charles the Bald was Lothar's brother and direct son of Louis the Pious and Charles had been expressly granted the area by Louis the Pious himself. 
+* But the even greater offense was that Lothar supported his nephew Pippin (grandson of Louis the Pious) to rule Aquitaine over Charles the Bald. Charles the Bald was Lothar's brother and direct son of Louis the Pious, and Charles had been expressly granted the area by Louis the Pious himself. 
 * No one was very happy with Lothar. Lothar’s brothers, Louis the German and Charles the Bald, joined forces and went to war against Lothar. 
 * The end result was a victory by the united brothers against Lothar. This victory persuaded Lothar to give up his claim to be sole emperor and to negotiate a division of Charlemagne’s original empire. 
 
@@ -85,22 +91,21 @@ This division is known as the Treaty of Verdun which was signed in 843.
 
 ![Treat of Verdun Map]({{site.assets_url}}Treaty_of_Verdun_843.svg)
 
-
-The agreement of this treaty included the following conditions:
+There are few things to note about the treaty.
 
 * One part (the western part, seen in orange) would go to Charles the Bald. 
   * It would become Western Francia and starts to resemble modern day France.
-* The eastern part (seen in green) would go to Louis the German,
+* The eastern part (seen in green) would go to Louis the German.
   * This would be come Eastern Francia and begins to resemble something like modern day West Germany.
 * Lothar (the eldest son) would rule the middle part (seen in purple) from Frisia (modern day Netherlands) to Rome. 
   * This is the most prestigious and richest part of the empire. It includes Aachen and Rome. 
   * The problem is that this geographic area is very hard to defend.
   * The Alps effectively cut off the North from the South.
-  * It is, therefore, not a complete surprise today then that we see this area divided into many different nations.
+  * It is, therefore, not a complete surprise today that we see this area divided into many different nations.
   * It has been the center many conflicts throughout history.
-    * For example: a great deal World War I on the Western Front takes place in the Northern part of Lothar’s kingdom.
+    * For example: a great deal World War I on the Western Front took place in the northern part of Lothar’s kingdom.
 * After the Treaty of Verdun, the title of Holy Roman Emperor was increasingly irrelevant.
-  * For example, Charles the Fat (son of Louis the German) was “called emperor” but was fairly ineffectual. 
+  * For example, Charles the Fat (son of Louis the German) was "called emperor" but was fairly ineffectual. 
 * In Germany, the Carolingian dynasty dies out in 911 (reclaimed by Otto in 962).
 * In France, the Carolingian dynasty remains until 987 (replaced by the Capetian dynasty).
 
@@ -109,7 +114,7 @@ The agreement of this treaty included the following conditions:
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-So, what was political life like in the 10 and 11th centuries, after the treaty of Verdun, and after the Carolingian lines had ended in both East Francia (German) and West Francia (France)? (Consider SHMA pp. 135-150 and the introduction of our "First Crusade Reader"; can you point us to any relevant passages?)
+So, what was social and political life like in the 10th and 11th centuries, after the Treaty of Verdun, and after the Carolingian lines had ended in both East Francia (German) and West Francia (France)? (Consider SHMA pp. 135-150 and the introduction of our "First Crusade Reader"; can you point us to any relevant passages?)
 
 <div class="answer" markdown="1">
 
@@ -124,7 +129,7 @@ Here is a map of Europe in the 11th century showing the kind of political fragme
 
 ![Holy Roman Empire around 11th century]({{site.assets_url}}Holy_Roman_Empire_11th_century.svg)
 
-This fragmentation had serious and long term consequences.
+This fragmentation had serious and long-term consequences.
 
 Rosenwein write: 
 
@@ -142,9 +147,9 @@ And again:
 
 > "Sometimes these subordinates held land from their lord as a reward for their military service or as an inheritance for which services were due. The term for such an estate, fief (foedum), gave historians the word "feudalism" to describe the social and economic system created by the relationships among lords, vassals, and fiefs." (SHMA, pp. 135-136)
 
-In short, what we call Germany and France in 10th century were more a like a series of principalities, over whom kings (and even the so-called emperor) had little power.
+In short, what we call Germany and France in 10th century were more like a series of principalities, over whom kings (and even the so-called emperor) had little power.
 
-This political fragmentation and resulting political landscape gave rise to a couple of related phenomena in the 10th century (both of which are mentioned in our "The First Crusade" (TFC))
+This political fragmentation and resulting political landscape gave rise to a couple of related phenomena in the 10th century (both of which are mentioned in our "The First Crusade" (TFC) reader.)
 
 1. The need for church reform (TFC, pp. 4-6 )
 2. The rise of an unruly military class (TFC, pp. 7-13)
@@ -174,9 +179,9 @@ The first Cluny house was established in 909, but its foundation was unique.
 
 Instead of relying on protection from a local prince or even a local bishop (who would have often been an appointee of the local prince), Cluny paid an annual sum directly to Rome for recognition and defense.
 
-The Charter also insisted that Cluny would retain the right to “abbatial election”. They could choose their own abbot rather than having to accept an abbot appointed by the local ruler (or bishop, who, again, was appointed by a local ruler). 
+The Charter also insisted that Cluny would retain the right to "abbatial election". They could choose their own abbot rather than having to accept an abbot appointed by the local ruler (or bishop, who, again, was appointed by a local ruler). 
 
-As we know, Cluny was, by the 11th century, a runaway success, and in the minds of many of its monks and aristocrats sympathetic to church reform this success had a lot to do with its independence from local state control.
+As we know, Cluny was, by the 11th century, a runaway success, and -- in the minds of many of its monks and aristocrats sympathetic to church reform -- this success had a lot to do with its independence from local state control.
 
 It is no accident then that most of the so-called "reforming" popes of the 11th century were former leading monks within Cluny and other similar monastic movements. Robinson writes: 
 
@@ -184,13 +189,11 @@ It is no accident then that most of the so-called "reforming" popes of the 11th 
 
 And...
 
-> "The characteristic accusation which the eleventh-century reformers levelled against their opponents in the Church was that the latter lived *more laicorum*, ‘in the manner of laymen’." (Robinson, *Authority and Resistance*, p. 3)
+> "The characteristic accusation which the eleventh-century reformers levelled against their opponents in the Church was that the latter lived *more laicorum*, 'in the manner of laymen'." (Robinson, *Authority and Resistance*, p. 3)
 
 Monks trained at Cluny had a different attitude about the relationship between church and state. Of foremost importance was the idea that the church should be under its own jurisdiction, removed from the jurisdiction of secular rulers. 
 
-The most well-known reforming pope was Gregory VII, a former monk, who is responsible for demanding “clerical celibacy,” a clerical expectation that we take for granted today but was in no way a universal expectation before the 11th century.
-
-Gregory VII is also responsible for what has come to be known as the "Investiture Controversy": the key controversy with which the introduction to our reader (TFC) begins.
+The most well-known reforming pope was Gregory VII, a former monk. Gregory VII is responsible for what has come to be known as the "Investiture Controversy": the key controversy with which the introduction to our reader (TFC) begins.
 
 Robinson explains:
 
@@ -205,7 +208,7 @@ I think it’s important to keep in mind that this is not just a battle of ideas
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-If we think of the Feudal system and think of churches and monasteries as intermingled in this system, how does the papal attempt to appoint and therefore oversee bishoprics and monasteries materially and economically affect a king like Henry IV?
+If we think of the feudal system and think of churches and monasteries as intermingled in this system, how does the papal attempt to appoint and therefore oversee bishoprics and monasteries materially and economically affect a king like Henry IV?
 
 {:.answer}
 If homage is paid upward to the pope and not to the king, Henry loses an incredible amount of property. By some estimates this could be as much as half of the land under his jurisdiction.
@@ -230,8 +233,6 @@ But in doing so the Papacy and the church at large, through their proposed separ
 
 Through the task of appointing bishops (many of whom functioned as political governors in their local diocese) and demanding jurisdiction over clerical disputes, the church became ever more entangled in the administration of day-to-day or secular affairs. 
 
-Gregory’s excommunication of Henry IV and absolution of all subjects from obedience to Henry IV may be one of the most dramatic examples of the kind of secular impact a supposed spiritual leader can have. 
-
 # Military Reform: the creation of the Christian Warrior
 
 At the same time that these church reforms were taking place, a necessary kind of military reform was also taking place.
@@ -239,7 +240,7 @@ At the same time that these church reforms were taking place, a necessary kind o
 <div class="discussion" markdown="1">
 {:.rquestion}
 
-From our introduction, did you get a some of the problems that we’re being raised? How would you describe the problem in your own words?
+From our introduction, did you get a sense of some of the problems that were being raised? How would you describe the problem in your own words?
 
 </div>
 
@@ -259,7 +260,7 @@ The question is how can these reforming popes (who now control considerable land
 How does the reading suggest they did this? (Look especially at the discussion in the introduction on page 8.)
 
 {:.dquestion}
-What is the proposed typical or traditional Christian response to violence? 
+What is the proposed traditional Christian response to violence and military activity? 
 
 <div class="answer" markdown="1">
 
@@ -289,7 +290,7 @@ In short: war may be necessary, but it is a misery and something to be avoided a
 
 {:.dquestion}
 
-How well do you think this is working for the popes now directly in control of "Christian Lands"?
+How well do you think this is working for the popes, who are now directly in control of "Christian Lands"?
 
 <div class="answer">
 
@@ -305,15 +306,15 @@ The popes and kings still needed people to fight. They needed professional/caree
 So, what is the new strategy that emerges?
 
 {:.answer}
-The Popes attempt to develop a doctrine by which “fighting itself might be considered a penitential and spiritually meritorious act.”
+The Popes attempt to develop a doctrine by which "fighting itself might be considered a penitential and spiritually meritorious act." (TFC, p. 8)
 
 </div>
 
-Concretely, there are couple of different ways the church tried to provide opportunities for this "spiritualized" of warrior activity.
+Concretely, there are couple of different ways the church tried to provide opportunities for this "spiritualized" warrior activity.
 
 ## The Peace and Truce of God 
 
-Prior to the Crusades, there was attempt by the church to suppress and limit this violence through loosely set of rules called the "Peace and Truce of God" (see also SHMA, 138-139).
+Prior to the Crusades, there was attempt by the church to suppress and limit this violence through a loosely defined set of rules called the "Peace and Truce of God" (see also SHMA, 138-139).
 
 <div class="discussion" markdown="1">
 
@@ -332,9 +333,9 @@ The *Peace* was a prohibition against attacking women and children. The *Truce* 
 
 In a primitive way, the church is creating rules and codes of conduct for distinguishing a Christian warrior from a non-Christian warrior. 
 
-These codes of conducts are the background for the elaborate set of rules and codes of conduct that come to dominate courtly literature in the 12th century and the famous virtue known as "Chivalry"(we will see this when we get to Chretien de Troyes and the ideas of “courtly love”.)
+These codes of conducts are the background for the elaborate set of rules and codes of conduct that come to dominate courtly literature in the 12th century and the famous virtue known as "Chivalry" (we will see this when we get to Chretien de Troyes and the ideas of “courtly love”.)
 
-## The call to arms: Christian Kingdom and the Creation of the Other.
+## The Call to Arms: Christian Kingdom and the Creation of the Other.
 
 The other, perhaps more obvious, strategy to help control the emerging warrior class is: give them an external outward enemy and focus their military energy on strengthening the new "Catholic" (that is pro-papal) world-order rather than weakening it with internal strife.
 
@@ -342,22 +343,22 @@ The other, perhaps more obvious, strategy to help control the emerging warrior c
 
 With all this background in mind, let's look at the substance of Pope Urban's Council of Clermont speech (pp. 25-37), calling for crusade. 
 
-What I would like to look for is evidence of this “new” argument for military activity as a Christian virtue (or the“spiritualizing of military activity”) in the accounts of Pope Urban’s speech.
+What I would like to look for is evidence of this "new" argument for military activity as a Christian virtue (or the "spiritualizing of military activity") in the accounts of Pope Urban’s speech.
 
 {:.rquestion}
-What is the "theological argument" for the crusades and certain forms of military conquest. 
+What is the "theological argument" for the Crusade that he gives?
 
 {:.rquestion}
 What are the key premises in the argument?
 
 {:.rquestion}
-How are traditional Christian Bible Verses or Biblical precepts (that could be easily be used as a call to pacifism or monasticism) re-interpreted as a justification of the crusade and the life of war and violence?
+How are traditional Christian Bible verses or Biblical precepts (that could be easily be used as a call to pacifism or monasticism) re-interpreted as a justification of the crusade and the life of war and violence?
 
 {:.rquestion}
 Where does Pope Urban look for models and exemplar?
 
 {:.rquestion}
-Is this evidence of a new vision of pilgrim's proper involvement with the earthly city? How so?
+Is this evidence of a new vision of a pilgrim's proper involvement with the earthly city? How so?
 </div>
 
 # Key Takeaways
@@ -365,11 +366,11 @@ Is this evidence of a new vision of pilgrim's proper involvement with the earthl
 * We detailed the decline of the Carolingian Empire and how it lead to two problems in the 10th and 11th centuries.
   * Proprietary churches and lay abbacies.
   * A professional warrior class
-* We discussed the Investiture Controversy as new paradigm of church-state relations arising directly out of the mentality seen in Cluniac Reforms.
-* And we saw how this new paradigm put a new onus on the Church to deal with the political problems that were resulting from the new unruly military class.
-* Finally, we saw how both the Peace and Truce of God and the call for Crusade could be seen a part of political strategy on the part of the church to meet its new political obligations to maintain and enforce domestic peace.
+* We discussed the Investiture Controversy as new paradigm of church-state relations arising directly out of the world-view seen in Cluniac Reforms.
+* And we saw how this new paradigm put a new onus on the church to deal with the political problems that were resulting from the new unruly military class.
+* Finally, we saw how both the Peace and Truce of God and the call for Crusade could be seen as part of a political strategy on the part of the church to meet its new political obligations to maintain and enforce domestic peace.
 
 # What's Next
 
-* Next we will trace the timeline and main of events of the First Crusade, making sure to compare closely the the way the Crusade is explained and justified in theory to the way it is lived out and executed in practice.
+* Next we will trace the timeline and main of events of the First Crusade, making sure to compare closely the way the Crusade is explained and justified in theory to the way it is lived out and executed in practice.
 
