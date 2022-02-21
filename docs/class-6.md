@@ -326,7 +326,7 @@ With Constantine's death, the ban abated, but there was a second iconoclastic pe
 
 From the perspective of history, these bans by and large advanced the cause of iconophilia. They had the unintended effect of motivating an industrious period of apologetics (defense) on behalf of icons. Icons in the east came to perform a similar role that "relics" in the west would play, and they continue to be an important characteristic of Greek Orthodoxy today.
 
-### Expansion (843-1071)
+## Expansion (843-1071)
 
 After the period of Iconoclasm ended, Byzantium seemed to enjoy a particularly successful period from around 843 to 1071. 
 
