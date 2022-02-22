@@ -65,7 +65,7 @@ Some notes about the Seljuk Turks:
 * And especially important for our story, in 1075, the Turks occupied Jerusalem. 
 
 {:.rquestion}
-In response to these Turkish conquests, in January of 1095, at the Council of Piacenza, and in March of 1095 (See SHMA p. 181 and TFC, p. 52n1-2) Byzantine Emperor Alexios appealed to Pope Urban II for a small band of mercenary knights to fight the Turks who had by this time conquered most of Asia Minor.  
+In response to these Turkish conquests, in January of 1095, at the Council of Piacenza, and in March of 1095 (See SHMA p. 181 and TFC, p. 52n1-2) Byzantine Emperor Alexius appealed to Pope Urban II for a small band of mercenary knights to fight the Turks who had by this time conquered most of Asia Minor.  
 
 {:.question}
 Quick review: How does this show a dramatic difference between the Popes of the Carolingian era and the Popes of the 11th century?
@@ -75,7 +75,7 @@ Quick review: How does this show a dramatic difference between the Popes of the 
 Why might we say this is only a "surface" cause, or as SHMA says "ostensibly", and not a real cause of the Crusade? 
 
 {:.answer}
-Because the preceding two causes -- namely the need for military reform charged with religious inspiration -- suggest that the West in a way already wanted or needed something like a Crusade. The request from Alexios, in effect, provides a convenient cover for what was already brewing.
+Because the preceding two causes -- namely the need for military reform charged with religious inspiration -- suggest that the West in a way already wanted or needed something like a Crusade. The request from Alexius, in effect, provides a convenient cover for what was already brewing.
 </div>
 
 # Tracing the Main Events
@@ -128,7 +128,7 @@ How does Fulcher describe the arrival and meeting at Constantinople? How does th
 Why do you think the emperor felt threatened upon arrival of the crusaders? Does this tell us anything about rival west/east perspectives about the crusading army? 
 
 {:.rquestion}
-Fulcher gives us one perspective. What are the other ways this traveling army is being perceived? How might Alexios tell the story of the arrival differently than Fulcher? 
+Fulcher gives us one perspective. What are the other ways this traveling army is being perceived? How might Alexius tell the story of the arrival differently than Fulcher? 
 
 <!-- He would be very suspicious. 
 
@@ -137,10 +137,10 @@ SHMA, p. 182, "the Norman warrior Bohemond, had, a few years before, tried to co
 So, when an army of 30,000 plus people show up, this is not quite what he had in mind. -->
 
 {:.dquestion}
-Ultimately, why do you think Alexios helped the crusaders? What does he hope to gain from the Crusade?
+Ultimately, why do you think Alexius helped the crusaders? What does he hope to gain from the Crusade?
 
 <div class="answer" markdown="1">
-Alexios makes key leaders swear an oath that the lands conquered would be returned to the Byzantine Empire.
+Alexius makes key leaders swear an oath that the lands conquered would be returned to the Byzantine Empire.
 
 He hopes for protection from Turks. Nicaea, as we will see, is very close to Constantinople. It was once part of the Byzantine Empire, but was recently lost.
 
