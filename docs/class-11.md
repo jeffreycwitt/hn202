@@ -113,7 +113,7 @@ Make sure to read Fulcher's account (see FTC, pp. 62-64) of this arrival and the
 
 (Video Time 21:52 to 28:40)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ezP7Qv_9jl8?start=1312&end1717" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezP7Qv_9jl8?start=1312&end=1717" frameborder="0" allowfullscreen></iframe>
 
 <div class="discussion" markdown="1">
 <!-- 
