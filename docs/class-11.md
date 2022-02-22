@@ -256,7 +256,7 @@ Near the end of the narration, what kind of interpretation and significance do t
 
 (Video Time 49:10 and 1:12:05)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ezP7Qv_9jl8?start=2950&end4325" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezP7Qv_9jl8?start=2950&end=4325" frameborder="0" allowfullscreen></iframe>
 
 <div class="discussion" markdown="1">
 
