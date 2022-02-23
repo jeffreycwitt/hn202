@@ -6,7 +6,7 @@ readings:
 published: true
 date: 2022-02-24
 nav_order: 12
-moodleId: 
+moodleId: 3127728
 ---
 
 ## Table of contents
@@ -16,7 +16,7 @@ moodleId:
 
 # Review
 
-Let's review our list of possible Causes (or Catalysts) of the First Crusade
+Let's review our list of possible causes (or catalysts) of the First Crusade
 
 * Military Reform
 * Ecclesiastical Reform
@@ -32,11 +32,11 @@ Here's what what the introduction to our reader states:
 
 In this light consider the question I pose on the mid-term exam review sheet:
 
-> In what ways might the blurring of the boundaries between the sacred and secular in the run up to the first crusade lead to the development of new and more hostile conception of the "other"?
+> In what ways might the blurring of the boundaries between the sacred and secular in the run up to the First Crusade lead to the development of new and more hostile conception of the "other"?
 
 # Reflecting on Otherness
 
-Let's start with some of our own reflections on otherness.
+Let's start with some of our own reflections on "otherness".
 
 <div class="discussion" markdown="1">
 {:.rquestion}
@@ -105,7 +105,7 @@ The problem, then, is our response to this Other.
 
 One interesting fact to reflect on, which illustrates the power of our response, is the common root for the word “stranger” in our Greco-Latin heritage.
 
-This Greek word, "hostes", is the root of both our words "hostile" and “hospitality” or "host." "Hostes" is a generic word for stranger, but in different contexts it can be used to signify both “guest” or “enemy”.
+This Greek word, "hostes", is the root of both our words "hostile" and “hospitality” or "host." "Hostes" is a generic word for stranger, but in different contexts it can be used to signify both "guest" or "enemy".
 
 So what does a healthy and unhealthy response look like?
 
@@ -115,14 +115,14 @@ She writes:
 
 > "But the other consciousness, the other ego, sets up a reciprocal claim. The native traveling abroad is shocked to find himself in turn regarded as a "stranger" by the natives of neighboring countries. As a matter of fact, wars, festivals, trading, treaties, and contexts among tribes, nations, and classes tend to deprive the concept Other of its absolute sense and to make manifest its relativity; willy-nilly, individuals and groups are forced to realize the reciprocity of their relations." (De Beauvoir, Second Sex, Intro, p. xxiii)
 
-In normal cases, through mutual struggle back and forth, a kind of reciprocity or mutual understanding and compromise occurs. 
+In normal cases, through mutual struggle back and forth, a kind of reciprocity or mutual understanding occurs. 
 
 But in her book, which is focused on the relationship between the sexes, she notes that this "reciprocity" between men and women has not occurred and she wonders why?
 
 <div class="discussion" markdown="1">
 
 {:.rquestion}
-What kinds of things, desires or emotions, push us to resist reciprocity (e.g. to recognize the status of our Other as an independent, creative, and active subject just like ourself) ?
+What kinds of things, desires or emotions, push us to resist reciprocity (e.g. to recognize the status of our Other as an independent, creative, and active subject just like ourself)?
 
 {:.rquestion}
 What kinds of things, desires or emotions, might push us to embrace this reciprocity? (again, e.g. to recognize the status of our Other as an independent, creative, and active subject just like ourself))
@@ -154,9 +154,9 @@ Were there any surprises for you in the first hand accounts of the People's Crus
 
 One surprise for me was, in the midst of many stories about Christian aggression and violence toward Jewish communities, the examples of Christian protection of Jewish communities (see for examples TFC, pp. 110, 114, 118ff). This protection is being offered at the same time that we have other Christians calling for the destruction of these same communities.
 
-This raises a genuine puzzle? How can we explain these contradictory attitudes?
+This raises a genuine puzzle? How can we explain these contradictory Christian attitudes?
 
-This puzzle can be partially be explained through an extended argument put forward by Jeremy Cohen in his book titled: *The Living Letters of the Law: Ideas of the Jew in Medieval Christianity*
+This puzzle can be partially explained through an extended argument put forward by Jeremy Cohen in his book titled: *The Living Letters of the Law: Ideas of the Jew in Medieval Christianity*.
 
 ![book image](https://images.ucpress.edu/covers/300/9780520218703.jpg)
 
@@ -172,11 +172,11 @@ Cohen explains this "special" role with a quotation from Bernard of Clairvaux.
 
 > "As Bernard of Clairvaux...put it in the twelfth century, 'the Jews are not to be persecuted, killed, or even put to flight...Indeed, the Jews are for us the living letters of Scripture, constantly representing the Lord's passion.' For Bernard, as for many medieval churchmen, the Jews embodied a particular reading of Holy Scripture, one that established the truth of Christianity in its own right and illuminated the contrasting Christian exegesis of the Bible." Cohen, *Living Letters of the Law*, p. 2)
 
-We should note that, while Bernard (who is really following an earlier command from Augustine) commands that Jewish communities be protected, this is not a command that comes from the kind of mutual recognition and reciprocity discuseed by de Beauvoir. In many ways, Bernard and Augustine saw Jewish communities living in Christian lands as an important "object", "tool", "instrument" (not as a genuine subject). Jewish communities were for Augustine and Bernard an important object lesson for nearby Christians. They were a living reminder for Christians of the historical pedigree of the Christian faith and the Old Testament prophecies that Christ fulfilled. 
+We should note that, while Bernard (who is really following an earlier position of Augustine) commands that Jewish communities be protected, this is not a command that comes from the kind of mutual recognition and reciprocity discussed by de Beauvoir. In many ways, Bernard and Augustine saw Jewish communities living in Christian lands as an important "object", "tool", or "instrument" (not as a genuine subject). Jewish communities were for Augustine and Bernard an important object lesson for nearby Christians. They were a living reminder for Christians of the historical pedigree of the Christian faith and the Old Testament prophecies that Christ fulfilled. 
 
 Nevertheless, this "objectification" had a salutatory effect for Jewish communities living in Europe up until around the time of the First Crusade.
 
-But because this protection was based on the expected "role" Jewish communities were to play (rather than on the mutual recognition of their humanity and subjectivity) this protection was fragile. If Jewish communities ever ceased to function in the way Augustine and Bernard expect them to, the argument for their protection would erode. 
+But because this protection was based on the expected role Jewish communities were to play (rather than on the mutual recognition of their humanity and subjectivity) this protection was fragile. If Jewish communities ever ceased to function in the way Augustine and Bernard expect them to, the argument for their protection would erode. 
 
 And this is precisely what Cohen observes. He writes: 
 
@@ -195,7 +195,7 @@ With this background in mind, I'd like to look back at our primary source readin
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-In our reading: what kind of evidence we can find for the erosion of the previous identity of the Jewish communities (which required a protected status). Where do we see the emergence of a new view of Jewish identity, one that no longer deserved this protected status. (consider especially TFC,p. 113, 115)
+In our reading: what kind of evidence can we find for the erosion of the previous identity of the Jewish communities (which required a protected status). Where do we see the emergence of a new view of Jewish identity, one that no longer deserved this protected status. (consider especially TFC, p. 113, 115)
 
 <div class="answer" markdown="1">
 
@@ -214,7 +214,7 @@ The Legitimacy of forced conversion:
 </div>
 
 {:.dquestion}
-To what extend can see the Crusade or the Crusading ideology contributing to this shift in status? (Again see for example, TFC, pp. 113-114; see also p. 53 in the introduction). In particular, are there any possible connections between the growing identification of western Europe as an earthly representative of the City of God and the rise of a new conception the Jew as monstrous or dangerous "Other"?
+To what extent can we see the Crusade or the Crusading ideology contributing to this shift in status? (Again see for example, TFC, pp. 113-114; see also p. 53 in the introduction). In particular, are there any possible connections between the growing identification of western Europe as an earthly representative of the City of God and the rise of a new conception the Jew as a monstrous or dangerous "Other"?
 
 <div class="answer" markdown="1">
 
@@ -242,7 +242,7 @@ We can also see this in the speeches made by Pope Urban II at Clermont.
 
 Once again, I would reiterate: the shift we begin to see in the 11th century regarding Jewish identity is not necessarily praise for the earlier attitude created by Augustine and echoed by Bernard. 
 
-The protected status of Jewish communities was based on a need or desire to control the subjectivity of the Jewish people as if they were a certain kind of object. The Jew was assigned a specific role to play in Christianity society and was thereby offered protection as long as he or she was perceived to play that role. 
+The protected status of Jewish communities was based on a need or desire to control the subjectivity of the Jewish people as if they were a certain kind of object. The Jew was assigned a specific role to play in Christian society and was thereby offered protection as long as he or she was perceived to play that role. 
 
 But because Jewish people are not objects, but subjects, they ultimately did not conform to the role they were assigned. And as the illusion dismantled, so too did the protected status that was associated with it. 
 
@@ -266,7 +266,7 @@ The requirement for "special dress" shows a concern about intermingling. It show
 
 Art history shows us that these statutes had real effects on society. 
 
-This example shows the various ways Jewish people were required to alter their dress in order to mark themselves as Jewish.
+The examples below show the various ways Jewish people were required to alter their dress in order to mark themselves as Jewish.
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example1.jpg)
 
