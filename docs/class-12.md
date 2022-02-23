@@ -266,7 +266,7 @@ The requirement for "special dress" shows a concern about intermingling. It show
 
 Art history shows us that these statutes had real effects on society. 
 
-The examples below show the various ways Jewish people were required to alter their dress in order to mark themselves as Jewish.
+The first example below show various ways Jewish people were required to alter their dress in order to mark themselves as Jewish.
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example1.jpg)
 
@@ -274,20 +274,20 @@ The second example shows another identification through the recognizable Jewish 
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example2.jpg)
 
-The fairly monstrous way the characters in the above image are portrayed is particularly insidious and upsetting. But it also connects to Cohen's point about the effect of the "rationalization" of Christian theology. The suggestion is that as Christianity began to see itself as supremely rational, it followed that anyone who didn't accept Christianity was thereby supremely irrational and therefore brutish or even monstrous. 
+The monstrous way the characters in the above image are portrayed is particularly insidious and upsetting. But it also connects to Cohen's point about the effect of the "rationalization" of Christian theology. The suggestion is that as Christianity began to see itself as supremely rational, it followed that anyone who didn't accept Christianity was thereby supremely irrational and therefore brutish or even monstrous. 
 
 We can also see that racist and unfounded Jewish physiognomic stereotypes have a root in medieval art. The monstrous depiction suggests exaggerations that were later incorporated into such stereotypes. 
 
-If you're interested in more on this topic, here is a short article by an esteemed scholar Anthony Bale published by the Getty Museum titled [Representing and Misrepresenting Jews in Medieval
+If you're interested in more on this topic, here is a short article by an esteemed scholar, Anthony Bale, published by the Getty Museum titled [Representing and Misrepresenting Jews in Medieval
 Culture](https://www.getty.edu/art/exhibitions/outcasts/downloads/bale_misrepresenting_jews.pdf).
 
-Importantly Bale notes: 
+Importantly, Bale notes: 
 
 > "And in the famous Holkham Bible Picture Book (London, British Library Add. MS 47682) of about 1325, the Jewish face appears in a variety of profile forms, often with a bulbous, bent, or snub nose (as in this example of Jesus debating with the Pharisees and Sadducees). And yet, at the time the Stammheim Missal was produced, it would be hard to prove there was a stable idea or stereotype of the Jewish nose — it would be more accurate to say that the bent or misshapen nose was a sign of sin, violence, and ugliness."
 
-The point here is that at this time there really was no stereotype about a Jewish nose because such a stereotype is in fact a myth. But here we have a clear clue about the origin of this myth. Medieval representations of Jewish people as monstrous or evil leads to an unfounded stereotype about Jewish physiognomic features.
+The point here is that at this time there really was no stereotype about a Jewish nose because such a stereotype is in fact a myth. But here we have a clear clue about the origin of this myth. Medieval representations of Jewish people as monstrous or evil leads to an unfounded stereotype about Jewish physiognomic features that persists today.
 
-Finally, back to canon 68, the most obvious modern legacy of these medieval inventions can be seen in the conscious imitations of these medieval precedents in Nazi Germany.
+Finally, back to canon 68, the most obvious modern legacy of these medieval inventions can be seen in the conscious imitation of these medieval precedents in Nazi Germany.
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example3-Modern.jpg)
 
@@ -303,7 +303,7 @@ Thus, by the end of the Middle Ages we see a series of expulsions from so called
 
 * We discussed the concept of "otherness" as a philosophical and psychological concept and noted how "otherness" by itself cannot explain "hostility".
 * This led to questions about contributing factors that lead to different orientations toward "otherness".
-* Then we looked closer at how Crusading Ideology contributed to a transformation of how Jewish communities were defined as "other" and the effect this identity had on their historical "protected" status.
+* Then we looked closer at how Crusading ideology contributed to a transformation of how Jewish communities were defined as "other" and the effect this identity had on their historical "protected" status.
 * Finally, we surveyed some of the after-effects of this transformed status: the loss of this protection and its long echoes into the present day.
 
 # What's Next
