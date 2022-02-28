@@ -18,9 +18,11 @@ moodleId: 3127729
 # Weekend Music Awards
 
 The "just makes you feel good" award:
-* Song: [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY?si=a0a10b73e0dc4719)
-* Submitted by: Jack O'Hara
-* Honorable Mention [Kill the Lights](https://open.spotify.com/track/5x9OXWVNd1a0iveauFDRtn?si=9e7e8ddf09f9498d) (submitted by christy_1118)
+* It's a tie:
+  * Song: [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY?si=a0a10b73e0dc4719)
+  * Submitted by: Jack O'Hara
+  * Song: [Kill the Lights](https://open.spotify.com/track/5x9OXWVNd1a0iveauFDRtn?si=9e7e8ddf09f9498d)
+  * Submitted by: christy_1118
 * Honorable Mention [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0?si=ff5ddac52d354eef) (Submitted by Jake)
 
 Best song by an artist Dr. Witt has never heard of:
