@@ -14,6 +14,31 @@ moodleId: 3127729
 1. TOC 
 {:toc}
 
+
+# Weekend Music Awards
+
+The "just makes you feel good" award:
+* Song: [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY?si=a0a10b73e0dc4719)
+* Submitted by: Jack O'Hara
+* Honorable Mention [Kill the Lights](https://open.spotify.com/track/5x9OXWVNd1a0iveauFDRtn?si=9e7e8ddf09f9498d) (submitted by christy_1118)
+* Honorable Mention [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0?si=ff5ddac52d354eef) (Submitted by Jake)
+
+Best song by an artist Dr. Witt has never heard of:
+* Song: [Visions](https://open.spotify.com/track/1rcxltU3Mzn8gN6Z8ly9Zh?si=649585b944754d17) 
+* Submitted by: Kylie
+* Honorable Mention: [Glue](https://open.spotify.com/track/4Eg7rWODFFHoNc9KtwL4oT?si=74ba7808deae4baa) (submitted by Kiera)
+
+Best international song:
+* Song: [Movie](https://open.spotify.com/track/57fle7Lnf7lOXNf76r2x6C?si=babfb3e2472949d7)
+* Submitted by: Arv
+* Honorable Mention: 
+  * [Papoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj?si=7f80d2b5a125431b) (Submitted by Christy_1118)
+  
+Best song of the week:
+* Song: [Good Things Fall Apart](https://open.spotify.com/track/6pooRNiLyYpxZeIA5kJ5EX?si=e13e80e0e16d40cf) 
+* Submitted by: Kiera
+* Honorable Mention [For Sure](https://open.spotify.com/track/7EtMa8eHEOfvh1ANRHQ9uh?si=0c4e1747c96343f5) by the Future Islands (A band from Baltimore!) (submitted by Dr. Witt)
+
 # Medieval World Midterm Exam Review Sheet
 
 The midterm exam will consist of two sections. The first section will include a mix of multiple choice and short answer questions designed to test your apprehension of the basic events, chronology, people, and ideas that have shaped the early Middles Ages. The second section will include two essay questions, testing your knowledge of the broader developments of the Middle Ages and how those developments compare, contrast, and influence one another. 
