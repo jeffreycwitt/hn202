@@ -18,11 +18,11 @@ moodleId:
 
 Reminder: Thursday will be our class led discussion of *Beowulf*. The group assigned to *Beowulf* will create the class notes and then help lead the discussion on Thursday. 
 
-For the group composing the class notes, as a rule of thumb, aim to write at least 1,000 words, work to break your notes into at least 5 sections that we can use to structure our discussion (there are are some natural division to the story that we can use to structure our discussion), and make sure to offer 4 or 5 significant discussion blocks/questions.
+For the group composing the class notes, as a rule of thumb, aim to write at least 1,000 words, work to break your notes into at least 5 sections that we can use to structure our discussion (there are are some natural divisions to the story that we can use to structure our discussion), and make sure to offer 4 or 5 significant discussion blocks/questions.
 
 # Intro
 
-Welcome to our week on Beowulf. I read this book ever year, and every year I come away enjoying the ideas and themes it conveys: both its meditations on life and death, and its mysteries.
+Welcome to our week on *Beowulf*. I read this book ever year, and every year I come away enjoying the ideas and themes it conveys: both its meditations on life and death, and its mysteries.
 
 While thoroughly enjoying it, I also always come away perplexed. What is the point of this poem? What is its message? Perhaps this ambiguity is part of its charm. But each year new details draw me into different possibilities.
 
@@ -31,9 +31,9 @@ While we will reserve most of our focused class-led discussion of the poem, its 
 To begin, we can start with a general question.
 
 {:.rquestion}
-If the event of this story take place in Denmark and Sweden (Geat), why is this considered part of the canon of English literature?
+If the event of this story takes place in Denmark and Sweden (Geatland), why is this considered part of the canon of English literature?
 
-<!-- While the precise dating of the poem is unknown, it someties u life of Bede (the early English Monk and Historian) or sometime between 672/3 – 26 May 735. -->
+<!-- While the precise dating of the poem is unknown, it sometimes u life of Bede (the early English Monk and Historian) or sometime between 672/3 – 26 May 735. -->
 
 While the precise dating of the poem is unknown, our book introduction suggests that it was written in England sometime between the middle of the 7th and the early 10th century (p. xxiii).
 
@@ -62,7 +62,7 @@ After immigrating, the Anglo-Saxons quickly become the **ruling elite or aristoc
 
 As they settled the islands, regional kingdoms founded by warrior elites emerged.
 
-The open lines from *Beowulf* describing Shield Sheafson actually offer us a good example how these warrior-kings emerge.
+The open lines from *Beowulf* describing Shield Sheafson actually offer us a good example how these warrior-kings emerged.
 
 > "There was Shield Sheafson, scourge of many tribes,<br/>
 A wrecker of mead-benches, rampaging among foes.<br/>
@@ -77,31 +77,31 @@ And begin to pay tribute. That was one good king." (ll. 4-11)
 
 As we will see in *Beowulf*, Christian language is intertwined within the narrator's description of a past pagan culture. This creates a **tension** that prompts many questions about how the author regards the pagan past. Is it a positive celebration or negative critique?
 
-Accordingly, we need to make sure to spend  a little time thinking about the Anglo-Saxons' relationship to Christianity. 
+Accordingly, we need to make sure to spend a little time thinking about the Anglo-Saxons' relationship to Christianity. 
 
 <div class="discussion" markdown="1">
 
-Rosenwein provides a few interesting details in SHMA, p. 64-66. Stop for a moment and read pages 64-66 then consider the following questions.
+Rosenwein provides a few interesting details in SHMA, p. 64-66. Stop for a moment and read SHMA, pp. 64-66, then consider the following questions.
 
 {:.dquestion}
-How does Bede tell this story of Christianity in England
+How does Bede tell the story of Christianity and its arrival in England?
 
 {:.answer}
-He suggest that before Augustine came to the kingdom of Kent, the population was utterly pagan.
+He suggests that before Augustine came to the kingdom of Kent, the population was utterly pagan.
 
 {:.dquestion}
 What does Archeology tell us? 
 
 {:.answer}
-5th missionaries had already converted large parts of Ireland and Scotland.
+5th century missionaries had already converted large parts of Ireland and Scotland.
 
 {:.dquestion}
-According to Rosenwein, what are some of the main differences between the Christianity Bede recognizes and the Christianity that already existed on the islands.
+According to Rosenwein, what are some of the main differences between the Christianity Bede recognizes and the Christianity that already existed on the islands?
 
 <div class="answer" markdown="1">
 What seems most critical here is Rosenwein's note that...
 
-> "...post-Roman Britain's Christianity was decentralized and local" (SHMA, p. 64, bottom)
+> "...post-Roman Britain's Christianity was decentralized and local." (SHMA, p. 64, bottom)
 
 While Christianity may have been present early on, it was "decentralized and local". It lacked the kind of centralized uniformity of Roman Christianity that one might see on the continent.
 </div>
@@ -120,7 +120,7 @@ Augustine of Canterbury is sent to the Kingdom of Kent by Gregory the Great. Thi
 
 <!-- “In June 597 Columba died, as a quirk of history at the same time Augustine landed on the Isle of Thanet and proceeded to King Æthelberht's main town of Canterbury. He had been the prior of a monastery in Rome when Pope Gregory the Great chose him in 595 to lead the Gregorian mission to Britain to Christianise the Kingdom of Kent from their native Anglo-Saxon paganism. Kent was probably chosen because Æthelberht had married a Christian princess, Bertha, daughter of Charibert I the King of Paris, who was expected to exert some influence over her husband. Æthelberht was converted to Christianity, churches were established, and wider-scale conversion to Christianity began in the kingdom. Æthelberht's law for Kent, the earliest written code in any Germanic language, instituted a complex system of fines. Kent was rich, with strong trade ties to the continent, and Æthelberht may have instituted royal control over trade. For the first time following the Anglo-Saxon invasion, coins began circulating in Kent during his reign.” (Wikipedia) -->
 
-664: Another important date is the Synod of Whitby in 664 (See SHMA, p. 65).
+664: Another important date is the Synod of Whitby in 664 (see SHMA, p. 65).
 
 At this Synod it was decided that the Roman Rite would be observed in Northumbria rather than the Ionian/Celtic Rite (i.e. the liturgy and traditions established by Irish Christianity and St. Columba).
 
@@ -134,20 +134,20 @@ A middle Anglo-Saxon period is often identified around 660-899.
 
 During this time... 
 * one of the first histories of Britain ever written was composed. This is the monumental work by the monk Bede (c. 670-735) (discussed above) titled, *Ecclesiastical History of the English People*. Bede's cultural achievement is a representative example of the "cultural flowering" of this period. 
-* Alcuin (a student of one Bede's students) served as an important wise and learned "anglo-saxon" advisor in Charlemagne's Court (9th century).
-* And this was also the period in which our Poem *Beowulf* was written. 
+* Alcuin (a student of one Bede's students) served as an important wise and learned "Anglo-Saxon" advisor in Charlemagne's Court (9th century).
+* And this was also the period in which our poem *Beowulf* was written. 
 
 This was also a time of consolidation of regional Anglo-Saxon Kingdoms. 
 
-As seen in the map below, by around 650 there were at least 7 regional anglo-saxon kingdoms.
+As seen in the map below, by around 650 there were at least 7 regional Anglo-Saxon kingdoms.
 
 ![early map]({{site.assets_url}}AngloSaxonEnglandmapc800AD.gif)
 
-By at least 878, these had consolidated into 3 (Northumbria, Mercia, and Wessex).
+But by at least 878, these had consolidated into 3 kingdoms (Northumbria, Mercia, and Wessex).
 
 ![later map map]({{site.assets_url}}1280px-England_878.svg.png)
 
-The above map also reveals the new and defining challenge of this era. It is the same difficulty faced by the Carolingians in the 9th century: Vikings. 
+The above map also reveals the new and defining challenge of this era. It is the same difficulty faced by the Carolingians in the 9th century: namely, Vikings. 
 
 ### Alfred the Great (848-899) King of Wessex and King of the Anglo-Saxons
 
@@ -157,17 +157,17 @@ The most famous King during this time was King Alfred the Great. Alfred was cons
 
 Decisive for his ability to control the situation was the Battle of Edington in 878. The result of this battle was a capitulating agreement with the Vikings. The agreement between Alfred the Great and Guthrum included granting the Vikings a settled area within the British Isles (see the map of above) referred to by the Anglo-Saxons as "Danelaw".
 
-His success in dealing with the Vikings was notable and by **886** Alfred was no longer claiming to be King of Wessex, but King of the Anglo-Saxons. (Any traditional list of English Monarchs will usually begin in 886 with Alfred the Great.)
+His success in dealing with the Vikings was notable and by 886 Alfred was no longer claiming to be King of Wessex, but King of the Anglo-Saxons. (Any traditional list of English Monarchs will usually begin in 886 with Alfred the Great.)
 
 #### Cultural
 
 Alfred was also a little bit like a Charlemagne in England, in that he made a serious attempt to improve learning and "spiritual life" within his kingdom.
 
-Alfred lamented in the preface to his translation of Gregory's Pastoral Care that: 
+Alfred lamented in the preface to his translation of Gregory's *Pastoral Care* that: 
 
 > "learning had declined so thoroughly in England that there were very few men on this side of the Humber who could understand their divine services in English or even translate a single letter from Latin into English: and I suppose that there were not many beyond the Humber either". (Keynes, Simon; Lapidge, Michael (1983) p. 125. *Alfred the Great, Asser's Life of King Alfred and other contemporary sources*. Harmondsworth, England)
 
-He took efforts to improve the situation by establishing things like a "court school". But unique, relative to the rest of Europe was that school was conducted in English (rather than Latin).
+He took efforts to improve the situation by establishing things like a "court school". But unique, relative to the rest of Europe was the fact that this school taught English (rather than Latin).
 <!-- For example, he established a "court school" and unusually a school in "English"  -->
 
 <!-- 899 coincides with the close of this middle period. (847/849-899) -->
@@ -176,7 +176,7 @@ He took efforts to improve the situation by establishing things like a "court sc
 
 A final "late" period is often identified as 899-1066.
 
-We can ask two simple questions here: Why 899 as a starting point and why 1066. 
+We can ask two simple questions here: Why 899 as a starting point and why 1066 as an ending point? 
 
 Why 899? This question isn't too hard. It is the death date of Alfred the Great. The Middle Period's achievements were so closely with Alfred's achievements that it has become traditional to mark the end of this period with the date of his death. 
 
@@ -208,6 +208,7 @@ and then to argue for a resolution of that problem.
 The recognition of problem can often start from noticing things that are interesting, weird, or unexpected. Observing the feeling of: "that doesn't seem quite right" or "I wouldn't have expected that" are good places to start.
 
 <div class="discussion" markdown="1">
+
 {:.rquestion}
 Wherever you are in your reading of *Beowulf*, what sorts of "interesting", "weird", or "unexpected" things are popping up?
 
@@ -240,7 +241,7 @@ In what follows, let's practice just a bit and ponder over a potentially signifi
 
 ## A puzzle
 
-In the poem, the narrator clearly has a Christian voice, and in some moments he appears to criticize the Anglo-Saxons past. Most famously: lines 170-180, p. 7.
+In the poem, the narrator clearly has a Christian voice, and in some moments he appears to criticize the Anglo-Saxon past. Most famously: lines 170-180, p. 7.
 
 > "Those were hard times, heart-breaking <br/>
 for the prince of the Shieldings; powerful counsellors, <br/>
@@ -291,7 +292,7 @@ depended in part on an ancient and therefore necessarily pagan lineage, would be
 
 > "royal and aristocratic authority...had to have pagan roots..." (p. 200)
 
-Giving that political legitimacy for Anglo-Saxon elites was anchored in the past, Hill describes the tension that arises.
+Given that political legitimacy for Anglo-Saxon elites was anchored in the past, Hill describes the tension that arises.
 
 > "a young (or old) aristocrat faced a deep cultural conflict since the dominant authorities in the Church would not, or to put the case more accurately, could not accept the claim that the paganism was a legitimate mode of religion and cultural self understanding. If paganism was legitimate what was the point of Christian faith and Christian ascesis?" (p. 200)
 
