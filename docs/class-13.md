@@ -4,7 +4,7 @@ layout: lecture
 description: " Midterm Exam Review Sheet"
 readings: 
 published: true
-date: 2022-02-24
+date: 2022-03-01
 nav_order: 13
 moodleId: 3127729
 ---
