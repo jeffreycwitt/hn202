@@ -1,3 +1,3 @@
 Beowulf
 
-jake and company
+jake and ellie and mac

@@ -1,3 +1,3 @@
 Knight of the Cart
 
-Katharine and company
+Katharine and Kylie and Arvin
