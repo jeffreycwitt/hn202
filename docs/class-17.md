@@ -1,12 +1,12 @@
 ---
-title: "17: The 12th century, Court Life, and Courtly Love"
+title: "17: The 12th Century, Court Life, and Courtly Love"
 layout: lecture
-description: "17: The 12th century, Court Life, and Courtly Love"
+description: "17: The 12th Century, Court Life, and Courtly Love"
 readings: 
 published: true
 date: 2022-03-22
 nav_order: 17
-moodleId: 3178359
+moodleId: 3181701
 ---
 
 ## Table of contents
