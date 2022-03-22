@@ -96,7 +96,13 @@ This led to a civil war period in England known as *the Anarchy*.
 
 It was resolved only by Stephen agreeing that Matilda's son, Henry II, from her husband the Count of Anjou, Geoffrey Plantagenet (plan-taj-enet), would become king.
 
-Through the existing Norman holdings and the alliance with the house of Anjou that Henry II inherited plus the acquisitions made through his marriage to Eleanor of Aquitaine, Henry II amassed control of huge parts of the Continent to point that historians refer this period as the **Angevin Empire**. 
+Through the existing Norman holdings and the alliance with the house of Anjou that Henry II inherited plus the acquisitions made through his marriage to Eleanor of Aquitaine, Henry II amassed control of huge parts of the Continent to point that historians refer this period as the **Angevin Empire**. See the map below 
+
+![angevin empire around 1154]({{site.assets_url}}England_France_1154.svg)
+
+Source: By Reigen - Own work.Sources :Image:France 1154 Eng.jpg by Lotroo under
+copyleftfrance_1154_1184.jpg from the Historical Atlas by William R. Shepherd, 1911., CC
+BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37306574
 
 I wanted to review this because in recognizing this geographical growth, I want to quickly recall the contrast Rosenwein makes between changes in Europe and Byzantium in the 12th century. 
 
