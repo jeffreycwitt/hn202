@@ -370,6 +370,7 @@ Why was marital fidelity on the part of women more highly valued than it was for
 However far you are in your reading of *Knight of the Cart*, do you see any examples of court tension, frustration, or contradiction in the text? Can you point us to any passages that suggest this?
 
 </div>
+</div>
 
 # Key Takeaways
 
