@@ -342,7 +342,7 @@ Again Aldo Scaglione writes:
 
 > "Courtesy was born at court, first perhaps among clerical chaplains, then among the lesser nobility. The fact that courtly literature was born in southern France is related to the crucial function of princely courts in that area. **The weakened central authority in the wake of the dissolution of the dissolution of monarchic power in France after Charlemagne’s immediate successors made the feudal lords effective centers of regional power, but the weakness of central government was also reflected in the heightened independence of the lower vassals.** Even such great counts as those of Poitiers and Toulouse had great difficulties in restraining their vassals. Hence the comital courts had to be turned into attractive centers of noble living so that counts could cultivate the loyalty of their vassals by keeping them at close quarters." (Aldo Scaglione, p. 25-26).
 
-This suggests there was political need to include knight in the lower ranks of "Nobility". Granting knights the privilege of nobility helped secure their loyalty. But entrance into the nobility class came with new social expectations. 
+This suggests there was a political need to include knights in the lower ranks of "Nobility". Granting knights the privilege of nobility helped secure their loyalty. But entrance into the nobility class came with new social expectations. 
 
 Scaglione goes on:
 
