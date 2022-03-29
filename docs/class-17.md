@@ -4,7 +4,7 @@ layout: lecture
 description: "17: The 12th Century, Court Life, and Courtly Love"
 readings: 
 published: true
-date: 2022-03-22
+date: 2022-03-21
 nav_order: 17
 moodleId: 3181701
 ---
