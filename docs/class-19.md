@@ -333,7 +333,7 @@ In this way, Dante uses the idea that we are oriented to two kinds of happiness 
 * Today, we focused on one main point: Why Thomas Aquinas is considered a "synthesizer"?
 * To tackle this question, we first needed to consider what needed to be synthesized.
 * Then we looked out how this synthesis was made.
-  * Aquinas' method was generally to identify places of apparent conflict between faith and reason, and then explain through fine-grained distinctions, that the apparent conflict was only apparent. If we look closely enough, we can see that the seemingly incompatible claims are talking about two different things.
+  * Aquinas' method was generally to identify places of apparent conflict between faith and reason, and then explain through fine-grained distinctions that the apparent conflict was only apparent. If we look closely enough, we can see that the seemingly incompatible claims are talking about two different things.
   * We observed this in two examples: on Truth and on Happiness.
 
 # What's Next
