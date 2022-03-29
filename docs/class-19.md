@@ -27,10 +27,10 @@ Best song by an artist Dr. Witt has never heard of:
 Best international song:
 * Song: [Gloria](https://open.spotify.com/track/35tzxthMBglBMjmZ7Fn1hj?si=cd2c233981934c33)
 * Submitted by: Jake
-* 
+
 Song of the Week:
 * Song: [dream of you](https://open.spotify.com/track/5Ie9fSJ7KYZnauSWBxpdVZ?si=cd6ba288cba84b7c)
-* Submitted by: Felicity
+* Submitted by: Kiera
 
 # Introduction
 
