@@ -9,6 +9,18 @@ nav_order: 28
 moodleId: 
 ---
 
+
+# Weekend Music Awards
+
+Best song by an artist Dr. Witt has never heard of:
+* Song: [Silver Moon](https://open.spotify.com/track/5fm1kAOmwnlXStu270Mv84?si=26a8ab3bcc074218)
+* Submitted by: Brandon
+
+Song of the Week:
+* Song: [You can't make old friends](https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5?si=0c1ffdd18da546be)
+* Submitted by: Jake
+
+
 # Exam Format
 
 The exam will consist of two parts:
