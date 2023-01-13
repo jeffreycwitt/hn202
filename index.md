@@ -14,5 +14,3 @@ Notes for each class will appear along the left column.
 
 You can also explore class notes using the search bar at the top. 
 
-To see the class discussion of the notes, click the view in Moodle button at the top of the page 
-
