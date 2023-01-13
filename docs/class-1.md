@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title:  "1: Intro"
-date:   2022-01-18
+date:   2023-01-17
 nav_order: 1
 moodleId: 3078723
 ---
