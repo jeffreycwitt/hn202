@@ -40,8 +40,7 @@ Here's a video of how I do it.
 <p class="vda">discuss video anchor</p>
 </div>
 
-(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EQwsLVqq6rVJqGTl5dfExJsBmdB5g6q2SWKZuKTGikZwUg?e=YaAqUM))
-
+(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EQwsLVqq6rVJqGTl5dfExJsBkUsekVoGH1ix1VzH5xe2Zg?e=kVy7Hc))
 
 
 So it's now its your turn. 
