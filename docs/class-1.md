@@ -32,16 +32,20 @@ We will have ample time to discuss how this tool is working throughout our cours
 If you're not able to get working, please don't worry or panic. We can discuss it during our live course time, or during office hours.
 
 
-<!-- Here's a video of how I do it. 
+Here's a video of how I do it. 
 
 <div class="video">
-<iframe src="https://loyola.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5c00fb53-7c8b-4f14-b205-ac040174f7f6&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" style="width: 720px; height: 405px; border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+<iframe src="https://studentsloyola-my.sharepoint.com/personal/jcwitt_loyola_edu/_layouts/15/embed.aspx?UniqueId=5a2d2c0c-eaaa-49b5-a864-e5e5d7c4c49b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="HypothesisIntroductionHN202.mov"></iframe>
+
+(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EQwsLVqq6rVJqGTl5dfExJsBmdB5g6q2SWKZuKTGikZwUg?e=YaAqUM))
+
 <p class="vda">discuss video anchor</p>
 </div>
 
 <div class="discussion" markdown="1">
 
-So it's now its your turn.  -->
+So it's now its your turn. 
 
 Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, what follows are few questions to get us started.
 
