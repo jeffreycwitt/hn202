@@ -37,24 +37,23 @@ Here's a video of how I do it.
 <div class="video">
 
 <iframe src="https://studentsloyola-my.sharepoint.com/personal/jcwitt_loyola_edu/_layouts/15/embed.aspx?UniqueId=5a2d2c0c-eaaa-49b5-a864-e5e5d7c4c49b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="HypothesisIntroductionHN202.mov"></iframe>
-
-(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EQwsLVqq6rVJqGTl5dfExJsBmdB5g6q2SWKZuKTGikZwUg?e=YaAqUM))
-
 <p class="vda">discuss video anchor</p>
 </div>
 
-<div class="discussion" markdown="1">
+(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EQwsLVqq6rVJqGTl5dfExJsBmdB5g6q2SWKZuKTGikZwUg?e=YaAqUM))
+
+
 
 So it's now its your turn. 
 
 Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, what follows are few questions to get us started.
 
-**Note**: To answer these questions (once you've created a hypothesis account and added the chrome plugin), highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation. Here's an example of what it should look like when you highlight a portion of the text. 
+<!-- **Note**: To answer these questions (once you've created a hypothesis account and added the chrome plugin), highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation. Here's an example of what it should look like when you highlight a portion of the text. 
 
 ![example annotation]({{site.assets_url}}annotateExample.png)
 <p class="vda">discuss image anchor</p>
 
-Once you see the pop-up, select "annotate" and leave your response.
+Once you see the pop-up, select "annotate" and leave your response. -->
 
 <div class="discussion" markdown="1">
 
