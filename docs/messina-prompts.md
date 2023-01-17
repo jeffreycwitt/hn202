@@ -24,8 +24,33 @@ We know you have different schedules that may conflict with some of these events
 
 # One Question Panel (March 29th)
 
-* Prompts coming
+* Consider the following questions and reflect on how the panel discussion affected your view on any of the following questions
+  * There are conversations that exist about the word "inspirational" being applied to people with disabilities.  Some people with disabilities oppose that term for various reasons. What do you think some of those reasons might be?
+  * Have you ever heard of the term "personal fable?" 
+    * What does it mean?  
+    * How does this term affect the way you perceive a sudden disability?
+  * Do you know a person, or are you related to someone who has a disability? 
+    * What have you learned from that person?  
+  * How can using an asset-based approach when learning from and talking to people reframe the outcomes of conversations?
 
 # Vanishing Half Common Text Speaker Panel (Date TBD)
 
-* Prompts coming
+* How did your impression of the book change after hearing the author speak?
+  * Did the author draw your attention to something that new that you hadn't noticed fore?
+  * Did the author's talk confirm an impression you already about the book or do it prompt you to revise an earlier opinion about the book?
+
+* How did you feel when you finished this book?
+* How do you think living in a small town influences the people in that community?
+* Let's think about the idea of belonging.  When do you feel like you belong? 
+* What has to happen in a community, or environment, to help you feel like you belong?
+* Ho do our histories bind us?  What is the power of having a common, or shared, history when building a relationship?  How can that same history also damage a relationship?
+
+
+
+ONE QUESTION:
+
+VANISHING HALF:
+How did you feel when you finished this book?
+How do you think living in a small town influences the people in that community?
+Let's think about the idea of belonging.  When do you feel like you belong?  What has to happen in a community, or environment, to help you feel like you belong?
+Ho do our histories bind us?  What is the power of having a common, or shared, history when building a relationship?  How can that same history also damage a relationship?
