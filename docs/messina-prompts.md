@@ -2,7 +2,6 @@
 layout: lecture
 title:  "Messina Prompts"
 date:   2023-01-18
-nav_order: 1
 ---
 
 During the course of our semester, as part of our Messina program and our course participation grade, we are going to ask you to attend some campus wide lectures and/or events, and then collaboratively reflect on what you heard. 
