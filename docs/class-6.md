@@ -234,8 +234,8 @@ It is true that Heraclius recovered most of the cities lost by Phocas. But the c
 
 * The re-conquered cities were exhausted, depleted, weak.
 * The example of Ephesus in SHMA, 44-46 illustrates this transformation.
-* When we consider the sweeping victories of the emerging Islam culture in the second half of the 7th century (starting around 650) and the early 8th century, surely the weakening strength of Byzantium and Persia (through their own fighting) helps us explain why the Arabs could conquer these regions with such success.
-* The provinces also changing (SHMA, pp. 46-47)
+* When we consider the sweeping victories of the emerging Islamic culture in the second half of the 7th century (starting around 650) and the early 8th century, surely the weakening strength of Byzantium and Persia (through their own fighting) helps us explain why the Arabs could conquer these regions with such success.
+* The provinces are also changing (SHMA, pp. 46-47)
   * > "With the disappearance of the traditional town councilors--the curiales--cities and their rural hinterlands were now controlled directly by the reigning imperial governor and the local "notables"--a new elite consisting of the bishop and big land-owners favored by the emperor" (SHMA, p. 46).
   * This is an important note as we turn to the reconstruction period, where we see the considerable influence and the involvement of the emperors, not just in the defense of the city, but in the religious and moral life of the empire. 
   * We see a little of this in the report from the Quinisext council 691/692 (How so? Can you point to any examples?) but also in the emergence of Iconoclasm. Iconoclasm is hard to fully explain without seeing it as a top down, emperor-driven movement.
@@ -321,7 +321,7 @@ What does our textbook suggest are some reason for the rise of iconoclasm in the
 
 When Leo dies in 741 his Son, Emperor Constantine V (r. 741-775) follows the iconoclastic trend initiated by his father, but he takes it to another level. He used his imperial power to enforce and even persecute the iconophiles.  
 
-For example: Emperor Constantine along with 300 bishops was present at the synod of Constantinople in 754 where the use of images was "banned outright" (SHMA, p. 48). He further tries to purge the army and bureaucracy of iconphiles. 
+For example: Emperor Constantine along with 300 bishops was present at the synod of Constantinople in 754 where the use of images was "banned outright" (SHMA, p. 48). He further tries to purge the army and bureaucracy of iconophiles. 
 
 With Constantine's death, the ban abated, but there was a second iconoclastic period from 815-843.
 
@@ -351,5 +351,5 @@ The Byzantine empire would live on largely through the survival of Constantinopl
 
 # What's Next
 
-* Next we will turn to the rise of the Islam and the Islamic Empire which takes place during the same centuries as the development of  Early Byzantium.
+* Next we will turn to the rise of Islam and the Islamic Empire which takes place during the same centuries as the development of Early Byzantium.
 * We will trace the key events in the rise of Islam and try to connect these events to what is going on in Byzantium and Persia at the same time.
