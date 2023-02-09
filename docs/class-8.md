@@ -4,7 +4,7 @@ layout: lecture
 description: "Islamic Empires and the Development of Islamic Law"
 readings: ""
 published: true
-date: 2022-02-09
+date: 2023-02-09
 nav_order: 8
 ---
 
