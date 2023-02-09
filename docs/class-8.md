@@ -40,7 +40,7 @@ This is particularly important to note because of the eventual trade routes and 
 {:.dquestion}
 In 711, what people group would the Umayyads have met when crossing from North Africa to the Iberian Peninsula (modern day Spain)?
 
-{:answer}
+{:.answer}
 The Visigoths
 
 But Umayyad forces did not stop in Iberia, they crossed the Pyrenees and attempted to conquer Gaul or much of modern day France.
