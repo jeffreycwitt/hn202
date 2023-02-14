@@ -13,6 +13,12 @@ nav_order: 9
 1. TOC 
 {:toc}
 
+# Some Links to Digital Collections
+
+* [Walters](https://art.thewalters.org/browse/location/)
+* [Victoria Albert Museum - Filtered by "Medieval" and Date (400-1200)](https://collections.vam.ac.uk/search/?page=1&page_size=15&id_category=THES271264&year_made_from=400&year_made_to=1200)
+* [British Museum - Filtered by "Medieval", location (Europe) and Date (400-1200)](https://www.britishmuseum.org/collection/search?keyword=Medieval&place=Europe&dateFrom=400&dateTo=1200&eraFrom=ad&eraTo=ad&view=grid&sort=object_name__asc&page=1)
+
 # Intro
 
 Today, we’re beginning a short inquiry into the life and achievements of Charlemagne or Charles the Great. We also want to see Charlemagne's life in the context of the geo-political events that surrounded his reign. Here's a possible way to break down this period into smaller units.
