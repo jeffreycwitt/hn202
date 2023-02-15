@@ -51,7 +51,7 @@ Charlemagne, however, later calls himself "serene Augustus, crowned by God". The
 
 Here we see the seeds for several controversies that will follow in the Middle Ages. 
 
-Generally, the debate is about the relation between secular and spiritual powers and where the secular receives it power. 
+Generally, the debate is about the relation between secular and spiritual power and where the secular receives it power. 
 
 Within the debate there is common assumption that all political authority comes from God, but a debate about how that power is transferred. The Medieval "Hierocratic" view believes that God transfers power to the pope who then transfers part of that power to secular princes. 
 
@@ -233,7 +233,7 @@ As Robinson notes, there is a unique irony in Gregory VII’s ambition.
 
 On the one hand, he declares his intention to draw the clergy away from the world, to stand separate and apart, to be *monk-like*.
 
-But in doing so the Papacy and the church at large, through their proposed separation, are forced to take on all the earthly tasks that would previously have been done by the king or lord (most notably, maintain and protect property, but also ensure domestic peace by imposing discipline and punishing injustice). 
+But in doing so the Papacy and the church at large, through their proposed separation, are forced to take on all the earthly tasks that would previously have been done by the king or lord (most notably, maintain and protect property and distribute resources, but also ensure domestic peace by imposing discipline and punishing injustice). 
 
 Through the task of appointing bishops (many of whom functioned as political governors in their local diocese) and demanding jurisdiction over clerical disputes, the church became ever more entangled in the administration of day-to-day or secular affairs. 
 
@@ -293,7 +293,6 @@ In short: war may be necessary, but it is a misery and something to be avoided a
 </div>
 
 {:.dquestion}
-
 How well do you think this is working for the popes, who are now directly in control of "Christian Lands"?
 
 <div class="answer">
