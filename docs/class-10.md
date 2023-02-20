@@ -4,7 +4,7 @@ layout: lecture
 description: "Lead up to the First Crusade"
 readings: ""
 published: true
-date: 2023-02-16
+date: 2023-02-15
 nav_order: 10
 ---
 
