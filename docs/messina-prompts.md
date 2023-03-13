@@ -21,6 +21,12 @@ We know you have different schedules that may conflict with some of these events
   * Did the speaker give you strong reasons to accept this new idea as true or valid? How so? 
   * Do you feel like the new idea, while provocative, needed more research or reflection before you were ready to accept it? How so?
 
+# Humanities Symposium (March 16th, 6:30pm)
+
+* Prior to this key note address, we had several opportunities to discuss this text. Nevertheless, it remains a rare opportunity to hear directly from the author. 
+  * Accordingly, what's one new idea or insight about the text that came from hearing the author speak? 
+  * How was the author, as the creative originator, able to give you a special insight into the meaning or purpose of the text?
+
 # One Question Panel (March 29th)
 
 * Consider the following questions and reflect on how the panel discussion affected your view on any of the following questions
