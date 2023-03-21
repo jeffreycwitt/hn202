@@ -200,6 +200,7 @@ In our last paper, I gave you a problem to start from: namely, there is a museum
 But in our second paper, I'm going to ask you to identify a question/problem/puzzle in our reading from...
  
  * Beowulf 
+   * (and/or the movie adaptation)
  * the Knight of the Cart,
  * the Green Knight 
    * (and/or the movie adaptation)
