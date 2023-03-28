@@ -310,7 +310,7 @@ What it would be like to be surrounded by Clerks is something hard for a 21st ce
 
 But this was not really the case in the Middle Ages.
 
-W. L. Warren (in his book *Henry II*, 1977, p. 460) suggests that 1 in 6 people were member of the ecclesiastical "estate" or members of the clergy, and most of these were **NOT** priests or bishops. 
+W. L. Warren (in his book *Henry II*, 1977, p. 460) suggests that 1 in 6 people were members of the ecclesiastical "estate" or members of the clergy, and most of these were **NOT** priests or bishops. 
 
 What were they?
 
