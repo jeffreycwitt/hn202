@@ -126,6 +126,8 @@ For example here's an excerpt from a famous Troubadour, Bernat de Ventadorn (114
 
 **Can vei la luzeta mover**
 
+<table>
+<tr><td>
 When I see the lark moving <br/>
 His wings with joy toward the light, <br/>
 Then forget and let himself fall <br/>
@@ -134,7 +136,20 @@ O! what great envy I feel <br/>
 Toward whomever I see who's glad! <br/>
 I wonder why my heart <br/>
 Doesn't melt right away from desire.<br/>
-
+</td>
+<td>
+Can vei la lauzeta mover <br/>
+de joi sas alas contra. l rai <br/>
+que s’oblid’ e.s laissa chazer <br/>
+per la doussor c’al cor li vai, <br/>
+ai! Tan grans envela m’en ve <br/>
+de cui qu’eu veya jauzion, <br/>
+meravilhas ai, car desse <br/>
+lo cor de dezirer no.m fon. <br/>
+</td>
+</tr>
+<tr>
+<td>
 Alas! how much I thought I knew <br/>
 About love, and how little I know! <br/>
 For I can't keep myself from loving <br/>
@@ -143,8 +158,23 @@ She's stolen my heart and all of me<br/>
 And all herself and all the world:<br/>
 And after she robbed me, left me nothing<br/>
 Except desire and a longing heart<br/>
+</td>
+<td>
+Ai, las! Tan cuidava saber <br/>
+d’amor, e tan petit en sai! <br/>
+car eu d’amar no.m posc tener <br/>
+celeis don ja pro non aurai. <br/>
+Tout m’a mo cor, e tout m’a me, <br/>
+e se mezei’s e tot lo mon; <br/>
+e can se.m tolc, no.m laissez re <br/>
+mas desirer e cor volon. <br/>
+</td>
+</tr>
+</table>
 
 (Wilhelm, James J. Lyrics of the Middle Ages: An Anthology. Taylor & Francis, 1990, n. 55, p. 69) [Google Books](https://books.google.com/books?id=rIOUgtk_DJgC&printsec=frontcover#v=onepage&q&f=false)
+
+See also [http://www.toddtarantino.com/hum/ventadorn.html](http://www.toddtarantino.com/hum/ventadorn.html)
 
 We can see a performance of the love song here: 
 
