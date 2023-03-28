@@ -53,13 +53,13 @@ Marie de Champagne is born in 1152 and dies in 1181 and she is the daughter of h
 
 Eleanor is a powerful and independent women, famous for her willingness to flout convention. Here are a few bullet points about her life.
 
-•	On her father’s death and with no surviving brothers, Eleanor became Duchess of Aquitaine (See SHMA map, p. 218).
-•	Her holdings and inheritance were so lucrative that Louis VI ("the Fat") (as her new guardian) made plans to marry her to his son Louis (soon to be Louis VII).
-•	Eleanor would have been anywhere between 12 and 15 at the time of this marriage. 
-•	The marriage became increasingly rocky. 
-•	Eventually, after the birth of two daughters (Marie and Alis) the marriage was annulled, and control of Aquitaine was restored to Eleanor.
-•	But her security was precarious; people were trying to kidnap her to claim her holdings. (Apparently you can do that????)
-•	Thus, she needed a new husband, and she found one in Henry II of England.
+* On her father’s death and with no surviving brothers, Eleanor became Duchess of Aquitaine (See SHMA map, p. 218).
+* Her holdings and inheritance were so lucrative that Louis VI ("the Fat") (as her new guardian) made plans to marry her to his son Louis (soon to be Louis VII).
+* Eleanor would have been anywhere between 12 and 15 at the time of this marriage. 
+* The marriage became increasingly rocky. 
+* Eventually, after the birth of two daughters (Marie and Alis) the marriage was annulled, and control of Aquitaine was restored to Eleanor.
+* But her security was precarious; people were trying to kidnap her to claim her holdings. (Apparently you can do that????)
+* Thus, she needed a new husband, and she found one in Henry II of England.
 
 Let's consider then for a moment how we get to Henry II.
 
