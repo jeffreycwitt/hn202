@@ -146,6 +146,13 @@ Except desire and a longing heart<br/>
 
 (Wilhelm, James J. Lyrics of the Middle Ages: An Anthology. Taylor & Francis, 1990, n. 55, p. 69) [Google Books](https://books.google.com/books?id=rIOUgtk_DJgC&printsec=frontcover#v=onepage&q&f=false)
 
+We can see a performance of the love song here: 
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jkp2GHBRUiQ?start=83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+
 As reflected in Chrétien's own prologue, where he says the subject matter was set by his patron, these poets gave voice to particular themes that reflected the desires, interest, and complexities of life at court. 
 
 Bernard here, who was befriended (patronized) by Eleanor, is no exception.
