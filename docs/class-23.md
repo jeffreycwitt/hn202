@@ -118,7 +118,7 @@ Beatrice
 
 As it gets later and later in the semester it can be harder and harder to focus on our reading. To assist, I offer some possible exam questions that can help us focus our reading and discussion of Dante's "Purgatory".
 
-* How does Dante (the author) invoke Aquinas’ response (synthesis) in his account of Dante’s (the character) ascent through purgatory?
+<!-- * How does Dante (the author) invoke Aquinas’ response (synthesis) in his account of Dante’s (the character) ascent through purgatory? -->
 * How do we see moral education described in Dante’s Purgatory?
 * In what way is this vision influenced by Aristotle?
 * Why is the distinction between sin and vice important to Dante?
@@ -141,7 +141,7 @@ This washing parallels the rite of baptism in earthly life and in both cases the
 <div class="discussion" markdown="1">
 
 {:.rquestion}
-If sin is removed in this moment (for all inhabitants of Purgatory), why might the climb up Mt. Purgatory still necessary? 
+If sin is removed in this moment (for all inhabitants of Purgatory), why might the climb up Mt. Purgatory still be necessary? 
 
 {:.dquestion}
 What distinction does the introduction to "Purgatory" make between "sin" and "vice" (p. 8)? How might this explain why the ascent through Purgatory is still necessary?
@@ -159,7 +159,7 @@ The main difference lies in the fact that, while still on Earth, the choice to "
 
 Nevertheless, it is the conception of the moral life as one of **habit building** in both cases that is central. 
 
-This is notable because this focus on ethics as one of **habit building** is central to Aristotle's *Ethics*. Dante, a little bit like Aquinas, takes this ethical theory and attempts to situate (or "synthesize" it) within a Christian context.
+This is notable because this focus on ethics as a process of **habit building** is central to Aristotle's *Ethics*. Dante, a little bit like Aquinas, takes this ethical theory and attempts to situate (or "synthesize" it) within a Christian context.
 
 # Aristotle's Ethics
 
