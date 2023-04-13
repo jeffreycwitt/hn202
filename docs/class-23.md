@@ -4,7 +4,7 @@ layout: lecture
 description: "23: Introduction to Dante's Purgatory"
 readings: 
 published: true
-date: 2023-04-11
+date: 2023-04-13
 nav_order: 23
 moodleId: 
 ---
