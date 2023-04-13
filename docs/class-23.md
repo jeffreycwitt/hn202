@@ -118,7 +118,7 @@ Beatrice
 
 As it gets later and later in the semester it can be harder and harder to focus on our reading. To assist, I offer some possible exam questions that can help us focus our reading and discussion of Dante's "Purgatory".
 
-<!-- * How does Dante (the author) invoke Aquinas’ response (synthesis) in his account of Dante’s (the character) ascent through purgatory? -->
+* How does Dante (the author) invoke Aquinas’ response (synthesis) in his account of Dante’s (the character) ascent through purgatory?
 * How do we see moral education described in Dante’s Purgatory?
 * In what way is this vision influenced by Aristotle?
 * Why is the distinction between sin and vice important to Dante?
