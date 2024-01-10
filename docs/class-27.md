@@ -366,6 +366,5 @@ In what way does Julian's version of the Parable of the Lord and Servant illustr
   * And we saw Julian's alternative answer in the form of the "Teleological Paradigm".
 * The "Teleological Paradigm" and its focus on knowledge through **necessary experience** gave us a chance to highlight a distinguishing characteristics of the mystical tradition: namely, that experiential knowledge supersedes knowledge acquired through argument and deduction.
 
-# What's Next
 
-* Next week will be our final exam review day.
+
