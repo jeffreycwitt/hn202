@@ -1,12 +1,11 @@
 ---
-title: "23: Introduction to Dante's Purgatory"
+title: "Introduction to Dante's Purgatory"
 layout: lecture
-description: "23: Introduction to Dante's Purgatory"
+description: "Introduction to Dante's Purgatory"
 readings: 
-published: true
-date: 2023-04-13
-nav_order: 23
-moodleId: 
+published: false
+date: 2024-04-21
+nav_order: 21
 ---
 
 ## Table of contents

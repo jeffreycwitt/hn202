@@ -1,8 +1,9 @@
 ---
 layout: lecture
-title:  "1: Intro"
-date:   2023-01-18
+title:  "Intro"
+date:   2024-01-16
 nav_order: 1
+published: true
 ---
 
 ## Table of contents

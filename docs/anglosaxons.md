@@ -1,11 +1,11 @@
 ---
-title: "17: Anglo Saxon Background and Beowulf"
+title: "Anglo Saxon Background and Beowulf"
 layout: lecture
-description: "17: Anglo Saxon Background and Beowulf"
+description: "Anglo Saxon Background and Beowulf"
 readings: 
-published: true
-date: 2023-03-21
-nav_order: 17
+published: false
+date: 2024-03-12
+nav_order: 15
 ---
 
 ## Table of contents

@@ -1,11 +1,11 @@
 ---
-title: "28: Final Exam Review"
+title: "Final Exam Review"
 layout: lecture
-description: "28: Final Exam Review"
+description: "Final Exam Review"
 readings: 
-published: true
-date: 2022-04-27
-nav_order: 28
+published: false
+date: 2023-04-24
+nav_order: 27
 ---
 
 

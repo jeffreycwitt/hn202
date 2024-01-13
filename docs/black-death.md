@@ -1,11 +1,11 @@
 ---
-title: "26: The Black Death and its 14th Century Context"
+title: "The Black Death and its 14th Century Context"
 layout: lecture
-description: "26: The Black Death and its 14th Century Context"
+description: "The Black Death and its 14th Century Context"
 readings: 
-published: true
-date: 2023-04-24
-nav_order: 26
+published: false
+date: 2024-04-16
+nav_order: 24
 ---
 
 

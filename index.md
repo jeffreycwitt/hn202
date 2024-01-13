@@ -1,10 +1,10 @@
 ---
-layout: page
-title: Home
+layout: default
+title: "HN202 Course Packet"
 nav_exclude: true
 ---
 
-# Welcome to HN202 Course Packet
+# Welcome to our HN202 Course Packet
 
 Class notes will appear here. 
 

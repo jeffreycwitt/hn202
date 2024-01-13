@@ -1,10 +1,10 @@
 ---
-title: '4: Monasticism'
+title: 'Monasticism'
 layout: lecture
 description: "The 5th century decline of rome and the rise of monasticism"
 readings: "Rule of St. Benedict"
-published: true
-date: 2023-01-26
+published: false
+date: 2023-01-30
 nav_order: 4
 ---
 

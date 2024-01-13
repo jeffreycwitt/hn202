@@ -1,10 +1,10 @@
 ---
-title: '7: Development of Islam'
+title: 'Origins and Development of Islam'
 layout: lecture
-description: "Development of Islam"
+description: "Origins and Development of Islam"
 readings: ""
-published: true
-date: 2023-02-07
+published: false
+date: 2024-02-06
 nav_order: 7
 ---
 

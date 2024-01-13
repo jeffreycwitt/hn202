@@ -1,11 +1,11 @@
 ---
-title: "27: Julian of Norwich and the Mystical Tradition"
+title: "Julian of Norwich and the Mystical Tradition"
 layout: lecture
-description: "27: Julian of Norwich and the Mystical Tradition"
+description: "Julian of Norwich and the Mystical Tradition"
 readings: 
-published: true
-date: 2022-04-27
-nav_order: 27
+published: false
+date: 2022-04-18
+nav_order: 25
 ---
 
 ## Table of contents

@@ -1,10 +1,10 @@
 ---
-title: '10: Lead up to the First Crusade'
+title: 'Lead up to the First Crusade'
 layout: lecture
 description: "Lead up to the First Crusade"
 readings: ""
-published: true
-date: 2023-02-15
+published: false
+date: 2024-02-15
 nav_order: 10
 ---
 

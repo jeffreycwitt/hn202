@@ -1,10 +1,10 @@
 ---
-title: '11: The First Crusade according to Fulcher of Chartres'
+title: 'The First Crusade according to Fulcher of Chartres'
 layout: lecture
 description: "The First Crusade according to Fulcher of Chartres"
 readings: "Reading: Fulcher of Chartres"
-published: true
-date: 2023-02-21
+published: false
+date: 2024-02-13
 nav_order: 11
 ---
 
@@ -13,15 +13,6 @@ nav_order: 11
 1. TOC 
 {:toc}
 
-# Reminder
-
-This is a reminder that during our first week back after Spring Break, we will be participating in the University Humanities Symposium along with the other Medieval World Sections. 
-
-This means that over spring break you should be reading: Julie Otsuak, *When the Emperor was Divine*
-
-This books is cheap and easy to get as a paperback or kindle version from [Amazon](https://www.amazon.com/When-Emperor-Divine-Julie-Otsuka-ebook/dp/B000XU8DKQ/ref=sr_1_1)
-
-You can also see if our book store has copies in stock or request it from the library.
 
 # Review.
 

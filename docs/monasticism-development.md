@@ -3,8 +3,8 @@ title: '5: Monasticism and its Development'
 layout: lecture
 description: "The Medieval Legacy of Monasticism."
 readings: ""
-published: true
-date: 2023-01-31
+published: false
+date: 2023-01-30
 nav_order: 5
 ---
 
