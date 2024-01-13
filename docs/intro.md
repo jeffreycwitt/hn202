@@ -26,7 +26,7 @@ But to do this we need to set up a few things ([as described by hypothes.is](htt
 1. [Set up hypothesis account](https://hypothes.is/signup) so your annotations can be saved.
 2. Add the [chrome browser extension](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek) or (for use in other browsers) drag the "hypothesis bookmarklet" to your bookmark bar. 
   * Using Chrome is recommended so that we can all have a consistent experience, and so that I can more easily help you.
-1. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/mod/url/view.php?id=3590138) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
+1. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/mod/url/view.php?id=3900578) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
 
 We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and then "lean" into it, so that we allow it to help us create a vibrant connected discussion.
 
