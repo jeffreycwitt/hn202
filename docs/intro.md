@@ -32,7 +32,6 @@ We will have ample time to discuss how this tool is working throughout our cours
 
 If you're not able to get working, please don't worry or panic. We can discuss it during our live course time, or during office hours.
 
-
 Here's a video of how I do it. 
 
 <div class="video">
@@ -43,10 +42,9 @@ Here's a video of how I do it.
 
 (If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EQwsLVqq6rVJqGTl5dfExJsBkUsekVoGH1ix1VzH5xe2Zg?e=kVy7Hc))
 
-
 So it's now its your turn. 
 
-Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, what follows are few questions to get us started.
+Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, what follows are a few questions to get us started.
 
 <!-- **Note**: To answer these questions (once you've created a hypothesis account and added the chrome plugin), highlight the prompt, and then click "annotate". You should see a sidebar panel where you can leave your annotation. Here's an example of what it should look like when you highlight a portion of the text. 
 
@@ -61,7 +59,7 @@ Once you see the pop-up, select "annotate" and leave your response. -->
 General Introduction Stuff: What is your name, your major, and your hometown?
 
 {:.rquestion} 
-Do you have a favorite Meme or Gif? Can you share figure out how to share this with the class via an annotation? 
+Do you have a favorite Meme or Gif? Can you figure out how to share this with the class via an annotation? 
 
 Finally, since this class is about the Middle Ages...
 
@@ -73,7 +71,7 @@ What are your first associations with the Middle Ages? Where do you think these 
 
 <div class="discussion" markdown="1">
 
-Review the syllabus posted on Moodle and the Moodle Pages itself. 
+Review the syllabus posted on Moodle. 
 
 {:.rquestion} 
 Do you have any questions about the syllabus or assignments? (Again use the annotation tool to pose any questions or mark anything that needs clarification.)
@@ -86,7 +84,7 @@ Do you have any questions about the syllabus or assignments? (Again use the anno
 
 For our opening class together, I want to begin with some "meta" considerations. Namely, why are we going to study the Middle Ages? Why is this worth our time?
 
-For me this, question is somewhat obviously wrapped up in a larger question. Why do we study history?
+For me, this question is somewhat obviously wrapped up in a larger question. Why do we study history?
 
 If we can answer this question, the relevance and value of the Middle Ages somewhat falls into place. (i.e. if we think the study of history is important, and the Middle Ages is a part of history, then it follows that the Middle Ages must be included in our study of history.)
 
@@ -100,7 +98,7 @@ One way we might approach this question is by first asking to what extent we are
 Can you think of a way your personal identity (your understanding of who you are) depends on your understanding of the past?
 
 {:.rquestion}
-Can you think of a way our social identity (e.g. our identify as "students", Baltimoreans, Americans, etc.) depends on your understanding of the past?
+Can you think of a way our social identity (e.g. our identity as "students", Baltimoreans, Americans, etc.) depends on your understanding of the past?
 
 </div>
 
@@ -118,7 +116,7 @@ If our direct goal is about the future? Why might questions about the past quick
 
 In deciding who gets the sundae, a natural question is, "how did it get here"? "who made it"? 
 
-If Bob spent all morning making this sundae and brought it to class with him and then Bob stepped out to go to the bathroom, this would likely affect our views about what is right in the future. The past suggest that Bob owns the sundae because he made the sundae (in the past). Since Bob "owns" it, it seems right that Bob gets to eat it. 
+If Bob spent all morning making this sundae and brought it to class with him and then Bob stepped out to go to the bathroom, this would likely affect our views about what is right in the future. The past suggests that Bob owns the sundae because he made the sundae (in the past). Since Bob "owns" it, it seems right that Bob gets to eat it. 
 
 But maybe Bob stole the ice cream from my freezer. How Bob sourced the ice cream would affect our recognition of the validity of his ownership and would thus affect whether Bob alone should get to the eat the ice cream.
 
@@ -138,7 +136,7 @@ The way in the which the past is tied up with our present individual and social 
 
 So, why study history?
 
-To study history is to practice a form of self-determination. If power is always try to influence history, this means power is always actively at work trying to shape your own personal and social identity. 
+To study history is to practice a form of self-determination. If power is always trying to influence history, this means power is always actively at work trying to shape your own personal and social identity. 
 
 Studying history is in many ways the critical examination of the "stories" that are already at work. To confirm those histories through your own study is to confirm your own self-identity rather than accept it. To challenge those histories as false or incomplete is to challenge the attempt of those in power to determine or distort your identity in ways that serve their own purposes rather than reflect the truth. 
 
@@ -154,11 +152,11 @@ What are some of the common histories that we are told? In what way might these 
 Finally, let's turn our attention back to the Middle Ages.
 
 {:.question}
-Consider some of the present associations you have with the Middle Ages (association that you noted above?) In ways do these ideas about the medieval past confirm or support certain power structures or the social status quo? Can you think of any examples? 
+Consider some of the present associations you have with the Middle Ages (perhaps association that you noted above) In ways do these ideas about the medieval past confirm or support certain power structures or the social status quo? Can you think of any examples? 
 
 <div class="answer" markdown="1">
 
-One common association I hear is that the Middle Ages is barbaric, dark, ignorant. There is likely some truth to this and there is likely some falsity. But true or not, it certainly reinforces the idea that we, in the present who are no longer living in the Middle Ages, and are therefore NOT barbaric, dark, or ignorant. 
+One common association I hear is that the Middle Ages is barbaric, dark, ignorant. There is likely some truth to this and there is likely some falsity. But true or not, it certainly reinforces the idea that we in the present, because we are no longer living in the Middle Ages, are therefore NOT barbaric, dark, or ignorant. 
 
 Another association I hear is that the Middle Ages is pastoral, chivalrous, idyllic, and in touch with the nature. This reinforces a criticism of the present as "unnatural" (often attributed to the rise of modern technology).
 
@@ -169,7 +167,7 @@ Another association I hear is that the Middle Ages is pastoral, chivalrous, idyl
 
 Hopefully, at this point we might have some ideas about why studying history (which includes studying the Middle Ages) is important.
 
-Thus at this point, we might begin to ask, what are the "Middle Ages" anyway? Why does history include a period known as the "Middle Ages"?
+Thus at this point, we might ask, what are the "Middle Ages" anyway? Why does history include a period known as the "Middle Ages"?
 
 I hope it is clear that the term "Middle Ages" is itself a modern invention. No one living in the time period that we today call the "Middle Ages" would have recognized themselves as living in the Middle Ages. As we discussed above, the designation "middle" tells us more about the people creating the label than it does about the period itself. To call a prior age "middle" suggest that the person doing the labelling is living at the "end" or "the last" or even the "culmination".
 
@@ -178,7 +176,7 @@ It also suggests a desire to "compartmentalize" history, and we should reflect a
 <div class="discussion" markdown="1"> 
 
 {:.rquestion}
-If we take it for granted, that history is worth studying, why is it hard to resists the temptation to divide up history into distinct chunks or periods?
+If we take it for granted, that history is worth studying, why is it hard to resist the temptation to divide up history into distinct chunks or periods?
 
 {:.rquestion}
 What are some of the pros of periodization?
@@ -216,15 +214,18 @@ But applying a name also has the effect of concealing. Words often identify some
 
 For example: the word "ant-eater" identifies a specific animal by its most common source of food. This does a pretty good job of picking out a common point of reference for us all to speak about. 
 
-But the name also conceals. It suggest that ant-eaters only eat ants and it conceals from us other facts about ant-eaters, namely that [they eat other things besides ants](https://what-do-animals-eat.com/anteaters/).
+But the name also conceals. It suggests that ant-eaters only eat ants and it conceals from us other facts about ant-eaters, namely that [they eat other things besides ants](https://what-do-animals-eat.com/anteaters/).
 
-How might the name "Middle Ages" conceal? By calling the Middle Ages "Middle", the label somewhat accurately points us in a particular direction -- that it is a period coming after something (the "classical" period) and a period coming before something (the "modern" period).
+{:.rquestion}
+How might the name "Middle Ages" conceal? 
 
-But this kind of course labelling begins to suggest to us things that are not always true.
+By calling the Middle Ages "Middle", the label somewhat accurately points us in a particular direction -- that it is a period coming after something (the "classical" period) and a period coming before something (the "modern" period).
+
+But this kind of course labelling also suggests to us things that are not always true.
 
 For example, it suggests that there is a clear moment when the classical period ends and the "middle" begins. It suggests that there is a moment when the "middle" ends and "modernity" beings. But of course these boundaries do not exist and our belief in them distorts our ability to understand history accurately. 
 
-It also conceals the many ways in which the Middle Ages could easily be considered the "beginning" or "origin" rather than the Middle. 
+It also conceals the many ways in which the Middle Ages could easily be considered the "beginning" or "origin" rather than the "middle". 
 
 As we will see during our Semester together, the Middle Ages could be considered the inventor of the concept of a University, the inventor of "common law", the origin of the English Language, and a new root of communal rather than monarchical forms of government. The list could go on.
 
@@ -240,5 +241,5 @@ As we will see during our Semester together, the Middle Ages could be considered
 
 # What's Coming Next
 
-* In our next class, we're going to begin to focus on the gradual transition from the Classical {eriod to the Middle Ages. 
+* In our next class, we're going to begin to focus on the gradual transition from the Classical Period to the Middle Ages. 
 * To do this, we will use the primary source readings of Augustine as he struggles to reconcile the decline of the Roman Empire with the rise of the Christian religion.
