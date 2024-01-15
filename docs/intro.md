@@ -36,11 +36,11 @@ Here's a video of how I do it.
 
 <div class="video">
 
-<iframe src="https://studentsloyola-my.sharepoint.com/personal/jcwitt_loyola_edu/_layouts/15/embed.aspx?UniqueId=5a2d2c0c-eaaa-49b5-a864-e5e5d7c4c49b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="HypothesisIntroductionHN202.mov"></iframe>
+<iframe src="https://studentsloyola-my.sharepoint.com/personal/jcwitt_loyola_edu/_layouts/15/embed.aspx?UniqueId=4cdfce74-dd1f-42f2-8cc1-cedc74e77c2d&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Recording-20240115_124312.webm"></iframe>
 <p class="vda">discuss video anchor</p>
 </div>
 
-(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/personal/jcwitt_loyola_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjcwitt%5Floyola%5Fedu%2FDocuments%2FHypothesisIntroductionHN202%2Emov))
+(If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EXTO30wf3fJCjMHO3HTnfC0BquJZczmbL3q8X7Sz7Vz_vQ?e=1GNWvT))
 
 So it's now its your turn. 
 
