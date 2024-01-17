@@ -73,7 +73,7 @@ One of his most important reforms, from the standpoint of the Middle Ages, was t
 
 **extra note**
 
-Diocletian also continued and intensified a period of persecution against the rising Christian sect (See SHMA, p. 6).
+Diocletian also continued and intensified a period of persecution against the rising Christian sect (See SHMA, p. 7).
 
 And it played a role in one of the first schisms between the church, particularly relevant to Augustine's life and work. 
 
@@ -94,11 +94,11 @@ Make yourself familiar with the following timeline.
   * This was not the first persecutory edict, but it was particularly fierce.
 * 311 [Edict of Serdica](https://en.wikipedia.org/wiki/Edict_of_Serdica)
   * Galerius officially rescinds the persecution against the Christians with an edict of toleration.
-* 313 [Edict of Milan](https://en.wikipedia.org/wiki/Edict_of_Milan) (See SHMA, p. 6)
+* 313 [Edict of Milan](https://en.wikipedia.org/wiki/Edict_of_Milan) (See SHMA, p. 8)
   * Constantine re-asserts the toleration of Christians.
   * This is often considered the true end to the persecution of Christians.
 * 380 [Edict of Thessalonica](https://en.wikipedia.org/wiki/Edict_of_Thessalonica) 
-  * Theodosius I declares Christianity to be the state religion (See SHMA, p. 7-8)
+  * Theodosius I declares Christianity to be the state religion (See SHMA, p. 8)
 
 The rising fortune of Christianity in the 4th century is complicated by the fate of the Empire during the same period. After a period of initial stability in the early 4th century, Rome suffered a number of embarrassing setbacks. Notably:
 
