@@ -5,7 +5,7 @@ description: "Augustine and the Fall of Rome"
 readings: "Augustine, City of God, Book 2"
 nav_order: 2
 date: 2024-01-18
-published: false
+published: true
 ---
 
 {: .no_toc .text-delta } 
@@ -236,7 +236,7 @@ What is this objection? (see c. 21, (p. 60))
 {:.answer}
 The objection is something like: the Rome described above is not the true Rome. The true Rome is the Rome of the Republic.
 
-The objection suggests that there was a different Rome in an earlier time. a Rome that would be just as horrified by this indulgent definition of happiness as Augustine is.
+The objection suggests that there was a different Rome in an earlier time: a Rome that would be just as horrified by this indulgent definition of happiness as Augustine is.
 
 This is the Rome of the Republic where virtue and self-restraint ruled, and thus there really has been a decline. And thus, the objector might say, maybe the rise of Christianity still correlates with the loss of civic virtue and social justice.
 
@@ -328,7 +328,7 @@ First off, is there any way we can support the position of Pilus? Why might it b
 
 What about criminal justice or the prison system? Is it possible to have city without a criminal justice system? 
 
-Maybe in a perfect world, but what about in our world, where crimes are committed, etc. 
+Maybe in a perfect world, but what about in our world, where crimes are committed, etc.? 
 
 It would seem not. 
 
@@ -361,7 +361,7 @@ In sum, what Augustine is starting to be attentive to, and will become more pron
 
 In contrast to the pure just city, which he will call the "City of God", he says we live now on earth, in the "city of men", which, because it is a city of mixed people with all kinds of different goals, desires, and allegiances, will forever be fraught with moral ambiguity. 
 
-Because of this ambiguity, neither the Roman Republic nor a Christian Empire will ever meet Cicero's own definition of truly just city.
+Because of this ambiguity, neither the Roman Republic nor a Christian Empire will ever meet Cicero's own definition of a truly just city.
 
 Here's another fabulous quote:
 
