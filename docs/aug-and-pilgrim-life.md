@@ -3,7 +3,7 @@ title: '3: Augustine and Pilgrim Life'
 layout: lecture
 description: "Augustine the Pilgrim in the Earthly City"
 readings: "Augustine, City of God, Book 19"
-published: false
+published: true
 date: 2023-01-23
 nav_order: 3
 ---
@@ -45,7 +45,7 @@ The traveling pilgrim on the other hand might find it easy to sacrifice or go wi
 
 The point, at the present, is to simply recognize that Augustine's argument for our "pilgrim" status raises a lot of difficult questions for political theorists and political practitioners. 
 
-Is Augustine's idea of the pilgrim a political threat or is there another basis/justification for authority and social coordination? Is there something besides "earthly happiness" that binds the Christian and non-Christians together strongly enough so that a Christian would feel bound to participate in the political process and the non-Christians would be willing to rely on and trust the Christian.
+Is Augustine's idea of the pilgrim a political threat or is there another basis/justification for authority and social coordination? Is there something besides "earthly happiness" that binds the Christian and non-Christians together strongly enough so that a Christian would feel bound to participate in the political process and the non-Christians would be willing to rely on and trust the Christian?
 
 # Argument that happiness is not available in this life. (cc. 1-10)
 
@@ -118,7 +118,7 @@ Augustine writes
 So we can cross out another box.
 
 ||pleasure| repose|	pleasure & repose|primary objects of nature
-|virtue serving x| 	no|	no|	no|	NO|
+|virtue serving x| 	no|	no|	no|	**NO**|
 |x serving virtue|	no|	no|	no|	
 |x with virtue	|no	|no	|no	|
 
@@ -140,7 +140,7 @@ What kinds of primary goods are not necessary for virtue, but make life even bet
 {:.answer}
 > "bodily advantages, such a swiftness of foot, beauty, or strength." (Augustine, City of God, XIX, c. 3 (p. 675))
 
-In essence, Varro concludes: of course a life where virtue serves pleasure or primary goods, is pretty bad. But a life where one has sufficient primary goods to practice the virtues is a pretty happy life. But the happiest life is the one where a person has virtue, and enjoys all the other goods of life that are not needed for virtue, but are still really nice to have. 
+In essence, Varro concludes: of course a life where virtue serves pleasure or primary goods is pretty bad. But a life where one has sufficient primary goods to practice the virtues is a pretty happy life. But the happiest life is the one where a person has virtue, and enjoys all the other goods of life that are not needed for virtue, but are still really nice to have. 
 
 For example, you don't necessarily need to be beautiful to be virtuous. But life would probably be a lot easier and comfortable for us if, in addition to being virtuous, we also got to be beautiful, or healthy, etc.
 
@@ -148,8 +148,8 @@ And so we can end with Varro's answer:
 
 ||pleasure 	|repose	|pleasure & repose|	primary objects of nature
 |virtue serving x |	no	|no	|no	|NO|
-|x serving virtue|	no	|no|	no|	Kind-of|
-|x with virtue|	no	|no	|no	|Yes|
+|x serving virtue|	no	|no|	no|	**Kind-of**|
+|x with virtue|	no	|no	|no	|**Yes**|
 
 ## Reason why Happiness is Not Available in this Life
 
@@ -161,6 +161,7 @@ If the practice of virtue depends on the possession of certain essential primary
 Let’s start first with the idea that happiness can be found in the bodily primary goods of nature (e.g. health, fitness, strength, etc.)
 
 <div class="discussion" markdown="1">
+
 {:.dquestion}
 With respect to the physical primary goods (good bodily health etc.), what if I were a Billionaire and I had the best insurance plan ever? I could afford personal trainer, nutritionist, etc. Wouldn't I be happy? (Consider how Augustine's responds in c. 4, p. 676)
 
@@ -187,9 +188,11 @@ But what if we just wanted to focus on virtue, and we suggested that one could b
 Why can’t we count this person as perfectly happy? (consider p. 677)
 
 <div class="answer" markdown="1">
+
 Moral Virtues are usually only needed and enacted in times of difficulty and pain, e.g. courage in war, resistance/perseverance against temptation.
 
 > "In fine virtue itself...what is its occupation save to wage perpetual war with vices..." (Augustine, City of God, XIX, c. 6 (p. 676))
+> 
 </div>
 
 In short, Augustine does something rather clever here. 
@@ -208,9 +211,9 @@ Once again, you can imagine how this position causes some of the political conce
 
 If I don’t believe material prosperity will bring me happiness, can I be relied on to work for the benefit and material prosperity of the community?
 
-If I'm a non-Christian resident here, can I trust my tourist Christian neighbor is going to take care of their yard, drive on the correct side of the road, and generally perform actions which help strengthen the infrastructure of the state needed for my own projects (rather than undermine them)).
+If I'm a non-Christian resident here, can I trust that my tourist Christian neighbor is going to take care of their yard, drive on the correct side of the road, and generally perform actions which help strengthen the infrastructure of the state needed for my own projects (rather than undermine them)).
 
-If I don’t believe that happiness can be found in spiritual / virtuous well-being can I be relied on to support the cultural institutions designed to support such development.
+If I don’t believe that happiness can be found in spiritual / virtuous well-being can I be relied on to support the cultural institutions designed to support such development?
 
 # What does this mean for engagement in the world? (c. 11-21)
 
@@ -219,9 +222,11 @@ So, this leads us to the very serious question about what does pilgrim life look
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-Let’s start by being very blunt about what’s at stake: if I’m convinced by Augustine’s argument, why not just kill myself? Why isn’t this a proper response to "happiness is not available in this life"? Why shouldn’t we attempt to move on as quickly as possible to the next life? Are there any text passages from Augustine that suggest this is not the proper response?
+
+Let’s start by being very blunt about what’s at stake: if someone is convinced by Augustine’s argument, why isn't suicide the logical step? Why shouldn’t they attempt to move on as quickly as possible to the next life? Are there any text passages from Augustine that suggest this is not the proper response?
 
 <div class="answer" markdown="1">
+
 The next life must be earned; life on earth requires a good faith effort.  
 
 Consider the second half of the quotation from Book 2 [cited above](#quote-bbtter1).
@@ -233,7 +238,7 @@ Consider the second half of the quotation from Book 2 [cited above](#quote-bbtte
 
 If there are reasons not to kill yourself, how does this affect the pilgrim's interest or relation to the earthly city?
 
-Here is where I think we need to start keeping an eye out for multitude of different and often conflicting answers about the proper conduct of an earthly pilgrim that we will see emerge throughout the Middle Ages.
+Here is where I think we need to start keeping an eye out for the multitude of different and often conflicting answers about the proper conduct of an earthly pilgrim that we will see emerge throughout the Middle Ages.
 
 In chapters 11-21, Augustine is going to bring forward his own answer. But his is not the only answer that can be offered. And we want to keep our eyes out for other kinds of answers people will offer as well as the practical implications of those different answers.
 
@@ -259,7 +264,7 @@ In contrast, the Christian Pilgrim wants to make “use” of peace to aid them 
 </div>
 </div>
 
-The idea that the pilgrim needs to **use** the earthly **peace** (and the fruits of peace) suggest that Augustine's pilgrim is not just passing through but is being given time “to work out” their salvation on earth. Thus Augustine's pilgrim has obligations to the earthly city because they need earthly **peace** in order to fulfil their pilgrim obligations.
+The idea that the pilgrim needs to **use** the earthly **peace** (and the fruits of peace) suggests that Augustine's pilgrim is not just passing through but is being given time “to work out” their salvation on earth. Thus Augustine's pilgrim has an interest in the earthly city because they need earthly **peace** in order to fulfil their pilgrim obligations.
 
 With respect to these obligations, consider the following passages:
 
@@ -267,20 +272,22 @@ With respect to these obligations, consider the following passages:
 
 > “But as this divine Master inculcates two precepts – the love of God and the love of our neighbor – and as in these precepts a man finds three things he has to love – God, himself, and his neighbor – and that he who loves God loves himself thereby, it follows that he must endeavour to get his neighbor to love God, since he is ordered to love his neighbor as himself.” (Augustine, City of God, XIX, c. 14 (p. 692))
 
-This is an important part of understanding many of the developments we will see in the Middle Ages. It explains much of the angst seen in the medieval society concerned whether or not this “salvation” is being worked out. We will see this in the Monastic movement and Benedict’s Rule where the command to love God, self, and neighbor is given a very particular interpretation. And we will see further rival answers in the emergence of warrior saints during Crusades, where battle and war become a possible means of sanctification.
+This is an important part of understanding many of the developments we will see in the Middle Ages. It explains much of the angst seen in a medieval society that is frequently concerned about whether or not this “salvation” is being worked out. 
+
+(We will see this in the monastic movement and Benedict’s Rule where the command to love God, self, and neighbor is given a very particular interpretation. And we will see further rival answers in the emergence of warrior saints during Crusades, where battle and war become a possible means of sanctification.)
 
 The result of this pilgrim position creates a strange and ambiguous relation between the pilgrim and the earthly society or the "City of Man".
 
-On the one hand: The pilgrim is eager to see the “earthly city" do well and remain peaceful because this is the best environment for a pilgrim “to work out their salvation”. Accordingly, the pilgrim is, under normal circumstances, obligated to follow the laws of the city and participate in civic life. Augustine writes: 
+**On the one hand**: The pilgrim is eager to see the “earthly city" do well and remain peaceful because this is the best environment for a pilgrim “to work out their salvation”. Accordingly, the pilgrim is, under normal circumstances, obligated to follow the laws of the city and participate in civic life. Augustine writes: 
 
 > "...it makes no scruple to obey the laws of the earthly city, whereby the things necessary for the maintenance of this mortal life are administered: and thus, as this life is common to both cities, so there is a harmony between them in regard to what belongs to it..." (Augustine, City of God, XIX, c. 17 (p. 696)).
 
-On the other hand: because the pilgrim only means to use the modest benefits of the city, rather than find happiness within it, their commitment to the earthly city has some limits or conditions.
+**On the other hand**: because the pilgrim only means to use the modest benefits of the city, rather than find happiness within it, their commitment to the earthly city has some limits or conditions.
 
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-What are the conditions under which a pilgrim can engagement in the earthly political life? What are the conditions under which a pilgrim cannot? Can you find any passages that speak to this question?
+What are the conditions under which a pilgrim can engage in the earthly political life? What are the conditions under which a pilgrim cannot? Can you find any passages that speak to this question?
 
 <div class="answer" markdown="1">
 
@@ -390,7 +397,7 @@ In this case, a pilgrim who is able to accept less than their fair share would a
 * Pilgrim Status and its Political Ambiguities
   * We've seen another extended argument for why perfect happiness is not available in this life.
   * The pilgrim status, then, raises a lot of question: how should a pilgrim  participate (or not participate) in a world they are just passing through?
-  * Augustine points out that the pilgrim "needs" the **earthly peace** to work out their salvation. Thus to the extent possible they have a responsibility to work for and contribute to the peaceful existence of the city. 
+  * Augustine points out that the pilgrim "needs" the **earthly peace** to work out their salvation. Thus, to the extent possible, they have a responsibility to work for and contribute to the peaceful existence of the city. 
   * But there are limits. The pilgrim is not obligated to work for the earthly city in a way that jeopardizes their entrance into the heavenly city.
   
 
