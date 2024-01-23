@@ -4,7 +4,7 @@ layout: lecture
 description: "Augustine the Pilgrim in the Earthly City"
 readings: "Augustine, City of God, Book 19"
 published: true
-date: 2023-01-23
+date: 2024-01-23
 nav_order: 3
 ---
 
