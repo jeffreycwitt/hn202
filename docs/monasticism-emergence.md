@@ -4,7 +4,7 @@ layout: lecture
 description: "The 5th century decline of rome and the rise of monasticism"
 readings: "Rule of St. Benedict"
 published: false
-date: 2023-01-30
+date: 2024-01-25
 nav_order: 4
 ---
 
@@ -41,7 +41,7 @@ You would probably declare yourself emperor.
 
 Instead, Odoacer refuses to claim the title emperor and declares nominal allegiance to the eastern emperor.
 
-Now for the first time, there is no declared emperor of the old Western Empire. Instead we begin to see regional kingdoms emerge -- regional kingdoms that help explain the political fluidity, instability, and fragmentation in the west that further help explain the next several hundred years.
+Now for the first time, there is no declared emperor of the old Western Empire. Instead we begin to see regional kingdoms emerge -- regional kingdoms that help explain the political fluidity, instability, and fragmentation in the west that further helps explain the next several hundred years.
 
 ## The New Kingdoms of Europe
 
@@ -57,7 +57,7 @@ In its fundamental Greek meaning, it simply meant non-Greek speaking people. (So
 
 It more generally comes to mean a non-Greek or non-Roman citizen and anyone who is an outsider. Thus, by referring to the Barbarian Tribes, we are not referring to a monolithic unit. But rather to several different ethnic tribes.
 
-Tribes themselves were "loose federation" of what might be best described as clans that could be roughly 50 or so families. These tribes have certain kinds of codes of conducts, usually unwritten, and an identifiable leader.
+Tribes themselves were a "loose federation" of what might be best described as clans that could be roughly 50 or so families. These tribes have certain kinds of codes of conducts, usually unwritten, and an identifiable leader.
 
 While there are many important tribes, I want to highlight a few groups of particular importance.
 
@@ -123,7 +123,7 @@ At this point, I would like to pause and consider closely the kinds of social an
 Review what Rosenwein says in SHMA pp. 24-29 and then consider:
 
 {:.dquestion}
-What does former Western Rome look like after 476? Can we summarize the key changes? Use the annotation tool to identify a change that seems significant to you and be sure to tell us why?
+What does former Western Rome look like after 476? Can we summarize the key changes? Use the annotation tool to identify a change that seems significant to you and be sure to tell us why.
 
 <div class="answer" markdown="1">
 
@@ -188,13 +188,13 @@ But when Western Rome fragments and populations were scattered by war and plague
 
 Monasteries became small self-selecting communities where certain forms of life and culture were preserved because of the general submission to the rules of communal life.
 
-Likewise, the Church and Monasteries were creating, what I would call, transnational administrative networks and communities in a time when the statehood and political sovereignty was fluid and weak.
+Likewise, the Church and Monasteries were creating what I would call *transnational administrative networks and communities* in a time when the statehood and political sovereignty was fluid and weak.
 
 # St. Benedict's Rule
 
 <div class="discussion" markdown="1">
 
-We spent a lot of time talking about Augustine's conception of earthly life as a pilgrimage and how a pilgrim should engage with the earthly society. Benedict's Rule certainly suggest that human beings living on earth are "not yet" home. However, he also describes a kind of pilgrim life, that on the surface, looks rather different than what Augustine described.
+We spent a lot of time talking about Augustine's conception of earthly life as a pilgrimage and how a pilgrim should engage with the earthly society. Benedict's Rule certainly suggests that human beings living on earth are "not yet" home. However, he also describes a kind of pilgrim life, that on the surface, looks rather different than what Augustine described.
 
 {:.rquestion}
 So, how do you think these two visions compare? Do you think Benedict's ideas about the relationship of the pilgrim to the earthly city are similar to Augustine's or different? In what respect? What textual evidence can you provide for your answer?
