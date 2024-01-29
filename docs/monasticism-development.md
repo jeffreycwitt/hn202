@@ -3,8 +3,8 @@ title: '5: Monasticism and its Development'
 layout: lecture
 description: "The Medieval Legacy of Monasticism."
 readings: ""
-published: false
-date: 2023-01-30
+published: true
+date: 2024-01-30
 nav_order: 5
 ---
 
@@ -15,9 +15,9 @@ nav_order: 5
 
 # Intro 
 
-Our goals for today are to get a general understanding of how Monasticism spread, developed, and continually reformed itself during the course of the Middle Ages. 
+Our goal for today are to get a general understanding of how Monasticism spread, developed, and continually reformed itself during the course of the Middle Ages. 
 
-One of our goals is to make sure we understand this history and the basic timeline; but secondly and more abstractly, we want to continue to examine that tensions between the monastery and the earthly city. Thus, in the back of our mind, we ought to keep asking questions like the following: 
+In the first place we want to make sure we understand this history and the basic timeline; but secondly and more abstractly, we want to continue to examine that tensions between the monastery and the earthly city. Thus, in the back of our mind, we ought to keep asking questions like the following: 
 
 * To what extent is the monastery really secluded from the world? 
 * Does the monastery rely/depend on the earthly city or is it completely self-sufficient? 
@@ -39,7 +39,7 @@ Here in bullet point form are a few main events that were important for the earl
   * Again a rough approximation; SHMA gives a death date of circa 550/560.
 * 545 - Benedict sends Brother Maurus to Gaul.
   *  Near the end of his life, after establishing several monasteries in Italy, Benedict sends brother “Maurus” to Gaul to build a monastery. This is the beginning of Benedictine Monasticism in Gaul/France. (BSB, "intro", p. xxii).
-* 597 - Pope Gregory sens Augustine of Canterbury to England as a missionary.
+* 597 - Pope Gregory sends Augustine of Canterbury to England as a missionary.
   * Augustine presumably brought Benedict’s rule with him as he sought to establish a monastery in the still pagan Anglo-Saxon Kingdoms.
   * The Anglo-Saxons are another migratory group that migrated west to the British Isles during the fragmentation of the Roman Empire.
   * These Anglo-Saxon migrations occurred roughly between 410 and 560. 
@@ -94,7 +94,7 @@ The reforms that we see the Cluny Monastery trying to make tell us something abo
 
 Since our reading (Lynch) jumps right in with a discussion of Cluny's own need for reform, let me provide a little bit background about Cluny itself.
 
-Cluny was founded in 909/910. The monks who founded the Monastery at Cluny were driven by a reform spirit. They intended to remedy a perceived lack of rigor that was apparent in the monasteries. This lack of rigor was often thought to be the result of compromises made by tight bonds between monasteries and their feudal lords, on whose lands the monks needed to live. Churches and Monastery that were settled on the land of feudal lord to whom the church/monastery owed allegiance were called [proprietary churches](https://en.wikipedia.org/wiki/Proprietary_church.). Proprietary churches led to lay abbacies, meaning the appointment by a feudal lord of a lay (non-monk) overseer. Under such conditions rigorous observance of Benedict's rule often ceased and the monastery primarily became a wealth producing institution. 
+Cluny was founded in 909/910. The monks who founded the Monastery at Cluny were driven by a reform spirit. They intended to remedy a perceived lack of rigor that was apparent in the monasteries. This lack of rigor was often thought to be the result of compromises made by tight bonds between monasteries and their feudal lords, on whose lands the monks needed to live. Churches and Monastery that were settled on the land of feudal lord to whom the church/monastery owed allegiance were called [proprietary churches](https://en.wikipedia.org/wiki/Proprietary_church). Proprietary churches led to lay abbacies, meaning the appointment by a feudal lord of a lay (non-monk) overseer. Under such conditions rigorous observance of Benedict's rule often ceased and the monastery primarily became a wealth producing institution. 
 
 We are going to return briefly to the notion of a proprietary church in the lead up to the First Crusade. But let me just quote a couple of passages from an expert, Uta-Renate Blumenthal. Blumenthal writes:
 
@@ -227,7 +227,7 @@ Cassiodorus served in the administration of Theodoric the Great, king of the Ost
 
 Near the end of his life, Cassiodorus establishes his own monastery in Italy at Vivarium in Southern Italy. 
 
-Cassiodorus also wrote a book called the *Institutions*, and the *Institutions* was meant to be guide or introduction for the proper study of scripture.
+Cassiodorus also wrote a book called the *Institutions*, and the *Institutions* was meant to be a guide or introduction for the proper study of scripture.
 
 What Cassiodorus adds to Benedict's demand for daily meditation of the Bible is the idea that the Bible is a book that requires "interpretation". Accordingly, proper interpretation requires training and instruction. This requirement opens the door to the need for study and training in a whole new set of disciplines.
 
@@ -252,13 +252,13 @@ could not accomplish this task because of continual wars and
 raging battles in the Kingdom of Italy--for peaceful endeavors
 have no place in a time of unrest--I was moved by divine love to
 devise for you, with God's help, these introductory books to take
-the place of a teacher.  Through them, God willing, I believe
+the place of a teacher. Through them, God willing, I believe
 that the textual disposition of Holy Scripture and a compact
 sketch of secular letters may be unfolded. These works may seem
 unscholarly since in them you will find not fine eloquence but
-basic description.  But they are of great use to anyone who seeks
+basic description. But they are of great use to anyone who seeks
 to know the source both of worldly knowledge and of the salvation
-of the soul.  I transmit in them not my own teaching, but the
+of the soul. I transmit in them not my own teaching, but the
 words of earlier writers which we justly praise and gloriously
 herald to later generations.  Any mention of the ancients in the
 midst of praising the Lord is not considered tasteless boasting. 
@@ -341,7 +341,7 @@ it were more distinctively and fully?" (Cassidorus, *Institutiones*, Book 2, c. 
 
 Accordingly, one can see how Cassiodorus opens the door for monks to be eager and zealous to collect, preserve, and study the books of classical learning and to pass this learning on to others.
 
-But in closing, we should be attentive to the inspiration behind Cassiodorus's sanctioning of secular learning. His awareness of his pilgrim status still colors how and why he thinks we should engage in this study. 
+But, in closing, we should be attentive to the inspiration behind Cassiodorus's sanctioning of secular learning. His awareness of his pilgrim status still colors how and why he thinks we should engage in this study. 
 
 In contrast to the classical view that this knowledge should be pursued for its own sake, Cassiodorus sees pagan knowledge as having a utilitarian value. It is not to be studied for its own sake, but so that the Bible can be properly interpreted, and so that the pilgrim can be sure that they are correctly understanding the biblical road map to a heavenly destination. 
 
