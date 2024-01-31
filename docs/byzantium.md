@@ -1,6 +1,5 @@
 ---
-title: '
-Early Byzantium'
+title: 'Early Byzantium'
 layout: lecture
 description: "The Development of Early Byzantium"
 readings: ""
@@ -46,7 +45,7 @@ But what happens next? What happens such that by 600 we see it labeled as the Ki
 
 Today, we want to the trace the historical narrative of the Early Medieval Byzantine Empire, while planting seeds for connections to the rise of Islam that we will begin next week and to the rise of the Carolingians that we will look at the following week. (This is a development to which chapter 2 of SHMA has already started to introduce us).
 
-Historian Paul Freedman provides a useful break down of the developments within Byzantium that will be useful to frame our conversation. He breaks down the development as follows.
+Historian Paul Freedman provides a break down of the developments within Byzantium that will be useful to frame our conversation. He breaks down the development as follows.
 
 * 532-565 Justinian Expansion <!-- made a treaty with Persians in 540 -->
 * 565-717 Contraction <!-- (loss of italy to Lombard, Sassanid Wars)(kind of dark age, not a lot sources, it is a militarized society)-->
@@ -68,7 +67,13 @@ His achievements include his development of an important collection of civil law
 <div class="discussion" markdown="1">
 
 {:.rquestion} 
-Can you think of any reasons why this is such a remarkable cultural achievement? Why would creating this kind of compilation have been extremely hard and requires hundreds, if not thousands, of laborers? What would a legal research team have to do in order create these compilations? What might Roman Law have looked like prior to these compiled law codes?
+Can you think of any reasons why this is such a remarkable cultural achievement? 
+
+{:.rquestion} 
+What might Roman Law have looked like prior to these compiled law codes?
+
+{:.rquestion} 
+Why would creating this kind of compilation have been extremely hard and requires hundreds, if not thousands, of laborers? What would a legal research team have to do in order create these compilations? 
 
 </div>
 
@@ -76,7 +81,7 @@ Can you think of any reasons why this is such a remarkable cultural achievement?
 
 But in addition to major cultural achievements, Justinian also undertook several military campaigns and could point to many success.
 
-A long time eastern foe of the Roman Empire was the Sasanid Dynasty of Persia. This conflict continued during the [Iberian Wars (526 to 532)](https://en.wikipedia.org/wiki/Iberian_War) but resolved in 532 with a new treaty of [Perpetual Peace](https://en.wikipedia.org/wiki/Perpetual_Peace_(532)) between the Byzantines and Sasanians. While not "perpetual", it did provide for a period of peace that allowed Byzantium to expand its claims elsewhere.
+A long time eastern foe of the Roman Empire was the Sasanid Dynasty of Persia. This conflict continued during the [Iberian Wars (527 to 532)](https://en.wikipedia.org/wiki/Iberian_War) but resolved in 532 with a new treaty of [Perpetual Peace](https://en.wikipedia.org/wiki/Perpetual_Peace_(532)) between the Byzantines and Sasanians. While not "perpetual", it did provide for a period of peace that allowed Byzantium to expand its claims elsewhere.
 
 ### North African Campaign (533-534)
 
@@ -128,7 +133,7 @@ Leading up to the event:
 * Emperor Maurice (582-602) was murdered by his troops in 602, while campaigning against the Avars and Slavs in the Balkans. 
 * Phocas becomes ruler in 602.
 
-{:.question}
+{:.dquestion}
 How did the Persian emperor (Chosroes react)? (See SHMA p. 42)
 
 {:.answer}
@@ -138,7 +143,7 @@ Compare these loses to the map in SHMA p. 35 of Byzantine Empire circa 600.
 
 Phocas's reign, understandably, is considered a disaster by the Byzantines. And Phocas was overthrown in 610.
 
-{:.question}
+{:.dquestion}
 Who was his successor, mentioned briefly in the account of the siege? 
 
 {:.answer}
@@ -243,11 +248,11 @@ It is true that Heraclius recovered most of the cities lost by Phocas. But the c
 
 ### In sum
 
-To summarize, we might ask: How does the siege of 626 event help us capture and explain several changes that would continue to be of importance? 
+To summarize, we might ask: How does the siege of 626 event help us capture and explain several changes that will continue to be of importance? 
 
 For my part, the battle is a pivotal point that helps me remember several different developments.
 
-* It reminds me of the original "retrenchment" of Byzantine (particularly because of the importance of the Theodosian Wall).
+* It reminds me of the original "retrenchment" (see SHMA c. 1) of Byzantine (particularly because of the importance of the Theodosian Wall).
 * It reminds me of the ongoing battles with the Sasanians; a world shaping interaction that would last for several hundred years. 
 * It reminds me of the period of contraction:
   * Consider the map of Byzantium in year 600 (SHMA, p. 35) and compare it to the map of Byzantium in year 700 (SHMA, p. 43).
