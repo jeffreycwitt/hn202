@@ -4,7 +4,7 @@ Early Byzantium'
 layout: lecture
 description: "The Development of Early Byzantium"
 readings: ""
-published: false
+published: true
 date: 2024-02-01
 nav_order: 6
 ---
