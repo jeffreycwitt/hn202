@@ -31,4 +31,22 @@ Were there any details in today's plenary that connect to our discussion of the 
 # Plenary 2 (Fri, Feb 02)
 ## Medieval Art - Dr. Boeye
 
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Based on today's plenary what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+{:.rquestion}
+Based on today's lecture, can you think of anything that might be "distinctive" about medieval art? Something that separates it from other periods of art you are familiar with?
+
+{:.rquestion}
+It goes without saying that religion (or in this case Christianity and the Bible) frequently serves an inspiration for art. However, based on today's lecture can you think of a way medieval art is serving as an inspiration for how we understand religion (for example, how we understand the "pilgrim" Christian life or interpret the Bible)? (This is meant to be an open ended question, so feel free to answer in any way that feels right.)
+
+
+</div>
+
+
+# Plenary 3 (Fri, Feb 09)
+## Medieval Monasticism - Dr. Bauerschmidt
+
 Next week's questions will be posted here.
