@@ -42,6 +42,8 @@ Based on today's lecture, can you think of anything that might be "distinctive" 
 {:.rquestion}
 It goes without saying that religion (or in this case Christianity and the Bible) frequently serves an inspiration for art. However, based on today's lecture can you think of a way medieval art is serving as an inspiration for how we understand religion (for example, how we understand the "pilgrim" Christian life or interpret the Bible)? (This is meant to be an open ended question, so feel free to answer in any way that feels right.)
 
+{:.rquestion}
+What other detail from today's lecture struck you as both strange **and** important? Tell us why, despite it strangeness, this detail might tell us something important the middle ages, medieval life, or medieval culture, etc.
 
 </div>
 
