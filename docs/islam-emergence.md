@@ -3,7 +3,7 @@ title: 'Origins and Development of Islam'
 layout: lecture
 description: "Origins and Development of Islam"
 readings: ""
-published: false
+published: true
 date: 2024-02-06
 nav_order: 7
 ---
@@ -204,7 +204,7 @@ Are there other similarities to Augustine here?
 Like Augustine, Muhammad has put forward a doctrine that asserts a kind of pilgrim status and this status has political consequences.  Earthly conduct will ultimately be judged by a heavenly judgment. 
 
 {:.dquestion}
-Why does the author say that this creates a new sense of "individualism"
+Why does the author say that this creates a new sense of "individualism"?
 
 <div class="answer" markdown="1">
 If one believed they could act in a certain way because of their blood or family times, the doctrine of the day of judgment challenges this. It says, you will be judged as an individual. 
