@@ -3,7 +3,7 @@ title: 'Islamic Empires and the Development of Islamic Law'
 layout: lecture
 description: "Islamic Empires and the Development of Islamic Law"
 readings: ""
-published: false
+published: true
 date: 2024-02-08
 nav_order: 8
 ---
@@ -53,7 +53,7 @@ Given our class's early discussion of the relevance and "uses" of history -- i.e
 
 You may remember, in 2019 there was a horrific attack on a Mosque in Christchurch, New Zealand. 51 people died and 40 we're injured. 
 
-What you may not be aware of is that the perpetrator of this crime, 28 year old Brenton Tarrant, published a "manifesto" prior to his killing spree to explain and justify his action. In the manifesto, which was titled "The Great Replacement", Tarrant attempts to justify his white Supremacist views and Islamophobia through a kind of pseudo-history of white resistance to non-white incursion. In this history, Charles Martel and the Battle of Tours in 732 occupy a central role. Tarrant, it appears, has absorbed this "history" and sees himself standing in a long line of "warriors" stretching back to Charles Martel.
+What you may not be aware of is that the perpetrator of this crime, 28 year old Brenton Tarrant, published a "manifesto" prior to his killing spree to explain and justify his action. In the manifesto, which was titled "The Great Replacement", Tarrant attempts to justify his white supremacist views and Islamophobia through a kind of pseudo-history of white resistance to non-white incursion. In this history, Charles Martel and the Battle of Tours in 732 occupy a central role. Tarrant, it appears, has absorbed this "history" and sees himself standing in a long line of "warriors" stretching back to Charles Martel.
 
 There is growing body of research on Tarrant's use (or *abuse*) of history, but if you're interested in exploring further you might start with [this article by Philip Stenmann Baun](https://journals.sagepub.com/doi/pdf/10.1177/17506980211044701).
 
@@ -102,7 +102,7 @@ Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us unders
 
 # The Hadith Tradition
 
-With this in the background, I'd like to consider some of the political challenges facing the Abbasids and how the Hadith tradition and Al-Shafi'i's work helped to meet these challenges.
+With this in the background, let's consider some of the political challenges facing the Abbasids and how the Hadith tradition and Al-Shafi'i's work helped to meet these challenges.
 
 ## The Problem
 
@@ -175,7 +175,7 @@ And in our example, we could use local, non-muslim, people to avoid political pr
 
 As the number of questions grow, and as the number people convert to Islam, we start to see a diversification of political practices, to the point that idea of a recognizable global Islamic community is threatened. 
 
-At this point, we might object: the original Islamic community at Medina did not have non-Muslims to help plug political holes. Nor was there an existing set of local customs and protocols that could answer political questions that arise for various problems. 
+At this point, we might object: the original Islamic community at Medina did not have non-Muslims to help plug political holes. Nor was there an existing set of local customs and protocols that could answer political questions that arose for various problems. 
 
 <div class="discussion" markdown="1">
 
@@ -198,7 +198,7 @@ You could just observe what he does. His practice. (The "Sunna" of the Prophet).
 
 The need for more detailed guidance on specific issues is the impetus behind the collections that make up the Hadith. The Hadith recorded the practice of the prophet and other Muslims considered holy or exemplary. As such they became a kind of way to consult the prophet or other holy muslims about specific questions even after they had died.
 
-So the Hadiths hold a lot of promise for providing the kind of explicitly Islamic political guidance needed by the Islamic community under the new Abbasid regime. 
+So the Hadith held a lot of promise for providing the kind of explicitly Islamic political guidance needed by the Islamic community under the new Abbasid regime. 
 
 <div class="discussion" markdown="1">
 
@@ -215,7 +215,7 @@ With the need for the Hadith to provide more detailed instruction about how the 
 
 Within this context, there seem to be two camps with conflicting ideas of how to proceed.
 
-**Traditionalist** grew fond of Hadiths important to their locality and to holy figures important to their locality. By analogy, we're talking about something like the cult of saints seen in Christianity. 
+**Traditionalist** grew fond of Hadiths important to their locality and to holy figures especially revered in their specific region. By analogy, we're talking about something like the cult of saints as seen in Christianity. 
 
 Usually, the legendary "sunna" of holy Muslims important to a given place were recorded, giving testimony to miraculous events and signs, and these recorded "sunna" in turn helped strengthen the local community and its prestige.
 
@@ -236,7 +236,7 @@ How does he provide this synthesis?
 The Quran does not stand alone. In order to be understood it has to be interpreted, and Muhammad is the true interpreter.
 
 {:.dquestion}
-(Does this emphasis on the need for interpretation remind you of a Christian thinker that we've discussed?)
+Does this emphasis on the need for interpretation remind you of a Christian thinker that we've discussed?
 
 {:.answer}
 Perhaps Cassiodorus
@@ -247,7 +247,7 @@ How can Muhammad function as "interpreter"? Certainly, he could provide explicit
 
 So, with respect to the Hadith, he developed some principles. For example:
 
-He privileged the Prophet's Sunna as necessary Hadiths for interpretation, but he also insisted on a rigorous criticism of the subsequent Hadith literature and he limited the number of Hadiths, and thereby help preserved the Orthodoxy of the Rationalists (See Ruthven, p. 135).
+He privileged the Prophet's Sunna (over the Sunna of other Muslims) as necessary Hadiths for interpretation. He also insisted on a rigorous criticism of the subsequent Hadith literature and thereby helped to preserve the Orthodoxy of the Rationalists (See Ruthven, p. 135).
 
 <div class="discussion" markdown="1">
 How do we see an example of this emphasis on rigor and method in the Hadith excerpts we read for today? 
