@@ -80,7 +80,7 @@ In short, the Martel / Umayyad encounter fits into this story because it reinfor
 
 Let's turn next to the rise of the Abbasid Empire with a quick overview, and then we can connect this directly with our reading of some extracts from the hadith. 
 
-Rosenwein (see esp. SHMA pp. 88-89) gives us a lot of material to help us understand the decline of the Umayyads and their replacement by the Abbasids. Here, in bullet form, I review some of the highlights. (Please annotate and comment on entries that seem to you especially important or would benefit from more class discussion.)
+Rosenwein (see esp. SHMA pp. 90-94) gives us a lot of material to help us understand the decline of the Umayyads and their replacement by the Abbasids. Here, in bullet form, I review some of the highlights. (Please annotate and comment on entries that seem to you especially important or would benefit from more class discussion.)
 
 * The Abbasids partnered with disgruntled Shia Muwali (converts) and other holy men ('ulama) who were dissatisfied with the general monarchial decadence of the Umayyad rulers.
 * This transition to power originally had Shia support and a Shia inspiration.
@@ -110,9 +110,9 @@ During the transition from the Umayyad to the Abbasid Empire the Islamic communi
 
 The Umayyads had effectively ruled their new vast empire through adopting and maintaining existing bureaucratic systems and the laws of conquered lands. There is something smart of about this, as it seems the least disruptive way to maintain conquered systems as productive sources of wealth.
 
-See for example Rosenwein's note on p. 126:
+See for example Rosenwein's note on p. 55:
 
-> "Damascus was the capital of a flourishing empire, much of which was administered by the Christian clerical class inherited by the Arabs." (SHMA, p. 126).
+> "the Umayyads made Damascus, previously a minor Byzantine city, into their capital. Here they adopted many of the institutions of the culture that they had conquered, employing former Byzantine officials as administrators..." (SHMA, p. 55).
 
 But there were some problems.
 
