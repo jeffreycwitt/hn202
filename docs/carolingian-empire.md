@@ -3,8 +3,8 @@ title: '9: The Rise of the Carolingian Empire'
 layout: lecture
 description: "The Rise of the Carolingian Empire'"
 readings: ""
-published: false
-date: 2023-02-14
+published: true
+date: 2024-02-13
 nav_order: 9
 ---
 
@@ -13,20 +13,22 @@ nav_order: 9
 1. TOC 
 {:toc}
 
-# Some Links to Digital Collections
+<!-- # Some Links to Digital Collections
 
 * [Walters](https://art.thewalters.org/browse/location/)
 * [Victoria Albert Museum - Filtered by "Medieval" and Date (400-1200)](https://collections.vam.ac.uk/search/?page=1&page_size=15&id_category=THES271264&year_made_from=400&year_made_to=1200)
-* [British Museum - Filtered by "Medieval", location (Europe) and Date (400-1200)](https://www.britishmuseum.org/collection/search?keyword=Medieval&place=Europe&dateFrom=400&dateTo=1200&eraFrom=ad&eraTo=ad&view=grid&sort=object_name__asc&page=1)
+* [British Museum - Filtered by "Medieval", location (Europe) and Date (400-1200)](https://www.britishmuseum.org/collection/search?keyword=Medieval&place=Europe&dateFrom=400&dateTo=1200&eraFrom=ad&eraTo=ad&view=grid&sort=object_name__asc&page=1) -->
 
 # Intro
 
 Today, we’re beginning a short inquiry into the life and achievements of Charlemagne or Charles the Great. We also want to see Charlemagne's life in the context of the geo-political events that surrounded his reign. Here's a possible way to break down this period into smaller units.
 
-* From Merovingian to Carolingian Period(485-751)
+* From Merovingian to Carolingian Period (485-751)
 * The First Carolingian King (r. 751-768)
 * The Rule of Charlemagne (r. 768-814)
 * The Decline of the Carolingian Empire (814-10th century)
+
+(Note: pages references to SHMA below might be a little off. At present, they refer to the 5th edition. I'm currently traveling and won't have access to my 6th edition until I get home Monday evening, at which point I will promptly update them.)
 
 # The Merovingian Dynasty 
 
@@ -105,7 +107,7 @@ Thus ends the Merovingian Dynasty and begins what we call the Carolingian Era.
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-What kind of political problems face a usurper that attempts to overthrow a preceding dynasty? What does such a person have to establish?
+What kind of political problems face a usurper who attempts to overthrow a preceding dynasty? What does such a person have to establish?
  
 <div class="answer" markdown="1">
 The change of dynasty required that Pippin go out of his way to establish his legitimacy as the true king.
@@ -148,7 +150,7 @@ And here’s another connection to something we already know.
 Previously, the the Pope in Rome had relied on military protection against tribes like the Lombards from the Byzantine Empire.
 
 {:.question}
-But what kinds the Byzantine Empire facing at the very same time (anywhere between 711 and 800)?
+But what kind of challenge is the Byzantine Empire facing at the very same time that the Pope needs help (anywhere between 711 and 800)?
 
 {:.answer}
 Attacks from the emerging Islamic Empire. For example, the second Umayyad siege of Constantinople in 717 (there was also a prior siege in 674: see [wikipedia for list of sieges](https://en.wikipedia.org/wiki/List_of_sieges_of_Constantinople) and various other battles on the borders between the Byzantine and Abbasid empire after 750.
@@ -198,7 +200,7 @@ By looking to the north and west for protection rather than to the Byzantine eas
 
 (Consider the maps in SHMA on p. 43 and p. 59 for Byzantine ownership and compare these to map 3.4 on p. 96).
 
-This shift, usually marked at 752-756 (from the time Pope Stephen called from help until the donation of Pepin), is sometimes referred to as the shift from the Byzantine Papacy to the Frankish Papacy.
+This shift, usually marked at 752-756 (from the time Pope Stephen called for help until the donation of Pepin), is sometimes referred to as the shift from the Byzantine Papacy to the Frankish Papacy.
 
 The Byzantine period was a period in which most of the Popes were Greek and Popes generally sought and needed the approval of the Byzantine Emperor to become Pope. 
 
