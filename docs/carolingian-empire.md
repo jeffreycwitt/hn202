@@ -28,7 +28,7 @@ Today, we’re beginning a short inquiry into the life and achievements of Charl
 * The Rule of Charlemagne (r. 768-814)
 * The Decline of the Carolingian Empire (814-10th century)
 
-(Note: pages references to SHMA below might be a little off. At present, they refer to the 5th edition. I'm currently traveling and won't have access to my 6th edition until I get home Monday evening, at which point I will promptly update them.)
+(Note: pages references to SHMA below might be a little off. At present, they refer to the 5th edition. I'm currently traveling and won't have access to my 6th edition until I get home Monday evening, at which point I will promptly update them. Thanks for your understanding.)
 
 # The Merovingian Dynasty 
 
