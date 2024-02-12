@@ -28,7 +28,6 @@ Today, we’re beginning a short inquiry into the life and achievements of Charl
 * The Rule of Charlemagne (r. 768-814)
 * The Decline of the Carolingian Empire (814-10th century)
 
-(Note: pages references to SHMA below might be a little off. At present, they refer to the 5th edition. I'm currently traveling and won't have access to my 6th edition until I get home Monday evening, at which point I will promptly update them. Thanks for your understanding.)
 
 # The Merovingian Dynasty 
 
@@ -167,7 +166,7 @@ Thus, we have TWO parties, both in need of something from the other.
 
 Pippin is very good at fighting but needs to establish legitimacy. Pope Stephen holds a position of recognized authority but has very little military strength.
 
-In 753, Pope Stephen II offers to support Pippin in exchange for help in Italy. Pippin consents and invades Italy to help protect Pope Stephen II from Lombard invasions. Tradition refers to this concession as the “donation of Pippin” in 756 (see SHMA, p. 98). 
+In 753, Pope Stephen II offers to support Pippin in exchange for help in Italy. Pippin consents and invades Italy to help protect Pope Stephen II from Lombard invasions. Tradition refers to this concession as the “donation of Pippin” in 756 (see SHMA, p. 104). 
 
 In exchange for his services, Pope Stephen II in 754 "re-crowns" Pippin King (giving him the legitimacy he needs). 
 
@@ -198,7 +197,7 @@ Finally, it is important to stress the larger geo-political point here:
 
 By looking to the north and west for protection rather than to the Byzantine east, we are witnessing a critical and ongoing **geo-political shift**. The growing weakness of the Byzantine Empire and the rise of the Islamic Empire in the east, pushed the popes to look north and west for protection. This solidified a papal connection with Western Europe that dominated the rest of the Middle Ages (and even the present day)!
 
-(Consider the maps in SHMA on p. 43 and p. 59 for Byzantine ownership and compare these to map 3.4 on p. 96).
+(Consider the maps in SHMA on p. 43 and p. 59 for Byzantine ownership and compare these to map 3.4 on p. 105).
 
 This shift, usually marked at 752-756 (from the time Pope Stephen called for help until the donation of Pepin), is sometimes referred to as the shift from the Byzantine Papacy to the Frankish Papacy.
 
@@ -245,8 +244,8 @@ Does Einhard's choice to memorialize the political activity of Charlemagne intro
 
 ## Military and Political Success
 
-* Rosenwein notes (SHMA, p. 96) that, despite not being able to collect land taxes or have salaried officials or a standing army, Franks were able to achieve something similar to what was being achieved by Byzantium and the Abbasids in the 9th century. How was this possible? 
-  * Rosenwein notes: "the answer is at least threefold: 1) the Carolingians took advantage of the same gentle economic upturn that seems to have taken place generally; 2) they **exploited to the full the institutions of Roman culture** and political life that remained to them; 3) and at the same time, they were willing to **experiment with new institutions** and take advantage of unexpected opportunities" (SHMA, p. 96).
+* Rosenwein notes (SHMA, p. 102) that, despite not being able to collect land taxes or have salaried officials or a standing army, Franks were able to achieve something similar to what was being achieved by Byzantium and the Abbasids in the 9th century. How was this possible? 
+  * Rosenwein notes: "the answer is at least threefold: 1) the Carolingians took advantage of the same gentle economic upturn that seems to have taken place generally; 2) they **exploited to the full the institutions of Roman culture** and political life that remained to them; 3) and at the same time, they were willing to **experiment with new institutions** and take advantage of unexpected opportunities" (SHMA, p. 102).
 
 <div class="discussion" markdown="1">
 
