@@ -1,10 +1,10 @@
 ---
-title: '9: The Rise of the Carolingian Empire'
+title: 'The Rise of the Carolingian Empire'
 layout: lecture
 description: "The Rise of the Carolingian Empire'"
 readings: ""
 published: true
-date: 2024-02-13
+date: 2023-02-13
 nav_order: 9
 ---
 
