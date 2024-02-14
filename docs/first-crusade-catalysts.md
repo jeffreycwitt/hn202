@@ -3,7 +3,7 @@ title: 'Lead up to the First Crusade'
 layout: lecture
 description: "Lead up to the First Crusade"
 readings: ""
-published: false
+published: true
 date: 2024-02-15
 nav_order: 10
 ---
@@ -13,12 +13,13 @@ nav_order: 10
 1. TOC 
 {:toc}
 
-# Review
+<!-- # Review
 
 Some Key Dates. 
 
 <div class="discussion" markdown="1">
 {:.rquestion}
+
 What’s important about these dates? How do they help us tell our story?
 
 * 711
@@ -72,7 +73,7 @@ For example:
   
 </div>
 
-In any case, this will be a perpetual conflict that we will see below, as well as in the later Middle Ages. For now, let's turn to the decline of the Carolingian Empire and the conditions leading up to the First Crusade.
+In any case, this will be a perpetual conflict that we will see below, as well as in the later Middle Ages. For now, let's turn to the decline of the Carolingian Empire and the conditions leading up to the First Crusade. -->
  
 # Decline of the Carolingian Empire
 
@@ -81,7 +82,7 @@ In 814 Charlemagne dies and is succeeded by his son, Louis the Pious (r. 814-840
 Louis the Pious is often considered well meaning, but his rule suffered from at least two big problems.
 
 1. Viking Invasions (especially during the first part of the 9th century)
-   1. Several coastal areas (western Francia) were lost between 814-840 (see SHMA 130-134).
+   1. Several coastal areas (western Francia) were lost between 814-840 (see SHMA 134-140).
 2. His sons fought amongst themselves and against their father. (This created civil wars that were beginning to break up the empire into areas that look more similar to what we see on a modern map.)
 
 The conflicts between the sons of Louis the Pious are particularly well illustrated in the events following Louis’ death in 840.
@@ -108,17 +109,15 @@ There are few things to note about the treaty.
   * It is, therefore, not a complete surprise today that we see this area divided into many different nations.
   * It has been the center many conflicts throughout history.
     * For example: a great deal World War I on the Western Front took place in the northern part of Lothar’s kingdom.
-* After the Treaty of Verdun, the title of Holy Roman Emperor was increasingly irrelevant.
-  * For example, Charles the Fat (son of Louis the German) was "called emperor" but was fairly ineffectual. 
-* In Germany, the Carolingian dynasty dies out in 911 (reclaimed by Otto in 962).
-* In France, the Carolingian dynasty remains until 987 (replaced by the Capetian dynasty).
+* In Eastern Francia, the Carolingian dynasty dies out in 911 (reclaimed by Otto in 962).
+* In Western Francia, the Carolingian dynasty remains until 987 (replaced by the Capetian dynasty).
 
 # The 10th Century: a new world order
 
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-So, what was social and political life like in the 10th and 11th centuries, after the Treaty of Verdun, and after the Carolingian lines had ended in both East Francia (German) and West Francia (France)? (Consider SHMA pp. 135-150 and the introduction of our "First Crusade Reader"; can you point us to any relevant passages?)
+So, what was social and political life like in the 10th and 11th centuries, after the Treaty of Verdun, and after the Carolingian lines had ended in both East Francia and West Francia? (Consider SHMA pp. 141-155 and the introduction of our "First Crusade Reader"; can you point us to any relevant passages?)
 
 <div class="answer" markdown="1">
 
@@ -137,7 +136,7 @@ This fragmentation had serious and long-term consequences.
 
 Rosenwein write: 
 
-> "[The] origins [of feudalism] are to be found in the break-up of the Carolingian order -- the tenth and eleventh century" (SHMA, p. 136)
+> "[The] origins [of feudalism] are to be found in the break-up of the Carolingian order -- the tenth and eleventh century" (SHMA, 5th edition, p. 136)
 
 Why? Even though a central government could not be sustained, there was still a constant need for protection and defense. 
 
@@ -145,13 +144,13 @@ Land-owners (lords) needed protectors, and thus they gave part of their land (as
 
 As Rosenwein states: 
 
-> "Tenth-century rulers were more dependent on ties of dependency: they needed their "men" (homines), their vassals (vassalli). Whatever the term, all were armed retainers who fought for a lord." (SHMA, p. 135)
+> "Tenth-century rulers were more dependent on ties of dependency: they needed their "men" (homines), their vassals (vassalli). Whatever the term, all were armed retainers who fought for a lord." (SHMA, p. 141)
 
 And again: 
 
-> "Sometimes these subordinates held land from their lord as a reward for their military service or as an inheritance for which services were due. The term for such an estate, fief (foedum), gave historians the word "feudalism" to describe the social and economic system created by the relationships among lords, vassals, and fiefs." (SHMA, pp. 135-136)
+> "Sometimes these subordinates held land from their lord as a reward for their military service or as an inheritance for which services were due. The term for such an estate, fief (foedum), gave historians the word "feudalism" to describe the social and economic system created by the relationships among lords, vassals, and fiefs." (SHMA, pp. 141)
 
-In short, what we call Germany and France in 10th century were more like a series of principalities, over whom kings (and even the so-called emperor) had little power.
+In short, what we call Germany and France in 10th century were more like a series of principalities, over whom kings (and even the so-called emperor) had little direct sovereign power.
 
 This political fragmentation and resulting political landscape gave rise to a couple of related phenomena in the 10th century (both of which are mentioned in our "The First Crusade" (TFC) reader.)
 
@@ -242,8 +241,8 @@ Through the task of appointing bishops (many of whom functioned as political gov
 At the same time that these church reforms were taking place, a necessary kind of military reform was also taking place.
 
 <div class="discussion" markdown="1">
-{:.rquestion}
 
+{:.rquestion}
 From our introduction, did you get a sense of some of the problems that were being raised? How would you describe the problem in your own words?
 
 </div>
@@ -273,7 +272,7 @@ Killing is a sin, fighting is a sin that requires penance.
 > "The Christian response to sin was penance..." (TFC, p. 8)
 </div>
 
-{:.dquestion}
+{:.question}
 Is there anything particularly Augustinian about this attitude? 
 
 <div class="answer" markdown="1">
@@ -317,7 +316,7 @@ Concretely, there are couple of different ways the church tried to provide oppor
 
 ## The Peace and Truce of God 
 
-Prior to the Crusades, there was attempt by the church to suppress and limit this violence through a loosely defined set of rules called the "Peace and Truce of God" (see also SHMA, 138-139).
+Prior to the Crusades, there was attempt by the church to suppress and limit this violence through a loosely defined set of rules called the "Peace and Truce of God" (see also SHMA, 145).
 
 <div class="discussion" markdown="1">
 
