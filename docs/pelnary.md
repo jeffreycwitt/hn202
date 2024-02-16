@@ -64,4 +64,10 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 
 
 # Plenary 4 (Fri, Feb 16)
-Next week's questions will be posted here.
+## Islam - Dr. Zaleski
+
+{:.rquestion}
+As an exercise for thinking about our upcoming paper: does today's lecture point to any "essential characteristics" of medieval Islam? In other words, what is a detail about medieval Islam that you learned today that could be used to justify a object's inclusion in a corresponding exhibit? (E.g. This object needs ot be included because it points us to this "essential characteristic" of medieval Islam.)
+
+{:.rquestion}
+What's something surprising about Islam that you learned today? Why was it is surprising? Explain how it makes you think about Islam from a new perspective or in a new light?
