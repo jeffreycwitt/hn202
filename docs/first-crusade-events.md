@@ -3,8 +3,8 @@ title: 'The First Crusade according to Fulcher of Chartres'
 layout: lecture
 description: "The First Crusade according to Fulcher of Chartres"
 readings: "Reading: Fulcher of Chartres"
-published: false
-date: 2024-02-13
+published: true
+date: 2024-02-20
 nav_order: 11
 ---
 
@@ -36,20 +36,23 @@ Some notes about the Seljuk Turks:
   * This pattern appears similar to the way Lombards helped the Byzantines and then became conquerors themselves.
 * In 1055, they captured Baghdad (and they began using the Abbasid caliphs as figure heads).
 * In 1071, they defeated the Byzantines at Manzikert (SHMA, p. 163).
-  * Incidentally, this was the date (1071) that we used to mark the end of the Golden Era of Byzantine expansion (843-1071 Expansion, see [class 6](class-6.html#expansion-843-1071](https://jeffreycwitt.com/hn202/docs/class-6.html#expansion-843-1071)).
+  * Incidentally, this was the date (1071) that we used to mark the end of the Golden Era of Byzantine expansion (843-1071 Expansion, see [class 6](byzantium.html#expansion-843-1071](https://jeffreycwitt.com/hn202/docs/class-6.html#expansion-843-1071)).
 * And especially important for our story, in 1075, the Turks occupied Jerusalem. 
 
 In response to these Turkish conquests, in January of 1095, at the Council of Piacenza, and in March of 1095 (See SHMA p. 181 and TFC, p. 52n1-2) Byzantine Emperor Alexius appealed to Pope Urban II for a small band of mercenary knights to fight the Turks who had by this time conquered most of Asia Minor.  
 
 
 <div class="discussion" markdown="1">
+
 {:.question}
 Quick review: How does this show a dramatic difference between the Popes of the Carolingian era and the Popes of the 11th century?
+
 </div>
 
 <div class="discussion" markdown="1">
+
 {:.dquestion}
-Why might we say Tukish conquest of Jerusalem is only a "surface" cause, or as SHMA says "ostensibly", and not a real cause of the Crusade? 
+Why might we say that the Turkish conquest of Jerusalem is only a "surface" cause, or as SHMA says "ostensibly", and not a real cause of the Crusade? 
 
 {:.answer}
 Because the preceding two causes -- namely the need for military reform charged with religious inspiration -- suggest that the West in a way already wanted or needed something like a Crusade. The request from Alexius, in effect, provides a convenient cover for what was already brewing.
@@ -59,9 +62,9 @@ Because the preceding two causes -- namely the need for military reform charged 
 
 Today, I want us to walk slowly through some of the key timeline events of the first crusade (events that show up in any generic timeline of the First Crusade). In terms of your preparation, the sections below list events you should know. You should be able to explain generally what happened and why the event is significant. 
 
-As we proceed through these events, I want us to discuss and reflect on the way this story is being told by Fulcher. We can do this best by engaging in a kind of comparison between the story as told by Fulcher and the story as told in a useful modern documentary about the First Crusade
+As we proceed through these events, I want us to discuss and reflect on the way this story is being told by Fulcher. We can do this best by engaging in a kind of comparison between the story as told by Fulcher and the story as told in a useful modern documentary about the First Crusade.
 
-From the very beginning, Fulcher's own account appears to reinforce the idea of the warrior saint. (See top of p. 48, “Warrior saint” idea)
+From the very beginning, Fulcher's own account appears to reinforce the idea of the warrior saint. (See top of p. 48, “Warrior saint” idea.)
 
 > p. 48 "for, after hearing the deeds of faithful predecessors who rejected the beauties and pleasures of the world and clung to God, and in accordance with the precept of the Gospel, left their parents and wives and possessions, however great, to follow Him, those here on earth are inspired to serve Him more eagerly in that same spirit."
 
@@ -156,7 +159,7 @@ They did not get the victory. They did not the spoils.
 
 In sum, the trickery and deception on both sides speaks to the growing divide and alienation between the East and West. From this perspective, historian Williston Walker nicely summarizes the tension and the role that the Crusades played in entrenching this division. Walker writes:
 
-> "Far from aiding the Eastern Empire, they hastened its disintegration. They also revealed the continuing inability of Latin Christians to understand Greek Christians, and they hardened the schism between them." (Walker, Williston, History of the Christian Church, 1985, p. 290)
+> "Far from aiding the Eastern Empire, they hastened its disintegration. They also revealed the continuing inability of Latin Christians to understand Greek Christians, and they hardened the schism between them." (Walker, Williston, *History of the Christian Church*, 1985, p. 290)
 
 <!-- We should also keep in mind that these events are happening just after the Great Schism in 1054. (see SHMA p. 178; Doctrine of Papal Supremacy) -->
 
@@ -332,7 +335,7 @@ How did the final minutes of the video strike you? Did you find it surprising th
 # What's Next
 
 * Next time we're going to look at one more account of one particular crusading army known as the People's crusade.
-* In this account, we are going to look closely at how Pope Urban's emphasis on the non-christian other led to unexpected hostile attitudes, not just toward Muslims, but toward Jewish communities with long histories of living in Western Europe. 
+* In this account, we are going to look closely at how Pope Urban's emphasis on the non-christian "other" led to unexpected hostile attitudes, not just toward Muslims, but toward Jewish communities with long histories of living in Western Europe. 
 
 <!--  
 
