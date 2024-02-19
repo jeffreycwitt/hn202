@@ -25,7 +25,7 @@ Thus far we have discussed two catalytic causes of the First Crusade:
 
 In Pope Urban II's Council of Clermont speech, he also pointed to a third cause, namely the rise of the Seljuk Turks (TFC, p. 52).
  
-In the lead up to the First Crusade, the Seljuk Turks took most of Anatolia from the Byzantines. (See SHMA, p. 162, map 5.1). 
+In the lead up to the First Crusade, the Seljuk Turks took most of Anatolia from the Byzantines. (See SHMA, p. 165, map 5.1). 
 
 Some notes about the Seljuk Turks:
 
@@ -35,11 +35,11 @@ Some notes about the Seljuk Turks:
 * In the 11th century, they migrated south and began their own conquests.
   * This pattern appears similar to the way Lombards helped the Byzantines and then became conquerors themselves.
 * In 1055, they captured Baghdad (and they began using the Abbasid caliphs as figure heads).
-* In 1071, they defeated the Byzantines at Manzikert (SHMA, p. 163).
+* In 1071, they defeated the Byzantines at Manzikert (SHMA, p. 164).
   * Incidentally, this was the date (1071) that we used to mark the end of the Golden Era of Byzantine expansion (843-1071 Expansion, see [class 6](byzantium.html#expansion-843-1071](https://jeffreycwitt.com/hn202/docs/class-6.html#expansion-843-1071)).
 * And especially important for our story, in 1075, the Turks occupied Jerusalem. 
 
-In response to these Turkish conquests, in January of 1095, at the Council of Piacenza, and in March of 1095 (See SHMA p. 181 and TFC, p. 52n1-2) Byzantine Emperor Alexius appealed to Pope Urban II for a small band of mercenary knights to fight the Turks who had by this time conquered most of Asia Minor.  
+In response to these Turkish conquests, in January of 1095, at the Council of Piacenza, and in March of 1095 (See SHMA p. 186 and TFC, p. 52n1-2) Byzantine Emperor Alexius appealed to Pope Urban II for a small band of mercenary knights to fight the Turks who had by this time conquered most of Asia Minor.  
 
 
 <div class="discussion" markdown="1">
@@ -52,7 +52,7 @@ Quick review: How does this show a dramatic difference between the Popes of the 
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-Why might we say that the Turkish conquest of Jerusalem is only a "surface" cause, or as SHMA says "ostensibly", and not a real cause of the Crusade? 
+Why might we say that the Turkish conquest of Jerusalem is only a "surface" cause and not a real cause of the Crusade? 
 
 {:.answer}
 Because the preceding two causes -- namely the need for military reform charged with religious inspiration -- suggest that the West in a way already wanted or needed something like a Crusade. The request from Alexius, in effect, provides a convenient cover for what was already brewing.
@@ -78,7 +78,7 @@ As discussed last time, we know the Crusades were initiated through Pope Urban I
 
 But note that it took a long time before the Crusade could actually get underway. Pope Urban's initial call was at the beginning of the winter in 1095. It wasn't until the summer of 1096 that the so-called "crusaders" could begin marching.
 
-For a good map of the crusading routes, see SHMA, p. 182. See also the map below. 
+For a good map of the crusading routes, see SHMA, p. 187. See also the map below. 
 
 <a title="By QWerk (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMap_of_First_Crusade_-_Roads_of_main_armies-fi.png">
       <img width="512" alt="Map of First Crusade - Roads of main armies-fi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Map_of_First_Crusade_-_Roads_of_main_armies-fi.png/512px-Map_of_First_Crusade_-_Roads_of_main_armies-fi.png"/></a>
