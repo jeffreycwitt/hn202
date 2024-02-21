@@ -271,7 +271,7 @@ The second example below shows another identification through the recognizable J
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example2.jpg)
 
-Besides identifying clothing, racist and unfounded Jewish physiognomic stereotypes have a root in medieval art. For example, anthony Bale notes: 
+Besides identifying clothing, racist and unfounded Jewish physiognomic stereotypes have a root in medieval art. For example, Anthony Bale notes: 
 
 > "And in the famous Holkham Bible Picture Book (London, British Library Add. MS 47682) of about 1325, the Jewish face appears in a variety of profile forms, often with a bulbous, bent, or snub nose (as in this example of Jesus debating with the Pharisees and Sadducees). And yet, at the time the Stammheim Missal was produced, it would be hard to prove there was a stable idea or stereotype of the Jewish nose — it would be more accurate to say that the bent or misshapen nose was a sign of sin, violence, and ugliness."
 
