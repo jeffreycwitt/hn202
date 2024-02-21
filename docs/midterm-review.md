@@ -3,7 +3,7 @@ title: "Midterm Exam Review Sheet"
 layout: lecture
 description: "Midterm Exam Review Sheet"
 readings: 
-published: false
+published: true
 date: 2024-02-27
 nav_order: 13
 ---
@@ -45,6 +45,7 @@ Let's study together. Use our annotation tool to point to texts or notes that mi
 <div class="discussion" markdown="1">
 
 {:.rquestion}
+
 What else should we add here? Are there any other big ideas or important events that a full account of the early Middle Ages should include?
 
 </div>

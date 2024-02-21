@@ -3,7 +3,7 @@ title: "The People's Crusade and the Erosion of Jewish Protection"
 layout: lecture
 description: "The People's Crusade and the Erosion of Jewish Protection"
 readings: 
-published: false
+published: true
 date: 2024-02-22
 nav_order: 12
 ---
@@ -29,7 +29,7 @@ Here's what what the introduction to our reader states:
 
 > "The incursions of the Turks and the growth of mature Jewish communities in western Europe became the focus of yet two other aspects of eleventh-century Christian consciousness: a sharpened awareness of the differences between Christianity and Judaism on the one hand and Christianity and Islam on the other — a new recognition of the "other" as "enemy" – and the legitimacy of the Holy war." (TFC, Peters, p. 13).
 
-In this light consider the question I pose on the [mid-term exam review sheet](class-13.html):
+In this light consider the question I pose on the [mid-term exam review sheet](midterm-review.html):
 
 > In what ways might the blurring of the boundaries between the sacred and secular in the run up to the First Crusade lead to the development of new and more hostile conception of the "other"?
 
@@ -112,7 +112,7 @@ De Beauvoir states that in healthy cases, a "reciprocity" occurs because each pa
 
 She writes:
 
-> "But the other consciousness, the other ego, sets up a reciprocal claim. The native traveling abroad is shocked to find himself in turn regarded as a "stranger" by the natives of neighboring countries. As a matter of fact, wars, festivals, trading, treaties, and contexts among tribes, nations, and classes tend to deprive the concept Other of its absolute sense and to make manifest its relativity; willy-nilly, individuals and groups are forced to realize the reciprocity of their relations." (De Beauvoir, Second Sex, Intro, p. xxiii)
+> "But the other consciousness, the other ego, sets up a reciprocal claim. The native traveling abroad is shocked to find himself in turn regarded as a "stranger" by the natives of neighboring countries. As a matter of fact, wars, festivals, trading, treaties, and contexts among tribes, nations, and classes tend to deprive the concept Other of its **absolute sense** and to make manifest its **relativity**; willy-nilly, individuals and groups are forced to realize the reciprocity of their relations." (De Beauvoir, Second Sex, Intro, p. xxiii)
 
 In normal cases, through mutual struggle back and forth, a kind of reciprocity or mutual understanding occurs. 
 
@@ -135,13 +135,10 @@ Further, our reading suggests that the form that this historical "objectificatio
 
 # Constructing the Jewish Other in the Middle Ages
 
-{:.rquestion}
-First, does Rosenwein provide any suggestions for why we see a swell in **urban** Jewish populations in the 11th century (See SHMA, p. 175).
-
-{:.rquestion}
-Second, what is the general story of the people's crusade? What generally happens? Make sure you have sense of these details.
-
 <div class="discussion" markdown="1">
+
+{:.rquestion}
+What is the general story of the people's crusade? What generally happens? Make sure you have sense of these details.
 
 {:.rquestion}
 Were there any surprises for you in the first hand accounts of the People's Crusade? Please share these with the class and point us to the relevant passages in the text.
@@ -171,11 +168,11 @@ Cohen explains this "special" role with a quotation from Bernard of Clairvaux.
 
 > "As Bernard of Clairvaux...put it in the twelfth century, 'the Jews are not to be persecuted, killed, or even put to flight...Indeed, the Jews are for us the living letters of Scripture, constantly representing the Lord's passion.' For Bernard, as for many medieval churchmen, the Jews embodied a particular reading of Holy Scripture, one that established the truth of Christianity in its own right and illuminated the contrasting Christian exegesis of the Bible." Cohen, *Living Letters of the Law*, p. 2)
 
-We should note that, while Bernard (who is really following an earlier position of Augustine) commands that Jewish communities be protected, this is not a command that comes from the kind of mutual recognition and reciprocity discussed by de Beauvoir. In many ways, Bernard and Augustine saw Jewish communities living in Christian lands as an important "object", "tool", or "instrument" (not as a genuine subject). Jewish communities were for Augustine and Bernard an important object lesson for nearby Christians. They were a living reminder for Christians of the historical pedigree of the Christian faith and the Old Testament prophecies that Christ fulfilled. 
+We should note that, while Bernard (who is really following an earlier position of Augustine) commands that Jewish communities be protected, this is not a command that comes from the kind of mutual recognition and reciprocity discussed by de Beauvoir. In many ways, Bernard and Augustine saw Jewish communities living in Christian lands as an important "object", "tool", or "instrument" (not as a genuine "subject"). Jewish communities were for Augustine and Bernard an important object lesson for nearby Christians. They were a living reminder for Christians of the historical pedigree of the Christian faith and the Old Testament prophecies that Christ fulfilled. 
 
 Nevertheless, this "objectification" had a salutatory effect for Jewish communities living in Europe up until around the time of the First Crusade.
 
-But because this protection was based on the expected role Jewish communities were to play (rather than on the mutual recognition of their humanity and subjectivity) this protection was fragile. If Jewish communities ever ceased to function in the way Augustine and Bernard expect them to, the argument for their protection would erode. 
+But because this protection was based on the **expected** role Jewish communities were to play (rather than on the mutual recognition of their humanity and subjectivity) this protection was fragile. If Jewish communities ever ceased to function in the way Augustine and Bernard expected them to, the argument for their protection would erode. 
 
 And this is precisely what Cohen observes. He writes: 
 
@@ -236,6 +233,7 @@ We can also see this in the speeches made by Pope Urban II at Clermont.
 > p. 53, "I...exhort you, heralds of Christ, to persuade all of whatever class, both knights and footman, both rich and poor, in numerous edicts, to strive to help expel the wicked race from our Christian lands..." (TFC, p. 53)
 
 > Again: p. 113: "Behold we travel to a distant land to do battle with the kings of tat land. ‘We take our souls in our hands’ in order to kill and to subjugate all those kingdoms that do not believe in the Crucified. How much more so [should we kill and subjugate] the Jews, who killed and crucified him." (TFC, p. 113)
+
 </div>
 </div>
 
@@ -269,22 +267,18 @@ The first example below show various ways Jewish people were required to alter t
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example1.jpg)
 
-The second example shows another identification through the recognizable Jewish Hat.  
+The second example below shows another identification through the recognizable Jewish Hat.  
 
 ![otherExcerpt]({{site.assets_url}}Canon68Example2.jpg)
 
-The monstrous way the characters in the above image are portrayed is particularly insidious and upsetting. But it also connects to Cohen's point about the effect of the "rationalization" of Christian theology. The suggestion is that as Christianity began to see itself as supremely rational, it followed that anyone who didn't accept Christianity was thereby supremely irrational and therefore brutish or even monstrous. 
+Besides identifying clothing, racist and unfounded Jewish physiognomic stereotypes have a root in medieval art. For example, anthony Bale notes: 
 
-We can also see that racist and unfounded Jewish physiognomic stereotypes have a root in medieval art. The monstrous depiction suggests exaggerations that were later incorporated into such stereotypes. 
+> "And in the famous Holkham Bible Picture Book (London, British Library Add. MS 47682) of about 1325, the Jewish face appears in a variety of profile forms, often with a bulbous, bent, or snub nose (as in this example of Jesus debating with the Pharisees and Sadducees). And yet, at the time the Stammheim Missal was produced, it would be hard to prove there was a stable idea or stereotype of the Jewish nose — it would be more accurate to say that the bent or misshapen nose was a sign of sin, violence, and ugliness."
 
 If you're interested in more on this topic, here is a short article by an esteemed scholar, Anthony Bale, published by the Getty Museum titled [Representing and Misrepresenting Jews in Medieval
 Culture](https://www.getty.edu/art/exhibitions/outcasts/downloads/bale_misrepresenting_jews.pdf).
 
-Importantly, Bale notes: 
-
-> "And in the famous Holkham Bible Picture Book (London, British Library Add. MS 47682) of about 1325, the Jewish face appears in a variety of profile forms, often with a bulbous, bent, or snub nose (as in this example of Jesus debating with the Pharisees and Sadducees). And yet, at the time the Stammheim Missal was produced, it would be hard to prove there was a stable idea or stereotype of the Jewish nose — it would be more accurate to say that the bent or misshapen nose was a sign of sin, violence, and ugliness."
-
-The point here is that at this time there really was no stereotype about a Jewish nose because such a stereotype is in fact a myth. But here we have a clear clue about the origin of this myth. Medieval representations of Jewish people as monstrous or evil leads to an unfounded stereotype about Jewish physiognomic features that persists today.
+Bale's point here is that at this time there really was no stereotype about a Jewish nose because such a stereotype is in fact a myth. But here we have a clear clue about the origin of this myth. Medieval representations of Jewish people as monstrous or evil leads to an unfounded stereotype about Jewish physiognomic features that persists today.
 
 Finally, back to canon 68, the most obvious modern legacy of these medieval inventions can be seen in the conscious imitation of these medieval precedents in Nazi Germany.
 
