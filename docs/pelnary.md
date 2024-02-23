@@ -71,3 +71,12 @@ As an exercise for thinking about our upcoming paper: does today's lecture point
 
 {:.rquestion}
 What's something surprising about Islam that you learned today? Why was it is surprising? Explain how it makes you think about Islam from a new perspective or in a new light?
+
+# Plenary 5 (Fri, Feb 23)
+## Medieval Gothic Art and Architecture - Dr. Moser
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+{:.rquestion}
+Now that we've had several plenaries, let's focus on making connections. Can you identify a point of intersection or connection between the material discussed today and any of our previous plenaries? Explain the connection you see and why it feels significant?
