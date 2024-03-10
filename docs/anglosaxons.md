@@ -3,7 +3,7 @@ title: "Anglo Saxon Background and Beowulf"
 layout: lecture
 description: "Anglo Saxon Background and Beowulf"
 readings: 
-published: false
+published: true
 date: 2024-03-12
 nav_order: 15
 ---
@@ -19,9 +19,9 @@ Reminder: Thursday will be our class led discussion of *Beowulf*. The group assi
 
 For the group composing the class notes, as a rule of thumb:
    * aim to write at least 1,000 words, 
-   * use sections to organize your notes and the readers path through them (provide a table of contents at the top)
+   * use sections (approximately 4) to organize your notes and the readers path through them (provide a table of contents at the top)
    * provide  narrative commentary that guide us through these sections and prepares us for your questions
-   * make sure to offer 5 or more significant discussion blocks/questions for the class to respond to.
+   * make sure to offer a significant discussion block per section to which the class can respond.
 
 # Intro
 
@@ -45,9 +45,9 @@ But again, why are these people, who live in England, writing about events that 
 
 One suggestion is that, like many other epic poems, it could be seen as a commemoration of an ancestral legacy. That it is, it could be part of a present society’s (the Anglo-Saxon society) attempt to define their identity through defining their past.
 
-This is a phenomenon we've discussed in our present society; we've discussed how we use the past to construct our own identities. (We've even discussed how "When the Emperor was Divine" might tell us something important about 2002 and not just about 1940.) It is possible, then, to think of *Beowulf* as a historical example of this same phenomenon. The 7th, 8th, 9th, or 10th century present attempting to define itself by telling stories about its past. Thus an interesting question for us is what does the poem tell us about 7th-10th Anglo-Saxons.
+This is a phenomenon we've discussed before in our class; we've discussed how we use the past to construct our own identities. It is possible, then, to think of *Beowulf* as a historical example of this same phenomenon. It could be the 7th-, 8th-, 9th-, or 10th-century present attempting to define itself by telling stories about its past. Thus an interesting question for us is what does the poem tell us about 7th-10th Anglo-Saxons.
 
-# Anglo Saxon History
+# Anglo-Saxon History
 
 ## Early Anglo-Saxon Period (Development Period) (450-660)
 
@@ -65,7 +65,7 @@ After immigrating, the Anglo-Saxons quickly become the **ruling elite or aristoc
 
 As they settled the islands, regional kingdoms founded by warrior elites emerged.
 
-The open lines from *Beowulf* describing Shield Sheafson actually offer us a good example of how these warrior-kings emerged.
+The opening lines from *Beowulf* describing Shield Sheafson actually offer us a good example of how these warrior-kings emerged.
 
 > "There was Shield Sheafson, scourge of many tribes,<br/>
 A wrecker of mead-benches, rampaging among foes.<br/>
@@ -84,7 +84,7 @@ Accordingly, we need to make sure to spend a little time thinking about the Angl
 
 <div class="discussion" markdown="1">
 
-Rosenwein provides a few interesting details in SHMA, p. 64-66. Stop for a moment and read SHMA, pp. 64-66, then consider the following questions.
+Rosenwein provides a few interesting details in SHMA, p. 65-68. Stop for a moment and read SHMA, pp. 65-68, then consider the following questions.
 
 {:.dquestion}
 How does Bede tell the story of Christianity and its arrival in England?
@@ -104,7 +104,7 @@ According to Rosenwein, what are some of the main differences between the Christ
 <div class="answer" markdown="1">
 What seems most critical here is Rosenwein's note that...
 
-> "...post-Roman Britain's Christianity was decentralized and local." (SHMA, p. 64, bottom)
+> "...post-Roman Britain's Christianity was decentralized and local." (SHMA, p. 65, bottom)
 
 While Christianity may have been present early on, it was "decentralized and local". It lacked the kind of centralized uniformity of Roman Christianity that one might see on the continent.
 </div>
@@ -123,13 +123,13 @@ Augustine of Canterbury is sent to the Kingdom of Kent by Gregory the Great. Thi
 
 <!-- “In June 597 Columba died, as a quirk of history at the same time Augustine landed on the Isle of Thanet and proceeded to King Æthelberht's main town of Canterbury. He had been the prior of a monastery in Rome when Pope Gregory the Great chose him in 595 to lead the Gregorian mission to Britain to Christianise the Kingdom of Kent from their native Anglo-Saxon paganism. Kent was probably chosen because Æthelberht had married a Christian princess, Bertha, daughter of Charibert I the King of Paris, who was expected to exert some influence over her husband. Æthelberht was converted to Christianity, churches were established, and wider-scale conversion to Christianity began in the kingdom. Æthelberht's law for Kent, the earliest written code in any Germanic language, instituted a complex system of fines. Kent was rich, with strong trade ties to the continent, and Æthelberht may have instituted royal control over trade. For the first time following the Anglo-Saxon invasion, coins began circulating in Kent during his reign.” (Wikipedia) -->
 
-664: Another important date is the Synod of Whitby in 664 (see SHMA, p. 65).
+664: Another important date is the Synod of Whitby in 664 (see SHMA, p. 66).
 
 At this Synod it was decided that the Roman Rite would be observed in Northumbria rather than the Ionian/Celtic Rite (i.e. the liturgy and traditions established by Irish Christianity and St. Columba).
 
 This effectively united Christianity in England with Roman practice.
 
-In many divisions of Anglo-Saxon history, this constitutes the early period of Anglo-Saxon History (Early 410-660 (migration, settlement, and conversion)
+In many divisions of Anglo-Saxon history, this constitutes the early period of Anglo-Saxon History, 410-660 (migration, settlement, and conversion)
 
 ## Middle Anglo-Saxon Period (Cultural Flowering) (660-899)
 
@@ -201,9 +201,7 @@ But in our second paper, I'm going to ask you to identify a question/problem/puz
  
  * Beowulf 
    * (and/or the movie adaptation)
- * the Knight of the Cart,
- * the Green Knight 
-   * (and/or the movie adaptation)
+ * the Knight of the Cart
  * Dante’s Purgatory
 
 ...and then to argue for a resolution of that problem.
@@ -231,7 +229,7 @@ What is common or shared assumption about a piece of literature that two debater
 Perhaps that a piece of literature is unified, has a consistent message or a point. (There are likely many other assumptions that could be agreed upon at the outset.)
 
 {:.dquestion}
-How then could we then use this criterion to recognize and distinguish questions that are significant from those that are mere trivia?
+How then could we use this criterion to recognize and distinguish questions that are significant from those that are mere trivia?
 
 {:.answer}
 A significant puzzle might be one that, if left unsolved, threatens one of these goals.
@@ -286,7 +284,7 @@ While it may be easy for Alcuin (and even Bede) to dismiss the pagan history of 
 
 Thomas Hill stresses how important historical lineage was for an Anglo-Saxon to establish the "legitimacy" of his power (a theme we’ve seen before) as king or ruler. (See Hill’s description of the problem on p. 197-198.)
 
-Hill writes, p. 198-200:
+Hill writes on pages 198-200:
 
 > "To begin with, the Anglo-Saxons...were deeply conservative and venerated antiquity..." (p. 198)
 
@@ -364,7 +362,7 @@ The narrator’s attitude toward fate and mortality juxtaposed against the chara
 * As part of our set up for understanding *Beowulf*, we reviewed the basic timeline of Anglo-Saxon History.
 * We then spent a little time thinking about the general form of a literary "problem" that might motivate an argued response.
 * Finally, we started to look at one such puzzle, namely the ambiguous way the poem regards the pagan, non-Christian ancestral past. 
-  * We asked questions like: is Beowulf a celebration or criticism of the ancestral past, or is it something in between.
+  * We asked questions like: is Beowulf a celebration or criticism of the ancestral past, or is it something in between?
 
 # What's Next
 
