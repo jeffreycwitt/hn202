@@ -9,8 +9,12 @@ nav_order: 16
 
 ---
 
-Please annotate directly on the lovely [Beowulf Course Notes](https://s3.amazonaws.com/lum-faculty-jcwitt-public/hn202/coursenotes/Beowulf.pdf) prepared by your peers.
+## Beowulf Course Notes
 
+Please annotate **directly** on the lovely [Beowulf Course Notes](https://s3.amazonaws.com/lum-faculty-jcwitt-public/hn202/coursenotes/Beowulf.pdf) prepared by your peers.
+
+
+## Video follow-up
 
 <div class="video">
 
