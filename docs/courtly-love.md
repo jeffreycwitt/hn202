@@ -3,7 +3,7 @@ title: "The 12th Century, Court Life, and Courtly Love"
 layout: lecture
 description: "The 12th Century, Court Life, and Courtly Love"
 readings: 
-published: false
+published: true
 date: 2024-03-19
 nav_order: 17
 ---
@@ -36,7 +36,7 @@ If the movie’s goal was to do something other than provide the viewer with an 
 
 This week, we're going to focus our attention on the Arthurian legends that arose in the 12th century, especially in Chrétien de Troyes's "Knight of the Cart". 
 
-Our procedure will be similar to last week. Today, I'd like to spend time with some of the historical background and and then point to some major themes we should be on the look out for as we read. Thursday we will dig into the details of the story itself, led by our class discussion leaders.
+Our procedure will be similar to last week. Today, I'd like to spend time with some of the historical background and then point to some major themes we should be on the look out for as we read. Thursday we will dig into the details of the story itself, led by our class discussion leaders.
 
 # Historical Background: The rise of the "Angevin Empire"
 
@@ -85,7 +85,7 @@ Source: By Reigen - Own work.Sources :Image:France 1154 Eng.jpg by Lotroo under
 copyleftfrance_1154_1184.jpg from the Historical Atlas by William R. Shepherd, 1911., CC
 BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37306574
 
-I wanted to review this because in recognizing this geographical growth, I want to quickly recall the contrast Rosenwein makes between changes in Europe and Byzantium in the 12th century. 
+I wanted to review this because, in recognizing this geographical growth, I want to quickly recall the contrast Rosenwein makes between changes in Europe and Byzantium in the 12th century. 
 
 <div class="discussion" markdown="1">
 
@@ -110,15 +110,15 @@ Given this courtly audience, we might expect that the stories produced in this c
 
 # Court Life and Court Entertainment
 
-As noted, Eleanor of Aquitaine's and Marie de Champagne’s lives coincide with the "growth of regional and princely courts: in the 12th century. 
+As noted, Eleanor of Aquitaine's and Marie de Champagne’s lives coincide with the "growth of regional and princely courts" in the 12th century. 
 
 By courts or "curia" we mean the growing bureaucracies around a particular power center that act as magnets drawing other powerful people and their administrative staff. This is sometimes called the 12th century "Managerial revolution" (Kay, "Courts, clerks, and courtly love," p. 85).
 
-The growth of these courts has a couple of important effects that would influence the courtly lives of Eleanor and Marie. 
+The growth of these courts had a couple of important effects that would influence the courtly lives of Eleanor and Marie. 
 
 As is typical, when lots of people with a lot of time and money get together, there is growing desire for art and entertainment. (Think of Broadway in New York or the donations to the symphony and opera from wealthy philanthropists). Today we call such people "patrons of the arts."
 
-And of course, patrons interested in supporting the arts look for "clients." In the 12th century France, there was a growing industry of such clients known as the **Troubadours**. 
+And of course, patrons who are interested in supporting the arts look for "clients." In the 12th century France, there was a growing industry of such clients known as the **Troubadours**. 
 
 Troubadours were traveling entertainers that composed poems and songs designed to entertain their audience. Often such songs, as our pop songs are today, were about love. 
 
@@ -181,7 +181,6 @@ We can see a performance of the love song here:
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkp2GHBRUiQ?start=83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 
 As reflected in Chrétien's own prologue, where he says the subject matter was set by his patron, these poets gave voice to particular themes that reflected the desires, interest, and complexities of life at court. 
 
@@ -253,13 +252,13 @@ Does it tell us anything about the presence or absence of love in marriage? How 
 
 </div>
 
-Certainly Gaston's definition of "courtly love" captures some dimension of what we see in this list of rules from Capellanus.
+Certainly Gaston's definition of "courtly love" captures some dimensions of what we see in this list of rules from Capellanus.
 
 But is it really sufficient to capture the notion of "courtly love" as it is illustrated in the *Knight of the Cart*. 
 
-Sarah Kay doesn't think so, evidenced by the fact that historically few scholars have been satisfied with this definition and scholarly literature has been obsessed with offering rival definitions. 
+Sarah Kay doesn't think so. The fact that historically few scholars have been satisfied with this definition and that scholarly literature has been obsessed with offering rival definitions is evidence for Kay that Gaston's definition is not sufficient.
 
-For example, we could ask: How does Gaston's definition help us make sense of the ways the story sometimes seems to criticize Lancelot rather than praise him? What does the story leave us ambiguous about the Queen's behavior and conduct?
+For example, we could ask: How does Gaston's definition help us make sense of the ways the story sometimes seems to criticize Lancelot rather than praise him? Why does the story leave us ambiguous about the Queen's behavior and conduct?
 
 Kay's attempt to capture the nature of "courtly love" -- or better "courtly love" as it appears in the "Knight of the Cart" -- begins at a very concrete level, by focusing on the link between "court" and "love".
 
@@ -277,7 +276,7 @@ Kay offers an interesting suggestion:
 
 > "In my view, the reason why courtly love is so elusive of definition is precisely that courtly representations of love are built upon **internal tensions**, while also seeking to mask them." (Kay, p. 85)
 
-The idea here is that perhaps Chrétien de Troyes' aim in *Knight of the Cart* is **not** to provide a simply morality tale of how a good chivalric knight (or a good queen) should live, act, and love contrasted against a bad knight (or a bad queen). 
+The idea here is that perhaps Chrétien de Troyes' aim in *Knight of the Cart* is **not** to provide a simple morality tale of how a good chivalric knight (or a good queen) should live, act, and love contrasted against a bad knight (or a bad queen). 
 
 Instead, it may be a story attempting to illustrate the moral ambiguity of life at court, and the **impossibility of fulfilling one's obligations when those obligations themselves are in fundamental conflict.**
 
@@ -350,7 +349,7 @@ Aldo Scaglione explains:
 
 > "The rise of the merchants also had an impact on life at court when merchants began to compete with noble courtiers for administrative positions. The intrusion of this alien social element into the ministerial ranks introduced new ethical factors which were at variance with the mental attitudes of clergy and warriors. This bourgeois invasion was to have a significant impact on the relationship between the sexes. In the mid-twelfth century, at the same time that matrimony became a sacrament, the mercantile view of marriage as a contract freely entered upon by mutual consent, like a mercantile contract, started to infiltrate and eventually, though slowly, to overrun the heroic view of marriage as possession of the woman by right of conquest." (Knights at Court: Courtliness, Chivalry & Courtesy from Ottonian Germany to the Italian Renaissance, 1991, p. 21:)
 
-Members of the merchant class would have had much more freedom in choosing whom to marry. By coming into closer contact with the court, this freedom would have been seen by aristocrats and clergy and would likely have been a source of envy or at least tension.
+Members of the merchant class would have had **much more freedom** in choosing whom to marry. By coming into closer contact with the court, this freedom would have been seen by aristocrats and clergy and would likely have been a source of envy or at least tension.
 
 ## Changing views about Knights and Knightly Conduct
 
@@ -364,7 +363,7 @@ This suggests there was a political need to include knights in the lower ranks o
 
 Scaglione goes on:
 
-> "The Pax Dei bears the seeds of chivalry, since the knightly class responded to the complex situation created by the Peace of God." (Aldo, p. 26)
+> "The Pax Dei (the Peace of God) bears the seeds of chivalry, since the knightly class responded to the complex situation created by the Peace of God." (Aldo, p. 26)
 
 > "The active alliance between the religious and secular knighthood exhausted itself when the crusading spirit failed. Hence the Church’s rejection of warlike attitudes forced a new justification of chivalry, with a displacement of values that could take one of two directions: 1) a willful acceptance of military action (even outright brigandage) for economic and political reasons of a purely secular nature, or 2) a shift in emphasis from the military aspect of chivalry to the non-military, that is, **to a noble code of loving** (the ideology of courtly love) and **behaving** at court." (Aldo, p. 27)
 
