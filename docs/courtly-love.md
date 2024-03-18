@@ -53,7 +53,7 @@ Marie de Champagne is born in 1152 and dies in 1181 and she is the daughter of h
 
 Eleanor is a powerful and independent women, famous for her willingness to flout convention. Here are a few bullet points about her life.
 
-* On her father’s death and with no surviving brothers, Eleanor became Duchess of Aquitaine (See SHMA map, p. 218).
+* On her father’s death and with no surviving brothers, Eleanor became Duchess of Aquitaine (See SHMA map, p. 217).
 * Her holdings and inheritance were so lucrative that Louis VI ("the Fat") (as her new guardian) made plans to marry her to his son Louis (soon to be Louis VII).
 * Eleanor would have been anywhere between 12 and 15 at the time of this marriage. 
 * The marriage became increasingly rocky. 
@@ -85,14 +85,18 @@ Source: By Reigen - Own work.Sources :Image:France 1154 Eng.jpg by Lotroo under
 copyleftfrance_1154_1184.jpg from the Historical Atlas by William R. Shepherd, 1911., CC
 BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=37306574
 
-I wanted to review this because, in recognizing this geographical growth, I want to quickly recall the contrast Rosenwein makes between changes in Europe and Byzantium in the 12th century. 
+I wanted to review this because, in recognizing this geographical growth, I want to quickly recall the contrast Rosenwein (in her 5th edition, not our edition) makes between changes in Europe and Byzantium in the 12th century. 
+
+She writes: 
+
+> While the Byzantine government was becoming more like the West — with emperors giving away land grants and dynatoi creating regional dynasties — some Wester polities were starting to look more Byzantine; more impersonal and bureaucratic. They entered a new phase of self-definition, codification, and institutionalization. (SHMA, 5th edition, p. 214)
 
 <div class="discussion" markdown="1">
 
-Take a look at Rosenwein, SHMA, p. 214 and then consider: 
+Take a look at Rosenwein, SHMA (6th edition, our edition), p. 215-220 and then consider: 
 
 {:.rquestion}
-How is the West becoming more like the earlier East and the East more like the earlier West. 
+How is the West becoming more institutionalized?
 
 {:.dquestion}
 What kinds of changes was Henry II making to deal with his growing empire? 
