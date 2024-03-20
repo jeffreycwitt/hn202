@@ -1,7 +1,7 @@
 ---
-title: "Beowulf Discussion"
+title: "Knight of the Cart Discussion"
 layout: lecture
-description: "Beowulf Discussion"
+description: "Knight of the Cart Discussion"
 readings: 
 published: true
 date: 2024-03-21
