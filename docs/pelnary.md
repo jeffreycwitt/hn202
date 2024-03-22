@@ -80,3 +80,12 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 
 {:.rquestion}
 Now that we've had several plenaries, let's focus on making connections. Can you identify a point of intersection or connection between the material discussed today and any of our previous plenaries? Explain the connection you see and why it feels significant?
+
+# Plenary 6 (Fri, March 22)
+## Medieval Judaism - Dr. Yitzhak Melamedser
+
+{:.rquestion}
+We spent some time discussing Medieval Jewish communities and their relationship to Christian Communities before Spring Break. Do you see any connections between our discussion and material discussed by Dr. Melamedser? Explain any connection you see. 
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
