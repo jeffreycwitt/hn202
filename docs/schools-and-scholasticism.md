@@ -206,7 +206,7 @@ When baptism is seen as urgent matter of eternal life and death, uncertainty in 
 
 ## Example of Abelard: Abelard, Identification of the Problem, and Development of a New Method
 
-During class, we'll work through an example of Peter Abelard, and then, after I close, I will paste my notes here
+During class, we'll work through an example of Peter Abelard, and then, after class, I will paste my notes here.
 
 <!-- Peter Abelard arrives in Paris in the 1102 and quickly finds himself standing in opposition to the old guard; a group of thinkers that feels **satisfied with the "story" method** and suggest that to pursue anything is a hubris and can only damage this message.
 
