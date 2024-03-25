@@ -204,7 +204,7 @@ The Bible might be a more interesting story, but there is no easy answer about h
 When baptism is seen as urgent matter of eternal life and death, uncertainty in this area will lead to massive administrative headaches; at the very least a flood of appeals for clarification and allowance, at worst schism and eventually conflict.
 
 
-### Example of Abelard: Abelard, Identification of the Problem, and Development of a New Method
+## Example of Abelard: Abelard, Identification of the Problem, and Development of a New Method
 
 During class, we'll work through an example of Peter Abelard, and then, after I close, I will paste my notes here
 
