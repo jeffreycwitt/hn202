@@ -179,13 +179,10 @@ Think even of Augustine's *City of God*. It is an impressive work. But it is a m
 Given this older approach of instruction through story...
 
 {:.rquestion}
-...why does Rosemann title his chapter from  “From Story to System”? 
+What are some of the **advantages** of knowledge instruction through story? (Can you think of any contemporary examples?)
 
 {:.rquestion}
-What are some of the advantages of knowledge instruction through story?
-
-{:.rquestion}
-What are some of the disadvantages of knowledge instruction through story?
+What are some of the **disadvantages** of knowledge instruction through story?(Can you think of any contemporary examples?)
 
 {:.rquestion}
 What is an example of "systemization" that Rosemann points to? What kind of advantages does this approach offer?
