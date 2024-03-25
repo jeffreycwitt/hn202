@@ -119,23 +119,23 @@ Notice that nothing in what I’ve said here says anything about education or sc
 
 There are at least 6 important factors.
 
-1. Charlemagne’s edict the [“Admonitio Generalis”](https://en.wikipedia.org/wiki/Admonitio_generalis) in 789. 
+1) Charlemagne’s edict the [“Admonitio Generalis”](https://en.wikipedia.org/wiki/Admonitio_generalis) in 789. 
 
 In 789 Charlemagne, frustrated with the level learning he saw in his empire, required that every bishopric create a school where "children can learn to read; that psalms, notation, chant, computation, and grammar be taught." (Riché, "Daily life in the world of Charlemagne", 1988, p. 191.)
 
 See also p. 194 of the Richard Southern article, “It is true that in the ambitious education projects…”
 
-2. Gregorian reforms in 1050-1080, emphasizing a need for greater knowledge of canon law and sacraments would have also increased the need for function ecclesiastical schools that were not confined to the monasteries. 
+2) Gregorian reforms in 1050-1080, emphasizing a need for greater knowledge of canon law and sacraments would have also increased the need for function ecclesiastical schools that were not confined to the monasteries. 
 
-3. Third Lateran council in 1179, pushed for further ecclesiastical discipline. 
+3) Third Lateran council in 1179, pushed for further ecclesiastical discipline. 
 
 Canon 18 in particular required every cathedral church to appoint a master to teach clerics and poor scholars.
 
 The form that the execution of this command took was the development of a school attached to each cathedral.
 
-4. Our emphasis last week on the growth of the secular court in the 11th and 12th centuries and the growing need for literate administrators would have also created urgency for the effective administration of cathedral schools.
+4) Our emphasis last week on the growth of the secular court in the 11th and 12th centuries and the growing need for literate administrators would have also created urgency for the effective administration of cathedral schools.
 
-5. Increased population swells in major cities in the 12th century.
+5) Increased population swells in major cities in the 12th century.
 
 See, Southern, p. 195, “the rise in the rapid growth in the floating population of students of all ages and conditions”
 
@@ -148,7 +148,7 @@ From our reading could you get a sense of the kind of interaction that occurred 
 p. 196, “…Abelard, could find audiences, and profitable ones, wherever he chose to teach. But the cathedrals provided a natural focus for the activities of such men.”
 </div> -->
 
-6. Loose governance of cathedral canons 
+6) Loose governance of cathedral canons 
 
 Consider Southern's notes pages. 193 and 197. Here he notes that members belonging to a cathedral chapter, (i.e. communities of secular clergy) were allowed space for independent study and research.
 
