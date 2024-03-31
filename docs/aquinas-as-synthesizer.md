@@ -13,7 +13,7 @@ nav_order: 20
 1. TOC 
 {:toc}
 
-(Note: I don't have many questions or discussions blocks in today's notes. But I do have many quotations pulled from our reading along with my own commentary. Thus, for today's notes, I encourage you to annotate freely. Annotate on any part of the course notes that struck you as interesting or puzzling. If there was something interesting in our assigned reading that connects to what follows, share that connection with us. And as always please make sure to respond to one peer response.)
+(Note: I don't have many questions or discussions blocks in today's notes. But I do have many quotations pulled from our readings along with my own commentary. Thus, for today's notes, I encourage you to annotate freely. Annotate on any part of the course notes that struck you as interesting, important, or puzzling. If there was something interesting in our assigned reading that connects to what follows, share that connection with us. And as always please make sure to respond to one peer response.)
 
 # Introduction
 
