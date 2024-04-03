@@ -3,8 +3,8 @@ title: "Introduction to Dante's Purgatory"
 layout: lecture
 description: "Introduction to Dante's Purgatory"
 readings: 
-published: false
-date: 2024-04-21
+published: true
+date: 2024-04-04
 nav_order: 21
 ---
 
@@ -13,30 +13,6 @@ nav_order: 21
 1. TOC 
 {:toc}
 
-
-
-# Green Knight Adaptation
-
-<div class="discussion" markdown="1">
-
-If you finished watching *The Green Knight*, consider the following questions
-
-{:.rquestion}
-Were there any major alterations or changes in the movie from the text that really stuck out to you? What were they? Why do you think the film made these choices?
-
-{:.rquestion}
-Do you think the movie had a clear idea about what the point or essential message of this story was? What do you think that was? How did the movie convey it? Did it differ from the message you took away when just reading the story?
-
-{:.rquestion}
-The movie had a few interesting scenes of deforestation and other kinds of environmental destruction going on in the background. Why do you think they added these scenes?
-
-{:.rquestion}
-What do you make of the Lady's dialogue about the color green vs the color red? Do you think this was important for understanding the movie's interpretation of this story? How so?
-
-{:.rquestion}
-What do you make of Sir Gawain's line upon arriving at the Green Chapel -- "is this all there is" -- and the Green Knight's response -- "What else ought there be"? Are these important clues to understanding the movie's interpretation?
-
-</div>
 
 # Intro
 
@@ -143,7 +119,7 @@ This washing parallels the rite of baptism in earthly life and in both cases the
 If sin is removed in this moment (for all inhabitants of Purgatory), why might the climb up Mt. Purgatory still be necessary? 
 
 {:.dquestion}
-What distinction does the introduction to "Purgatory" make between "sin" and "vice" (p. 8)? How might this explain why the ascent through Purgatory is still necessary?
+What distinction does the introduction to "Purgatory" make between "sin" and "vice" (see p. 8)? How might this explain why the ascent through Purgatory is still necessary?
 
 {:.answer}
 Sin is the action performed. Vice points to the habit (or metaphorical scar) left behind. Because the habit or tendency toward sin is created by the frequent repetition of sinful acts in life, it remains even after sin is removed and this habit, tendency, or disposition still needs to be corrected.
@@ -164,7 +140,7 @@ This is notable because this focus on ethics as a process of **habit building** 
 
 In order to see this, I’d like to overview the essential characteristics of Aristotle's *Ethics*.
 
-Such an overview is not easy to do because we could spend several weeks reading Aristotle’s *Ethics*. For the moment, let me try to break it down into approximately 11 main bullet points. 
+Such an overview is not easy to do because we could spend several weeks reading Aristotle’s *Ethics*. For the moment, let me try to break it down into approximately 11 main bullet points. (We will walk though these bullet points again during class.)
 
 (Please use the annotation to tool to highlight steps in this list that are a bit fuzzy and would benefit from more discussion and explanation during our class discussion).
 
@@ -175,12 +151,12 @@ Such an overview is not easy to do because we could spend several weeks reading 
 3.	Moral virtues are defined as a disposition, or state of character, or a "way of having a feeling".
   * In short, you are not praised or blamed because you are angry or have a desire.
   * You are praised or blamed because you were angry or desirous in the wrong amount, at the wrong time, or with respect to the wrong things. 
-4.	Strictly speaking, then virtues are not actions, they are settled dispositions (maybe they could be called "attunements"), from which actions flow.
-5.	So why are we praised or blamed for these dispositions? Normally, we don’t think that the way in which we feel something is under our control. When something makes you sad or angry, normally you don’t feel like you have any immediate control over this. 
+4.	Strictly speaking, then, virtues are not actions, they are settled dispositions (maybe they could be called "attunements"), from which actions flow.
+5.	So why are we praised or blamed for these dispositions? Normally, we don’t think that the way in which we feel something is under our control. When something makes you sad or angry, we don't typically have direct control over this. 
   * Question: In what sense though might we still be responsible for becoming extremely angry about trivial things?
   * Possible answer: we cultivated this disposition for excessive anger over time. 	
   * And this is why moral virtues are described as habits. They are not learned from instruction (because they actually reside in the sensitive part of the soul, not the rational part) and therefore they have to be molded and shaped (like a baseball glove molds to a baseball) over time. 
-6.	Habits are formed through the repetition of action over time. We must do/imitate the kinds of actions an already virtuous person would do. Overtime this will create a new disposition that naturally/instinctively tends toward virtuous actions. 
+6.	Habits are formed through the repetition of action over time. We must do/imitate the kinds of actions an already virtuous person would do. Overtime this will create a new disposition that naturally/instinctively (a "second nature" if you will) tends toward virtuous actions. 
    * Accordingly, the idea of role models, examples, and guides are particularly important here: something we see lots of in Dante's "Purgatory".
 7.	Aristotle’s theory of virtues has enormous implications for the way we think about pleasure and the good.
    * Our dispositions determine what is pleasant and what appears to us as "good", what is painful and what appears as "bad".
@@ -221,9 +197,9 @@ A key tension between Aristotle's *Ethics* and Christianity was Aristotle's sugg
 
 This doesn't seem to square very well with the position of someone like Augustine, who said that "happiness" was not available in this life. 
 
-To see how Dante resolves this tension we need to keep in mind the synthesis provided by Aquinas. Namely, there are two kinds of "happiness" at issue here. Reason is enough to lead us to the first, but insufficient to lead us to the second. 
+To see how Dante resolves this tension we need to keep in mind the synthesis provided by Aquinas. Namely, there are two kinds of "happiness" at issue here. Reason (in principle) is enough to lead us to the first, but insufficient to lead us to the second. 
 
-This reconciliation is consistent with Aquinas's larger view toward natural reason and revelation. There are some truths that are capable of being known through the use of our natural reason; these are the truths necessary to acquire natural virtue, which is needed to acquire natural happiness. And there are some truths required for "supernatural" virtue that natural reason can never give us. The acquisition of these virtues require grace: namely the grace of "revelation". 
+This reconciliation is consistent with Aquinas's larger view toward natural reason and revelation. There are some truths that are capable of being known through the use of our natural reason; these are the truths necessary to acquire natural virtue, which is needed to acquire natural happiness. And there are some truths required for "supernatural" virtue that natural reason can never give us. The acquisition of these virtues require grace: namely the grace of "revelation" or "infusion"
 
 Thus we get something like the following: 
 
@@ -232,7 +208,7 @@ Thus we get something like the following:
 
 But, as we mentioned before, there is one other reason God give us the grace of revelation. 
 
-Even though the truths required for natural happiness are in principle achievable. They are also HARD to achieve. It takes a tremendous amount of time to achieve them and they are often discovered imperfectly. 
+Even though the truths required for natural happiness are in principle achievable, they are also HARD to achieve. It takes a tremendous amount of time to achieve them and they are often discovered imperfectly. 
 
 Thus, God in his mercy recognized this weakness and offered them to us through revelation. We should not be surprised, then, that there are some things revealed in the Bible that Aristotle figured out despite not having access to the Bible. 
 
@@ -241,10 +217,11 @@ In sum, there is a double operation of grace. 1) Grace is there to assist us whe
 With this in mind, as we read Dante's "Purgatory", I would like us to especially look for evidence of this synthesis at work in the story he tells. For example: 
 
 * Where do we see natural reason at work? 
-* Where do we see natural reason failing? (Why does it fail, does it fail because it is weak, does it fail because it has reached a limit)?
+  * Where do we see natural reason failing? (Why does it fail? Does it fail because it is weak? Or does it fail because it has reached a limit)?
+  * If Virgil is the personification of natural reasons, where do we see him struggling or falling short?
 * Where do we see Aristotle's system of moral formation playing out?
-* Where do we see Christian themes adding to this moral psychology and how (as a supplement or as a correction)?
-* Finally, how do we see grace illustrated and depicted in this story? In what capacity is grace/revelation functioning as an assistance to the weakness of our natural power or as a supernatural infusion.
+* Where do we see Christian themes being added to this moral psychology and how (as a supplement or as a correction)?
+* Finally, how do we see grace illustrated and depicted in this story? In what capacity is grace/revelation functioning? As an assistance to the weakness of our natural power or as a supernatural addition or infusion.
 
 # The Rebellious Will
 
@@ -255,15 +232,15 @@ In Augustine's *Confessions* he describes a "theft of pears" and spends a long t
 {:.rquestion}
 Does anyone remember this story? Why did Augustine say he stole the pears?
 
-We should contrast this with an idea from Plato and Aristotle visible in the the above account of Aristotle' moral psychology. This is the idea that "no one is voluntarily wicked" or, said differently, "all wickedness is in some way deep down the result of ignorance".
+We should contrast this with an idea from Plato and Aristotle visible in the the above account of Aristotle' moral psychology. This is the idea that "no one is voluntarily wicked" or, said differently, "all wickedness is in some way deep down the result of ignorance". In Aristotle's account, bad actions were due to the fact that the agent of these actions had an incorrect vision of the good.
 
-Thus, the ultimate solution to wickedness in the world is "education". Through correcting this ignorance everyone will be able to clearly see what the good is and will be **free** (that is capable) to pursue the true good that is ultimately what they really want. 
+Thus, the ultimate solution to wickedness in the world is "education". Through correcting this ignorance (by correcting the moral disposition) everyone will be able to clearly see what the good is and will be **free** (that is capable) to pursue the true good that is ultimately what they really want. 
 
-But Augustine's "Theft of the Pears" story complicates this idea. It suggests that the will is more **radically free** and operates independently of reason. Accordingly, the story suggests that wickedness can still occur even in someone with a perfectly clear vision of the good. 
+But Augustine's "Theft of the Pears" story complicates this idea. It suggests that the will is more **radically free** and operates independently of reason. Augustine, knew that stealing the pears was wrong and would not make him happy. He was not confused about this, but he did it anyway. Accordingly, the story suggests that wickedness can still occur even in someone with a perfectly clear vision of the good. 
 
 So, here are a few further questions about the "will" for us to consider as we read Dante.
   
-* To what extent are these competing ideas of the "Will" present in the story? 
+* To what extent are these competing ideas of the "will" present in the story? 
 * Does Dante prefer one over the other? 
 * If they are both present, can they successfully be reconciled?
 
@@ -274,7 +251,7 @@ So, here are a few further questions about the "will" for us to consider as we r
 * We looked at the distinction between sin and vice and why Purgatory might still be necessary even when the ability to sin has been removed.
 * We saw that the notion of "vice" as a "habit" left by the frequent performance of sin is a pointer to the presence of Aristotle's moral psychology in Dante's poem.
   * Accordingly, we identified some of the essential characteristics of Aristotle's ethical theory so that we can look for evidence of this theory in Dante's "Purgatory".
-* Finally, we pointed to some furthers questions to be on the look out, namely: 
+* Finally, we pointed to some furthers questions to be thinking about, namely: 
   * To what extent does Dante follow Aquinas's synthesis between natural and supernatural happiness, natural reason and revelation?
   * To what extent does Dante reconcile the competing notions of the will seen in Aristotle and Augustine.
 
