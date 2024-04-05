@@ -89,3 +89,9 @@ We spent some time discussing Medieval Jewish communities and their relationship
 
 {:.rquestion}
 Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+# Plenary 7 (Fri, Apr 5)
+## Rise of the Medieval Universities - Dr. Jeffrey C. Witt
+
+{:.rquestion}
+Describe something you learned today or a connection to something we've discussed in class
