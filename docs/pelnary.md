@@ -95,3 +95,12 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 
 {:.rquestion}
 Describe something you learned today or a connection to something we've discussed in class
+
+# Plenary 8 (Fri, Apr 12)
+## Gender in the Middle Ages - Dr. Fritz Bauerschmidt
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+{:.rquestion}
+Questions about gender have surfaced in our class discussions before, especially with regard to Eleanor of Aquitaine and the Knight of the Cart. Do you see any connections between what we've discussed before and the theme explored by Dr. Bauerschmidt? Describe that connection.
