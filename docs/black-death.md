@@ -3,7 +3,7 @@ title: "The Black Death and its 14th Century Context"
 layout: lecture
 description: "The Black Death and its 14th Century Context"
 readings: 
-published: false
+published: true
 date: 2024-04-16
 nav_order: 24
 ---
@@ -14,12 +14,31 @@ nav_order: 24
 1. TOC 
 {:toc}
 
-    
+# Spring is here
+
+I hope you all had a lovely weekend and did something wonderful outside. Here's a few pictures from my bike ride!
+
+
+<div style="display: flex; height: 400px; justify-content: space-between;">
+
+<img src="{{site.assets_url}}biking-2024-04-14/img1.jpg"/>
+
+<img src="{{site.assets_url}}biking-2024-04-14/img2.jpg"/>
+
+<video src="{{site.assets_url}}biking-2024-04-14/vid1.mp4" autoplay muted loop>
+<source src="movie.mp4" type="video/mp4">
+</video>
+
+<video src="{{site.assets_url}}biking-2024-04-14/vid2.mp4" autoplay muted loop>
+<source src="movie.mp4" type="video/mp4">
+</video>
+</div>
+
 # The Black Death: Basic Details
 
 <div class="discussion" markdown="1">
 
-From our reading in Kelly, Rosenwein (esp. SHMA, pp. 308-311), or any information you already know, can we generate a basic description of what the "Black Death" is?
+From our reading in Kelly, Rosenwein (esp. SHMA, pp. 296-300), or any information you already know, can we generate a basic description of what the "Black Death" is?
 
 For example: 
 
@@ -34,7 +53,7 @@ John Kelly, in his first chapter on the Black Death (not in our assigned reading
 
 > "Y. pestis's natural prey are turbots, marmots, rats, squirrels, gerbils, prairie dogs, and roughly two hundred other rodent species. For the pathogen to ignite a major outbreak of human disease on the scale of the Black Death, a number of extraordinary things had to have happened."
 
-What seems noteworthy here is the fact that the Plague is caused by a naturally occurring bacteria (Y pestis). It has existed in the world for a long time and continues to exist today. And yet, the human world does consistently and perpetually suffer from its deadly infection. Accordingly, its mere presence in the world is not enough to explain the dramatic impact it had on Europe in the 14th century. While the existence of the bacteria is a **necessary cause** of the Black Death, it is not a **sufficient cause**. Other factors must have been involved to lead these dramatic consequences.
+What seems noteworthy here is the fact that the Plague is caused by a naturally occurring bacteria (Y pestis). It has existed in the world for a long time and continues to exist today. And yet, the human world does consistently and perpetually suffer from its deadly infection. Accordingly, its mere presence in the world is not enough to explain the dramatic impact it had on Europe in the 14th century. While the existence of the bacteria is a **necessary cause** of the Black Death, it is not a **sufficient cause**. Other factors must have been involved to lead to these dramatic consequences.
 
 Our investigation of these causes gives us a chance to examine not only the Black Death but other important historical developments in the 14th century that helped create the conditions for the Black Death. 
 
@@ -54,21 +73,21 @@ Let's explore each in a bit more depth.
 
 Let's begin with "trade and increased globalization" and then turn to the causes Kelly focuses on.
 
-As noted, the rodent that act as natural hosts of Y. Pestis are native to the Asian Steppes (Asian Prairies). The bacteria can be found in these populations today. Rats are also generally very sedimentary. Normally, they don't travel much. So one question is how was the bacteria able to travel to regions of the globe so far from its natural home. The vast system of global trade in the late 13th and early 14th helps us understand this.
+As noted, the rodents that act as natural hosts of Y. Pestis are native to the Asian Steppes (Asian Prairies). The bacteria can be found in these populations today. Rats are also generally very sedimentary. Normally, they don't travel much. So one question is how was the bacteria able to travel to regions of the globe so far from its natural home. The vast system of global trade in the late 13th and early 14th helps us understand this.
 
 ## Pax Mongolica
 
 The "Pax Mongolica" refers to a vast period of relative peace extending from East Europe to East Asia, thus allowing global trade to flourish. 
 
-This event has many connections to other important aspects of the Middle Ages that we need to know about. Thus, please make sure to have read the Rosenwein account of the Mongolian Empire, SHMA, pp. 251-256. 
+This event has many connections to other important aspects of the Middle Ages that we need to know about. Thus, please make sure to have read the Rosenwein account of the Mongolian Empire, SHMA, pp. 255-258. 
 
 I will highlight a few key important details here. Please annotate with any thoughts/questions/links.
 
 First, we need to remember what is happening in the Middle East. We've already seen the rising of the Turks alongside the reign of Abbasid empire. 
 
-By 1250 both of these powers begin to fade. (For example, see SHMA, p. 207)
+By 1250 both of these powers begin to fade.
 
-In their place, emerged the empire of Malmuks in the West and Mongols in the East. (See the Map on SHMA, p. 252).
+In their place, emerged the empire of Malmuks in the West and Mongols in the East. (See the Map on SHMA, p. 25).
 
 The rise of the Mongolian Empire is our concern here.
 
@@ -82,19 +101,17 @@ Let's think about their story around a couple of central questions.
 {:.rquestion}
 Who was the "founding" leader of the Mongolian Empire? What were some of his characteristics that made him successful?
 
-Among the traits listed by Rosenwein (SHMA, p. 252) is the suggestion that he was driven by a "vision of world conquest". This seems important in light of the later success that the Mongol Empire had in supporting truly **global** trade. 
-
-It's important that you have a general idea of the timeline of these major conquests. (See p. SHMA 252). Dates listed here are Rus (1230s), Poland and Hungary (1241), China (1279), Seljuk Rum (1243), __?___ (1258), and Syria (1259-1260).
+Among the traits listed by Rosenwein (SHMA, p. 213) is the suggestion that Chinggis was driven by a sense of divine mandate: "Heaven's mandate that the Mongols should rule the world". This seems important in light of the later success that the Mongol Empire had in supporting truly **global** trade. (See map 6.3 in SHMA p. 213 for sense of major conquests.)
 
 {:.dquestion}
-Why is 1258 a particularly important date? What important Islamic dynasty does it mark the end of?
+One conquest is particularly given some of our earlier discussions. Why is 1258 a particularly important date? What important Islamic dynasty does it mark the end of?
 
 {:.answer}
 This is usually the date we mark as the end of the Abbasid empire.
 
 ### What did their reign look like? What were some of its essential characteristics?
 
-Eventually the northwest expansion into Europe and southwest expansion into the Middle East and Africa was halted and the empire began to take on a "settled state". (See SHMA, p. 254). 
+Eventually the northwest expansion into Europe and southwest expansion into the Middle East and Africa was halted and the empire began to take on a "settled state". (See SHMA, p. 256-258). 
 
 Using SHMA consider the following questions: 
 
@@ -107,7 +124,7 @@ How did it integrate with the cultures in conquered?
 {:.rquestion}
 To what religion do the Mongols eventually convert? 
 
-I see the final passage in SHMA, p. 254 as a nice summary. 
+I see the final passage in SHMA (5th edition, p. 254, not our edition) as nice summary.
 
 > "Thus the Mongols assimilated into the older civilizations of the regions that they conquered. At the same time, they greatly extended the global vision of Europeans and Muslims, opening up routes to China."
 
@@ -143,7 +160,7 @@ This warming coincided with two developments whose connection seems fairly obvio
 * economic growth and 
 * population growth. 
 
-It is generally agreed that all three of these developments (warming, economic growth, and population growth) were coming to an end around 1250. (See SHMA, p. 289, near the bottom). 
+It is generally agreed that all three of these developments (warming, economic growth, and population growth) were coming to an end around 1250. (See SHMA, p. 290, near the bottom). 
 
 There is a connection to be made here between these centuries of prosperity and another development we discussed earlier, namely the rise of the university. 
 
@@ -153,26 +170,26 @@ Abelard is only one example of a groundswell of people who had **enough surplus 
 
 ## The Great Famine
 
-Rosenwein discusses "The Great Famine" in SHMA, p. 289. 
+Rosenwein discusses "The Great Famine" in SHMA, p. 290 and following. 
 
 The most obvious cause seems to be, as Rosenwein says, "overpopulation and undersupply". 
 
-But these two causes are related to climate change. The "Warm Period" appears to end by 1250 only to be followed by a "mini ice age" (SHMA, p. 289) which would clearly affect food production. At the same time, the population of Europe was at an all time high thanks to the demographic boom of the previous century. 
+But these two causes are related to climate change. The "Warm Period" appears to end by 1250 only to be followed by a "mini ice age" (SHMA, p. 290) which would clearly affect food production. At the same time, the population of Europe was at an all time high thanks to the demographic boom of the previous century. 
 
 Kelly (p. 57) describes this as a possible Malthusian scenario where population growth reaches an unsustainable level only to be curbed by disaster (e.g. Famine or Plague). 
 
-However, both Rosenwein (p. 292) and Kelly (p. 57) point out that climate change is not enough to account for the famine. Contemporary research suggests that The Great Famine has as much to do with human decisions and actions as it does with climate change.
+However, both Rosenwein (p. 291) and Kelly (p. 57) point out that climate change is not enough to account for the famine. Contemporary research suggests that The Great Famine has as much to do with human decisions and actions as it does with climate change.
 
 Rosenwein writes: 
 
-> "Yet scarcity and famine were hardly inevitable...Often human actions were responsible for aggravating food shortages." (SHMA, p. 292)
+> "Yet nature and demography were not the only causes of the Great Famine. Human actions, too, were responsible for aggravating food shortages across Europe." (SHMA, p. 291)
 
 <div class="discussion" markdown="1">
 
-So here, rather than just summarize Rosenwein, I ask you to read her account of the human causes of the Great Famine on pp. 292-293.  Then please post some of the "human causes" you identify. 
+So here, rather than just summarize Rosenwein, I ask you to read her account of the human causes of the Great Famine on pp. 291-292.  Then please post some of the "human causes" you identify. 
 
 {:.rquestion}
-For example, what changes in the nature of warfare tactics were affecting food supplies. Rosenwein mentions this briefly on p. 292, but Kelly mentions this development in his account of the "war" as a cause of the plague on p. 74. 
+For example, what changes in the nature of warfare tactics were affecting food supplies. Rosenwein mentions this briefly on p. 291, but Kelly mentions this development in his account of the "war" as a cause of the plague on p. 74. 
 
 This is a good example of how the causes of the plague intersect and intertwine, reinforcing one another. 
 
@@ -217,13 +234,13 @@ But strangely he is also considered the first Angevin King. Why? Where does the 
 {:.answer}
 The term Angevin comes from land title "Anjou" which lies in the northwest part of modern-day France. 
 
-Please look at the map in SHMA on p. 218 to get a sense of the land holdings of Henry II. 
+Please look at the map in SHMA on p. 217 to get a sense of the land holdings of Henry II. 
 
 I find this a somewhat astonishing reminder that there is nothing "necessary" or "inevitable" about the present, including its geo-political divisions. For us today England as a nation is obviously an island set apart from the European continent, while France is a nation contained entirely on the continent. However, the map on page 218 shows us how different things were in the Middle Ages and how different they could have been for us today had events like the Hundred Years' War not shaped the future in very specific ways. 
 
 Henry II surely did not think of himself as primarily English or belonging to an island country. He spent most of his time in Anjou. His first language was probably an earlier form of French. 
 
-All things considered Henry II was a powerful King who set up strong bureaucracies and administrative systems. (See SHMA, p. 214-220.)
+As we've discussed before, all things considered, Henry II was a powerful King who set up strong bureaucracies and administrative systems. (See SHMA, p. 215-220.)
 
 But important for our story is that his sons were somewhat disappointing. 
 
@@ -265,7 +282,7 @@ Instead of supporting Edward III, they threw their support to Philip VI, who was
 
 Thus, while Edward III could claim to be a direct descendant (great-grandson) of the first-born male child of Philip III, Philip VI could claim to be the grandson of Philip III through an all-male line (albeit through the second-born son of Philip III rather than the first-born).
 
-(See the French Genealogy in SHMA p. 313.) 
+(See the French Genealogy in SHMA p. 306.) 
 
 To enforce his claims, Edward III began a war against the French King in 1337 (only 10 or so years before the outbreak of the plague) which lasted until 1453. 
 
@@ -275,7 +292,9 @@ Rosenwein titles chapter 8 in SHMA, "Catastrophe and Creativity". Thus, it is re
 
 One answer is that it generated new political formations, especially in France. Rosenwein writes:
 
-> "Ultimately, the war was not so much between England and France as between two conceptions of France: one, a centralized monarchy, the other, and association of territories ruled by counts and dukes. The centralized model won." (SHMA, p. 311)
+> "Ultimately, the war was not so much between England and France as between two conceptions of France: one, a centralized monarchy, the other, and association of territories ruled by counts and dukes. The centralized model won." (SHMA, 5th edition, p. 311)
+
+> "Ultimately, the war marked the transformation of France and England into nation-states" (SHMA, 6th (our) edition, p. 305)
 
 One way that I think we can get a sense of how the Hundred Years' War helped create the centralized nation state that we know today as France is by comparing into the Holy Roman Empire. 
 
@@ -309,7 +328,7 @@ But the claims of Edward III at the start of the Hundred Years' War forced Frenc
 
 Having lived through a modern global pandemic, we have a unique lens with which we can view the 14th century Plague. 
 
-Based on our reading of the Black Plague (both in Kelly and Rosenwein (SHMA, pp. 308-311 ))...
+Based on our reading of the Black Plague (both in Kelly and Rosenwein (SHMA, pp. 296-300 ))...
 
 {:.rquestion}
 Do you see any similarities between the two pandemics? 
