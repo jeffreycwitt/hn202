@@ -306,8 +306,7 @@ In this respect, the Holy Roman Emperor functioned like the head of the UN or Eu
 
 To give you a sense of the complexity of the Holy Roman Empire, look at this map from 1356: 
 
-![Map of Holy Roman Empire Fragmentation](https://upload.wikimedia.org/wikipedia/commons/9/99/Golden_Bull_of_1356.png)
-(https://en.wikipedia.org/wiki/Holy_Roman_Empire#/media/File:Golden_Bull_of_1356.png)
+![Map of Holy Roman Empire Fragmentation]({{site.assets_url}}HolyRomanEmpire_1400.png)
 
 In this regard, the empire was sometimes called a "Flickenteppich" (a wonderful German word for a "patchwork"). And Consider the following description from Wikipedia:
 
