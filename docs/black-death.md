@@ -264,9 +264,9 @@ At the same time, however, the point for our concern with the Hundred Years' War
 
 John Lackland was followed by: 
 
-Henry III (son of John Lackland) 
-Edward I (Longshanks) (The evil king in the movie *Braveheart*)
-Edward II (the disappointing son in the movie *Braveheart*). 
+* Henry III (son of John Lackland) 
+* Edward I (Longshanks) (The evil king in the movie *Braveheart*)
+* Edward II (the disappointing son in the movie *Braveheart*). 
 
 Critically important is that Edward II married Isabelle of France, the daughter of Philip IV.
 
