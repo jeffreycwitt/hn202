@@ -3,7 +3,7 @@ title: "Julian of Norwich and the Mystical Tradition"
 layout: lecture
 description: "Julian of Norwich and the Mystical Tradition"
 readings: 
-published: false
+published: true
 date: 2022-04-18
 nav_order: 25
 ---
@@ -33,9 +33,9 @@ Some of the most famous of these women include:
 
 * Hildegard of Bingen (1098-1179)
 * Marguerite Porete (1250-1310)
-* Julian of Norwich (1342-after 1416)
+* Julian of Norwich (1342-1416)
 * Catherine of Siena (1347-1380)
-* Margery Kempe (circa 1373-after 1439)
+* Margery Kempe (1373-1439)
 
 There is a wide diversity within the mystical tradition, but one common characteristic that I would like to emphasize (given where we are going) is the inclination of the "Mystical" tradition to privilege experience (or experiential knowledge) over deductive or inferential knowledge.
 
@@ -103,7 +103,7 @@ Thanksgiving also belongs to prayer. Through beseeching God’s good nature beco
 
 In sum: What I see in this passage is a unique concern to create an alternative impression of God in the minds of her readers. The new image she is offering also helps us get a sense of the popular or dominant image of God that would seem to surround her: an image of God that **deters people from prayer** and frequently makes **God seem unapproachable**, an image of God who is **angry** and **wrathful**.
 
-As we go forward, it will help us to step back a bit and consider why God (perhaps especially in thr 14th century) might have been seen as **angry** or **wrathful**. Then we can look at few further passages from Julian's 14th revelation and consider how she opposes this traditional view.
+As we go forward, it will help us to step back a bit and consider why God (perhaps especially in thr 14th century) might have been seen as **angry** or **wrathful**. Then we can look at a few further passages from Julian's 14th revelation and consider how she opposes this traditional view.
 
 # Medieval Theodicies
 
@@ -124,7 +124,6 @@ An early solution was proposed by a group called the Manicheans, made famous by 
 <div class="discussion" markdown="1">
 
 {:.dquestion}
-
 From your reading of the *Confessions*, do you recall how the Manicheans attempted to resolve the problem of Evil? Which of the above two premises did they cling to? Which premises did they let go?
 
 <div class="answer" markdown="1">
@@ -204,7 +203,7 @@ Why does Julian feel confused or uncomfortable with this traditional/Church answ
 
 </div>
 
-In the end, she seems to be struggling with two portraits of God (and our relationship to him). 
+In the end, she seems to be struggling with two portraits of God (and our relationship to Him). 
 
 On the one hand, there is the portrait of God in which there is no anger and no wrath. 
 
@@ -284,7 +283,7 @@ In contrast to the "Juridical Paradigm", one scholar calls Julian's view the "Te
 
 It is "Teleological" because it looks **forward** toward the result of pain and suffering, and Julian sees a result emerging from sin and suffering that is better than if the sin and suffering had never occurred. 
 
-In the respect, Julian's most famous passage from Revelation 13 are highly relevant. Here she writes:
+In the respect, Julian's most famous passages from Revelation 13 are highly relevant. Here she writes:
 
 > "Sin is necessary but all will be well, and all will be well, and every kind of thing will be well." (Revelation 13, chapter 27, p. 225).
 
@@ -312,7 +311,7 @@ The necessity of sin and suffering for this kind of knowledge is expressed in a 
 
 > "...for we need to fall, and we need to see it; for if we did not fall, we should not know how feeble and how wretched we are in ourselves, nor, too, should we know so completely the wonderful love of our creator...." (Revelation 14, chapter 61, p. 300).
 
-> "...and by the experience of this falling we shall have a great and marvellous knowledge of love in God without end..." (Revelation 14, chapter 61, p. 300).
+> "...and by the experience of this falling we shall have a great and marvelous knowledge of love in God without end..." (Revelation 14, chapter 61, p. 300).
 
 On the teleological view, sin and retribution are not just accidental by products of our free will (as they are in the "juridical view"), they are necessary for a purpose (a "telos"). And in this way, Julian attempts to free the everyday Christian from excessive self-contempt at the thought of their own failings.
 
