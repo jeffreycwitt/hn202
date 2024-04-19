@@ -104,3 +104,12 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 
 {:.rquestion}
 Questions about gender have surfaced in our class discussions before, especially with regard to Eleanor of Aquitaine and the Knight of the Cart. Do you see any connections between what we've discussed before and the theme explored by Dr. Bauerschmidt? Describe that connection.
+
+# Plenary 9 (Fri, Apr 19)
+## Love Poetry in the Middle Ages - Dr. Matt Moser
+
+{:.rquestion}
+I expect Dr. Moser's lecture will have a something to say about the character of Beatrice. What connections do you see between the Dr. Moser's lecture and our class discussions (and puzzling over) the character of Beatrice? Did the lecture offer any new lenses through which to interpret or understand the character of Beatrice? 
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
