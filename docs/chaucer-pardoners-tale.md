@@ -202,10 +202,10 @@ Now let's look at the story
 {:.rquestion}
 What happens here? What's the main plot?
 
-{:rquestion}
+{:.rquestion}
 What feeling do you get as the Pardoner moves from his morality tale to final sermon asking people to buy indulgences?
 
-{:rquestion}
+{:.rquestion}
 Why does the Pardoner do this after telling everyone is his prologue that the relics aren’t real and that he’s only after money
 
 {:.rquestion}
