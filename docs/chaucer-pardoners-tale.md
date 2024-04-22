@@ -59,6 +59,7 @@ When did he live? What kind of career did he have?
 
 {:.rquestion}
 Can you share any useful links that can get us up to speed about his biography?
+
 <!-- 
 * c. 1343 
 * 25 October 1400
@@ -67,13 +68,14 @@ Can you share any useful links that can get us up to speed about his biography?
   * intro p. xii, "Chaucer's career gave him the support and patronage he needed to write poetry, but it also provided a tour of human variety, since Chaucer himself lived a life of extraordinary social mobility for the Middle Ages"
   * "...Chaucer was, essentially, a civil servant...
   * p. xiii, "A controller of Customs from 1374 he was responsible for keeping accurate records of the various payments of the export duty on wool..."
-  * "...As Clerk of the King's Works from 1389 he would have sent letters in a variety of directions to maintain the king's properties for which he was responsible" -->
+  * "...As Clerk of the King's Works from 1389 he would have sent letters in a variety of directions to maintain the king's properties for which he was responsible" 
+-->
 
 </div>
 
 # The Canterbury Tales, *In General*
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 {:.rquestion}
 How many people have read the *Canterbury Tales* before? Does anyone know the basic trope organizing these different tales?
@@ -132,7 +134,7 @@ For us, without reading the prologue, it will be enough to look at the list of 2
 * the haberdasher and
 * the host Harry Bailey
 
-<div class="discussion" break="1">
+<div class="discussion" markdown="1">
 
 {:.dquestion}
 What do you notice about this list?
