@@ -195,7 +195,7 @@ In what way does this prologue imply a kind of critique and can thereby be seen 
 </div>
 
 
-<div type="discussion" markdown="1">
+<div class="discussion" markdown="1">
 
 Now let's look at the story
 
