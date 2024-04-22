@@ -303,29 +303,29 @@ We see a similar claim for control in Spain, which notably included a royal vers
 
 ## Colonialism
 
-Finally, it worth noting how the slow and inchoate formation of independent nations states (as we've seen in England and France, after the Hundred Year's War, along with Spain and Portugal) starts to lead to a national competition that expresses itself outward in the form of expansion. This was a precursor to the rise of colonialization that marks the early modern period.
+Finally, it worth noting how the slow and inchoate formation of independent nations states (as we've seen in England and France, after the Hundred Year's War, along with Spain and Portugal) starts to lead to a national competition that expresses itself outwardly in the form of expansion. This was a precursor to the rise of Colonialism that marks the early modern period.
 
-The cultivation of cane sugar, the ravenous demand for the product in Europe, and the desire to dominate the market is also a notable catalyst for the expansionist aims of european powers (see SHMA, p. 332)
+Interestingly (or interesting at least to me) is the fact that the new cultivation of cane sugar led to a ravenous demand for the product in Europe. This desire combined with national ambitions led to a fierce competition to control the sugar market. And this too was a notable catalyst for the expansionist aims of european powers (see SHMA, p. 332)
 
-Rosenwein notes the fierce national competition on page 340 as a cause of Columbus' Spanish sponsored voyage to America:
+Rosenwein notes that the fierce national competition, on page 340, was a cause of Columbus' Spanish sponsored voyage to America:
 
 > "Portugals's successes and pretensions roused the hostility and rivalry of Castile. Fredinand and Isabella's determination to conquer the canary Islands was in part their "answer" to Portugal's Cape Verde. When, in 1492, they half-heartedly sponsored the Genoese Christopher Columbus on a westward voyage across the Atlantic, they were trying to best Portugal at its own game." (SHMA, p. 333)
 
 # Conclusion
 
-I’d like to close our semester simply by acknowledging what a lovely semester it has been: it is a real privilege to be able to read these texts with you; to discuss, debate, and reflect together on ideas and history. 
+I’d like to close our semester simply by acknowledging what a lovely semester it has been: it is a real privilege to be able to read these texts with you; to discuss, debate, and reflect together on the perennial ideas and the history that shapes our own self identity. 
 
-I know its hard to appreciate what a luxury it is to be able to do this at the end of the semester, but I hope you will be able to reflect back positively on our time together; and I hope that this will inspire you to make free and open intellectual inquiry a part of your life-long habit. 
+I know its hard to appreciate what a luxury it is to be able to do this at the end of the semester, but I hope you will be able to reflect back positively on our time together. Further, I hope that this will inspire you to make free and open intellectual inquiry a part of your life-long habit. 
 
-As a final parting word about the Middle Ages, I hope that you’ll come away from this class with the recognition that history is important to the present. 
+As a final parting word about the Middle Ages, I want to reiterate a claim that we made at the beginning of our course together. Our understanding of ourselves in the present and our plans for the future is shaped by our understanding of the past.
 
 The truth is that NONE of us think in vacuum. All of us are and speaking and thinking through an inherited history that shapes us. 
 
-In order therefore, to truly engage in a life of self-examination, to be able to hold up your own ideas, beliefs, and prejudices to the light of critical examination, you must have a sense of the cultural past we all inherit. I think we’ve realized together why a lot of people don’t do that --- because it’s hard work and it take discipline and commitment.
+In order, therefore, to truly engage in a life of self-examination, to be able to hold up your own ideas, beliefs, and prejudices up to the light of critical examination, you must have a sense of the cultural past we all inherit. I think we’ve realized together why a lot of people don’t do that --- because it’s hard work and it take discipline and commitment.
 
-However, I hope that we’ve be able to see this importance in different ways throughout our semester together: whether through analyzing competing conceptions of happiness, the generation of new ideas about what human life is for, the political uses of the other, how to response to the problem of evil, or even the rise of the university (of which we are all clear inheritors). 
+However, I hope that we’ve be able to see this importance in different ways throughout our semester together: whether through analyzing competing conceptions of happiness, the political uses of the other, various responses to the problem of evil, or the rise of the university (of which we are all clear inheritors). 
 
-I hope this sense of dependence will stick with you and you’ll be encouraged to continue to pursue a deeper and deeper historical understanding of the world you inhabit.
+I hope this sense of dependence will stick with you long after your time at Loyola, and I hope that you’ll be encouraged to continue to pursue a deeper and deeper historical understanding of the world you inhabit.
 
 Thank you for a great semester. Please know that just because you’re not in my class next semester doesn’t mean my door is not open to you. Please make sure to say "hi" as we meet around campus. And if I can do anything for you in the future please don’t hesitate to stop by my office and ask. 
 
