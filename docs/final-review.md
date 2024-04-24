@@ -3,7 +3,7 @@ title: "Final Exam Review"
 layout: lecture
 description: "Final Exam Review"
 readings: 
-published: false
+published: true
 date: 2024-04-25
 nav_order: 27
 ---
@@ -27,7 +27,7 @@ You will have two hours to complete the exam.
 
 ## Authors and Figures
 
-As you review authors and figures we have discussed, try to recall the main points of significance we attached to these figures during our course discussion. When did they live? To what important events or ideas are they connected? How do their lives or writings connect to those ideas? What other important figures orbit around these figures? Why are these other figures important? The following list is not exhaustive, but a suggested place to begin.    
+As you review authors and figures we have discussed, try to recall the main points of significance we attached to these figures during our course discussion. When did they live? To what important events or ideas are they connected? How do their lives or writings connect to those ideas? What other important figures orbit around these figures? Why are these other figures important? The following list is not exhaustive, but a suggested place to begin.
  
 * Augustine
 * St. Benedict
@@ -40,19 +40,22 @@ As you review authors and figures we have discussed, try to recall the main poin
 * Henry IV and Gregory VII
 * Pope Urban II
 * Author of Beowulf
-* King Alfred
+* Important Anglo-Saxon Kings
 * William the Conqueror
 * Angevin Kings (and distinction for Plantagenet Kings)
 * Henry II
 * Eleonore of Aquitaine
 * Chrétien de Troyes
 * Peter Abelard
+* Peter Lombard
+* Gratian
 * Thomas Aquinas
-* Author of the Green Knight
 * Dante
+* Edward III
 * Julian of Norwich
-* Henry V (SHMA, p. 314)
-* Joan of Arc (SHMA, p. 315)
+* Geoffrey Chaucer
+* Henry V
+* Joan of Arc
  
 <div class="discussion" markdown="1">
 
@@ -83,8 +86,9 @@ As you review these events and places, try to make sure you have a rough idea of
 * The First Crusade
 * Rise and Fall of Anglo-Saxon Kingdoms
 * Norman Conquest
-* Rise of Courtly Life
+* Rise of Courtly Life (and Love)
 * 12th century Renaissance; rise of cathedral schools
+* Little Optimum (Medieval Warming Period)
 * The Rise of the University
 * Mongolian Empire and its impact (Pax Mongolica)
 * Re-Discovery of Aristotle
@@ -93,8 +97,14 @@ As you review these events and places, try to make sure you have a rough idea of
 * Black Plague (and causes)
 * 100 Years' War
 * 14th Century as "Catastrophe" leading to "Creativity".
-* Avignon papacy and Western Schism (see SHMA, p. 322)
+* Avignon papacy and Western Schism
 * Scholasticism vs. Mysticism
+* The Fall of Constantinople 
+* Rise of Humanism (Italian Renaissance)
+* Invention of the Printing Press
+* John Wycliff (Lollards) and Jan Huss (Hussites)
+* Beginnings of colonialism.
+
 
 <div class="discussion" markdown="1">
 {:.rquestion}
@@ -111,20 +121,28 @@ What else should be added to this list? Tell us why?
   * In what way could the medieval universities be seen as caused by repeated calls for clerical reform stretching back to Charlemagne?
   * In what way does Dante call for reform?
   * In what way is Julian suggesting reform?
+  * How does Chaucer continue this call for reform?
+    * What is estate satire? How do the Pardoner’s Tale exemplify this?
+* What kind of church abuses/problems are rising in the 14th and 15th century?
+  * What kind of reforms do John Wycliff and Jan Huss call for? 
+  * How does contribute to the growth of increasingly independent "national churches"?
 * Tensions between Church and State
   * Why is the year 800 an important year for the relationship between Church and State?
   * How is this tension illustrated in the Investiture Controversy?
   * In what way does Aquinas’ division between two types of happiness make a contribution to this discussion?
+  * How is this tension present in Dante’s *De Monarchia* and *Purgatorio*
   * How might this lead to two ways of thinking about proper government and the distribution power?
-  * How is this tension present in Dante’s Purgatory?
+  * What is the Western Schism and how does its resolution lead to division between two ways of thinking about the source of the church's corporate identity? 
+    * How might these different ideas lead to different ways of conceiving the church relationship to secular power?
+    * How might these different lead to different ways of justifying political authority?
 * Self and Other
   * How do we see the concepts of “foreigner” and “other” used in the Middle Ages?
   * In what way does the construction of an “other” serve a political purpose? What examples can you think of?
-  * Where especially have we seen this theme in the Crusades, Beowulf, Knight of the Cart.
+  * Where especially have we seen this theme in the Crusades, Beowulf, Knight of the Cart?
   * In what way do we see this political construction of the "other" in the treatment of Jewish communities throughout the Middle Ages?
 * The Rise of the Crusades
   * What are the factors leading up to the crusades?
-  * In what way do some of these factors and conditions lead to the idea of chivalry and courtly love as seen in the Arthurian Romances of Chrétien de Troyes and the Green Knight?
+  * In what way do some of these factors and conditions lead to the idea of chivalry and courtly love as seen in the Arthurian Romances of Chrétien de Troyes?
 * Faith and Reason
   * How might the author of Beowulf be seen as trying to reconcile Christianity with the pagan Anglo-Saxon past?
   * Why does the rediscovery of Aristotle pose a particular challenge for medieval Christians in the 13th century?
@@ -143,31 +161,24 @@ What else should be added to this list? Tell us why?
 * Moral Life and Moral Development
   * What conceptions have we seen of the proper moral life and moral education?
   * What is the viewpoint seen in St. Benedict’s Rule?
-  * How do Beowulf and Arthurian Romance literature (Knight of the Cart, Green Knight) promote a particular ethic and vision of the moral life? What kinds of conflicts or tensions are present there?
+  * How do Beowulf and Arthurian Romance literature (e.g. Knight of the Cart) promote a particular ethic and vision of the moral life? What kinds of conflicts or tensions are present there?
   * How do we see moral education described in Dante’s Purgatorio?
     * In what way is this vision influenced by Aristotle?
     * Why is the distinction between sin and vice important to Dante?
     * In this context, how does Dante understand the notion of free will and freedom in contrast to rival notions? To what extent is he able to incorporate Augustine's notion of free will into this system?
-* History and Fiction
-  * This semester, we spent a lot of time with stories from the past.
-  * What are some of the different reasons people write fiction?
-  * How can fiction be used a historical source? How does it often reveal something about the time in which it is written?
-  * Consider the stories we've read...
-    * When the Emperor was Divine
-    * Beowulf
-    * Knight of the Cart
-    * The Green Knight
-    * Purgatorio
+* History and the Middle Ages
+  * Why is the study of history important?
+  * How are our conceptions of the present and the future *always already* shaped by our understanding of history whether we recognize it or not?
+  * What are some ways our understanding of medieval history continues to shape the present?
+    * What are some obvious legacy of the Middle Ages in the present day?
+    * What are some of the ways we currently idealize or disparage the Middle Ages?
+      * Does this characterization of the past tell us anything about present day sense of self or self-identity?
+  * How has your understanding of the Middle Ages changed since the beginning of the semester?
+    * What are some specific examples or pieces of evidence that support your changed perspective?
 
 <div class="discussion" markdown="1">
 {:.rquestion}
 What else should be added to this list? Tell us why?
 </div>
 
-## Reflection
 
-* Reflect a little bit about your overall sense or understanding of the Middle Ages.
-* Recall that we started the semester by identifying some common and popular characterizations of the Middle Ages
-  * What were some of these surface characterizations?
-* How has your understanding of the Middle Ages changed since the beginning of the semester?
-  * What are some specific examples or pieces of evidence that support your changed perspective?
