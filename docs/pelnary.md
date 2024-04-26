@@ -113,3 +113,9 @@ I expect Dr. Moser's lecture will have a something to say about the character of
 
 {:.rquestion}
 Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+# Plenary 10 (Fri, Apr 26)
+## The Western Schism - Dr. Jeffrey Witt
+
+{:.rquestion}
+I forgot t post this before the lecture...but if you want to respond...what was a detail from today's lecture that struck you as particularly interesting?
