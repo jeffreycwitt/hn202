@@ -4,7 +4,7 @@ layout: lecture
 description: "Midterm Exam Review Sheet"
 readings: 
 published: false
-date: 2024-02-25
+date: 2025-02-25
 nav_order: 13
 ---
 

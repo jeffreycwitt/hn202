@@ -4,7 +4,7 @@ layout: lecture
 description: "The Medieval Legacy of Monasticism."
 readings: ""
 published: false
-date: 2024-01-28
+date: 2025-01-28
 nav_order: 5
 ---
 

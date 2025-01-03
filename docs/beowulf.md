@@ -4,7 +4,7 @@ layout: lecture
 description: "Beowulf Discussion"
 readings: 
 published: false
-date: 2024-03-13
+date: 2025-03-13
 nav_order: 16
 
 ---

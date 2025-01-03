@@ -4,7 +4,7 @@ layout: lecture
 description: "The First Crusade according to Fulcher of Chartres"
 readings: "Reading: Fulcher of Chartres"
 published: false
-date: 2024-02-18
+date: 2025-02-18
 nav_order: 11
 ---
 
