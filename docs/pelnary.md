@@ -118,4 +118,4 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 ## The Western Schism - Dr. Jeffrey Witt
 
 {:.rquestion}
-I forgot t post this before the lecture...but if you want to respond...what was a detail from today's lecture that struck you as particularly interesting?
+I forgot to post this before the lecture...but if you want to respond...what was a detail from today's lecture that struck you as particularly interesting?
