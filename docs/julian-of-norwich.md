@@ -3,8 +3,8 @@ title: "Julian of Norwich and the Mystical Tradition"
 layout: lecture
 description: "Julian of Norwich and the Mystical Tradition"
 readings: 
-published: true
-date: 2022-04-18
+published: false
+date: 2025-04-15
 nav_order: 25
 ---
 

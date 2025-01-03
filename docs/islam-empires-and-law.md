@@ -3,8 +3,8 @@ title: 'Islamic Empires and the Development of Islamic Law'
 layout: lecture
 description: "Islamic Empires and the Development of Islamic Law"
 readings: ""
-published: true
-date: 2024-02-08
+published: false
+date: 2024-02-06
 nav_order: 8
 ---
 

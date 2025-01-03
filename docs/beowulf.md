@@ -3,8 +3,8 @@ title: "Beowulf Discussion"
 layout: lecture
 description: "Beowulf Discussion"
 readings: 
-published: true
-date: 2024-03-14
+published: false
+date: 2024-03-13
 nav_order: 16
 
 ---

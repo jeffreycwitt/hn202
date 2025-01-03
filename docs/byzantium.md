@@ -3,8 +3,8 @@ title: 'Early Byzantium'
 layout: lecture
 description: "The Development of Early Byzantium"
 readings: ""
-published: true
-date: 2024-02-01
+published: false
+date: 2024-01-30
 nav_order: 6
 ---
 

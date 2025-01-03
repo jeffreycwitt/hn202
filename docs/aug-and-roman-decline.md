@@ -4,8 +4,8 @@ title: 'Augustine and Roman Decline'
 description: "Augustine and the Fall of Rome"
 readings: "Augustine, City of God, Book 2"
 nav_order: 2
-date: 2024-01-18
-published: true
+date: 2024-01-16
+published: false
 ---
 
 {: .no_toc .text-delta } 

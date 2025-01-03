@@ -3,8 +3,8 @@ title: "Schools and Scholasticism"
 layout: lecture
 description: "Schools and Scholasticism"
 readings: 
-published: true
-date: 2024-03-26
+published: false
+date: 2025-03-25
 nav_order: 19
 ---
 

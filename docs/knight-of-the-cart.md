@@ -3,8 +3,8 @@ title: "Knight of the Cart Discussion"
 layout: lecture
 description: "Knight of the Cart Discussion"
 readings: 
-published: true
-date: 2024-03-21
+published: false
+date: 2025-03-20
 nav_order: 18
 
 ---

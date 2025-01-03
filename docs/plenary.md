@@ -2,8 +2,8 @@
 title: 'Plenaries'
 layout: lecture
 description: "Plenary Responses"
-readings: "Rule of St. Benedict"
-published: true
+readings: ""
+published: false
 nav_order: 28
 
 ---

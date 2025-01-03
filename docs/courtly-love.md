@@ -3,8 +3,8 @@ title: "The 12th Century, Court Life, and Courtly Love"
 layout: lecture
 description: "The 12th Century, Court Life, and Courtly Love"
 readings: 
-published: true
-date: 2024-03-19
+published: false
+date: 2025-03-18
 nav_order: 17
 ---
 

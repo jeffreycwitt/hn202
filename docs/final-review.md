@@ -3,8 +3,8 @@ title: "Final Exam Review"
 layout: lecture
 description: "Final Exam Review"
 readings: 
-published: true
-date: 2024-04-25
+published: false
+date: 2025-04-24
 nav_order: 27
 ---
 

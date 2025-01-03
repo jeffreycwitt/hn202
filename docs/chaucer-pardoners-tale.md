@@ -3,8 +3,8 @@ title: "Chaucer and the Pardoner’s Tale"
 layout: lecture
 description: "Chaucer and the Pardoner’s Tale"
 readings: 
-published: true
-date: 2024-04-23
+published: false
+date: 2025-04-22
 nav_order: 26
 ---
 

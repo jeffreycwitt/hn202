@@ -3,8 +3,8 @@ title: 'Origins and Development of Islam'
 layout: lecture
 description: "Origins and Development of Islam"
 readings: ""
-published: true
-date: 2024-02-06
+published: false
+date: 2024-02-04
 nav_order: 7
 ---
 
