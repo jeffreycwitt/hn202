@@ -26,9 +26,9 @@ But to do this we need to set up a few things ([as described by hypothes.is](htt
 1. [Set up hypothesis account](https://hypothes.is/signup) so your annotations can be saved.
 2. Add the [chrome browser extension](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek) or (for use in other browsers) drag the "hypothesis bookmarklet" to your bookmark bar. 
   * Using Chrome is recommended so that we can all have a consistent experience, and so that I can more easily help you.
-1. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/mod/url/view.php?id=3900578) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
+1. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/mod/url/view.php?id=4178375) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
 
-We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and then "lean" into it, so that we allow it to help us create a vibrant connected discussion.
+We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and then "lean" into it so that we allow it to help us create a vibrant connected discussion.
 
 If you're not able to get working, please don't worry or panic. We can discuss it during our live course time, or during office hours.
 
@@ -44,7 +44,7 @@ Here's a video of how I do it.
 (If the embedded video isn't working you should be able to view it [here](https://studentsloyola-my.sharepoint.com/:v:/g/personal/jcwitt_loyola_edu/EXTO30wf3fJCjMHO3HTnfC0BquJZczmbL3q8X7Sz7Vz_vQ?e=bmQYpV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 
-So it's now its your turn. 
+So now its your turn. 
 
 Let's begin by introducing ourselves. You may already know each other, but I don't know you. So, what follows are a few questions to get us started.
 
