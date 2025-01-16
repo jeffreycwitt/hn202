@@ -3,7 +3,7 @@ title: 'Plenaries'
 layout: lecture
 description: "Plenary Responses"
 readings: ""
-published: false
+published: true
 nav_order: 28
 
 ---
@@ -12,7 +12,7 @@ Instructions from Syllabus: Using our annotation tool, I ask you to respond to (
 
 (Please complete your response the day of the plenary, either during plenary, directly after, or before midnight the same day).
 
-# Plenary 1 (Fri, Jan 26)
+# Plenary 1 (Fri, Jan 17)
 ## The Decline of Rome - Dr. McCreight
 
 <div class="discussion" markdown="1">
@@ -21,14 +21,14 @@ Instructions from Syllabus: Using our annotation tool, I ask you to respond to (
 What's one new detail about the Decline of Rome that you took away from plenary? Tell us about it and why it seems significant.
 
 {:.rquestion}
-Based on today's plenary what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures something significant and important about late antiquity
+Based on today's plenary what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures something significant and important about late antiquity.
 
 {:.rquestion}
-Were there any details in today's plenary that connect to our discussion of the rise of monasticism? (E.g. how might a detail about the decline of Rome explains some of the attractiveness of Benedictine Monasticism?)
+Were there any details in today's plenary that connect to our discussion of Augustine's *City of God*? 
 
 </div>
 
-# Plenary 2 (Fri, Feb 02)
+<!-- # Plenary 2 (Fri, Feb 02)
 ## Medieval Art - Dr. Boeye
 
 <div class="discussion" markdown="1">
@@ -118,4 +118,4 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 ## The Western Schism - Dr. Jeffrey Witt
 
 {:.rquestion}
-I forgot to post this before the lecture...but if you want to respond...what was a detail from today's lecture that struck you as particularly interesting?
+I forgot to post this before the lecture...but if you want to respond...what was a detail from today's lecture that struck you as particularly interesting? -->
