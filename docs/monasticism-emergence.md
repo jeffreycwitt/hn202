@@ -3,7 +3,7 @@ title: 'Monasticism'
 layout: lecture
 description: "The 5th century decline of rome and the rise of monasticism"
 readings: "Rule of St. Benedict"
-published: false
+published: true
 date: 2025-01-23
 nav_order: 4
 ---
@@ -99,7 +99,7 @@ Shortly, after Odavacer's success in Italy, a man named Clovis succeeded his fat
 
 But Clovis was able to do more than his father. He was the first leader who was successfully able to unite all the Frankish clans under one leader. 
 
-Clovis was born circa 466, succeeded his father in 481, and for a short time he conquered most of the remainder of the old Western Empire (mostly Gaul, aka, mostly modern day France) at the battle of Soissons in 486 against Syagrius, the last Roman military commander of Gaul, who was holding on to small region of land in Northern France.
+Clovis was born circa 466, succeeded his father in 481, and for a short time he conquered most of the remainder of the old Western Empire (mostly Gaul, aka, mostly modern day France) at the battle of Soissons in 486 against Syagrius, the last Roman military commander of Gaul, who was holding on to a small region of land in Northern France.
 
 Perhaps most importantly, Clovis converted to Christianity in 496 and is, for this reason, sometimes compared to Constantine by his contemporary biographers. 
 
@@ -116,7 +116,7 @@ In looking at the map in SHMA, p. 25, what other migratory groups do you see? Do
 
 ## Social and Political Changes: West and East
 
-At this point, I would like to pause and consider closely the kinds of social and political changes we see going on in the west that are by a large a direct result of the migrations described above. Then I would like to the compare this list to the contemporaneous developments we see going on in the former eastern half of the Empire.
+At this point, I would like to pause and consider closely the kinds of social and political changes we see going on in the west that are by and large a direct result of the migrations described above. Then I would like to the compare this list to the contemporaneous developments we see going on in the former eastern half of the Empire.
 
 <div class="discussion" markdown="1">
 
