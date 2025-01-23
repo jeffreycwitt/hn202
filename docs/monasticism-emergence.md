@@ -4,7 +4,7 @@ layout: lecture
 description: "The 5th century decline of rome and the rise of monasticism"
 readings: "Rule of St. Benedict"
 published: true
-date: 2025-01-23
+date: 2025-01-22
 nav_order: 4
 ---
 
@@ -22,7 +22,7 @@ Today, we begin by tracing a few of the important historical events leading up t
 While 410 is a date we know as important for tracing the decline of the Empire and for understanding what motivates Augustine to write *The City of God*, 476 is often pointed to as better date for identifying the end of the Roman Empire.
 
 {:.question} 
-According to Rosenwein what happened in 476 (SHMA, p. 24).
+According to Rosenwein what happened in 476 (SHMA, p. 26).
 
 {:.answer}
 It was in this year that a Barbarian chieftain, "Odavacer" (sometimes spelled "Odoacer") deposed the child emperor of West, Augustulus.
@@ -66,14 +66,14 @@ While there are many important tribes, I want to highlight a few groups of parti
 We are already familiar with one group, responsible for sacking Rome in 410. Visigoths are roughly thought to have originated west of the Black Sea, in modern day Romania.
 
 {:.question}
-Why did the Visigoths begin to migrate away from the Black Sea Area? (See SHMA p. 23)
+Why did the Visigoths begin to migrate away from the Black Sea Area? (See SHMA p. 25)
 
 {:.answer}
 The Huns invaded the region triggering a mass migration and refugee crises.
 
 Though they sacked Rome in 410, they did not remain there. By the end of the 5th century they had settled in southern Gaul and the Iberian peninsula (modern day Spain)
 
-Make sure to spend a little extra time looking at the maps in SHMA: map 1.5, p. 24 and map 1.6, p. 25.
+Make sure to spend a little extra time looking at the maps in SHMA: map 1.5, p. 24 and map 1.6, p. 26.
 
 **Ostragoths**  
 
@@ -110,7 +110,7 @@ One final note, Clovis is considered the founder of the **Merovingian Dynasty** 
 <div class="discussion" markdown="1">
 
 {:.rquestion} 
-In looking at the map in SHMA, p. 25, what other migratory groups do you see? Do their names or geographical positions correlate with anything you see on modern maps of Europe (suggestive of a long lasting influence)?
+In looking at the map in SHMA, p. 26, what other migratory groups do you see? Do their names or geographical positions correlate with anything you see on modern maps of Europe (suggestive of a long lasting influence)?
 
 </div>
 
@@ -120,18 +120,18 @@ At this point, I would like to pause and consider closely the kinds of social an
 
 <div class="discussion" markdown="1">
 
-Review what Rosenwein says in SHMA pp. 24-29 and then consider:
+Review what Rosenwein says in SHMA pp. 23-29 and then consider:
 
 {:.dquestion}
 What does former Western Rome look like after 476? Can we summarize the key changes? Use the annotation tool to identify a change that seems significant to you and be sure to tell us why.
 
 <div class="answer" markdown="1">
 
-* Urban populations decline (SHMA, p. 26, last paragraph)
-* New localism (SHMA, p. 27), 
-* Trade slows (SHMA, p. 27), 
-* "Disconnection of rural landscape" (SHMA, p. 27)
-* Wealth became based largely on land (p. 27), 
+* Urban populations decline (SHMA, p. 27)
+* New localism (SHMA, p. 28), 
+* Trade slows (SHMA, p. 28), 
+* "Disconnection of rural landscape" (SHMA, p. 28)
+* Wealth became based largely on land (p. 28), 
 * Sewage system stop working
 * Aqueducts ceased; people begin using wells
 * Transition back to a primarily agricultural economy
@@ -142,11 +142,11 @@ What does former Western Rome look like after 476? Can we summarize the key chan
 * General loss of traditional unities (empire, province, state, town)
 * Western Europe in 6th and 7th centuries was surprisingly empty
 * General sense of misery, encourages sense of pilgrim status, and religious hope.
-* Disappearance of Middle Class (SHMA, p. 26), leading to cessation of tax revenue for barbarian kings in 7th century, dramatically affecting development in western Europe
+* Disappearance of Middle Class (SHMA, p. 28), leading to cessation of tax revenue for barbarian kings in 7th century, dramatically affecting development in western Europe
 </div>
 
 {:.dquestion} 
-Compare these changes to how Rosenwein describes the Eastern part of the former Roman Empire (See SHMA, pp. 29-36).
+Compare these changes to how Rosenwein describes the Eastern part of the former Roman Empire (See SHMA, pp. 31-37).
 
 <div class="answer" markdown="1">
 
@@ -162,9 +162,9 @@ Compare these changes to how Rosenwein describes the Eastern part of the former 
 Finally, let's note how the Italian Peninsula is emerging as a kind of bridge or crossroad between these now divided political entities.
 
 * The Ostragoths are eventually battled by the East, using Lombardian (another Barbarian Tribe) soldiers. 
-* Lombardian soldiers eventually take over much of Italy for themselves. (See the map on p. 35 of SHMA and the prose description on p. 36).
+* Lombardian soldiers eventually take over much of Italy for themselves. (See the map on p. 36 of SHMA and the prose description on p. 37).
 * At the same time, the east retains control over a small sliver of the region from Ravenna to Rome. 
-* Finally, looking at the map in SHMA. p. 25, note the geographical position of Monte Cassino (just south of Rome), where St. Benedict will establish his monastic community around 529.
+* Finally, looking at the map in SHMA. p. 26, note the geographical position of Monte Cassino (just south of Rome), where St. Benedict will establish his monastic community around 529.
   
 # The Rise of Benedictine Monasticism
 
@@ -235,7 +235,7 @@ And how is humility cultivated?
 
 > "the first step toward humility is unhesitating obedience" (BSB c. 5).
 
-> "Hate your own will. OBey the abbot's commands in all circumstances..." (BSB, p. 18)
+> "Hate your own will. Obey the abbot's commands in all circumstances..." (BSB, p. 18)
 
 The secluded monastery and the rule of the abbot seems to be the place where he thinks this is best accomplished. 
 
