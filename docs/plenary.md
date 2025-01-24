@@ -28,6 +28,22 @@ Were there any details in today's plenary that connect to our discussion of Augu
 
 </div>
 
+# Plenary 2 (Fri, Jan 24)
+## Medieval Monasticism - Dr. Bauerschmidt
+
+<div class="discussion" markdown="1">
+
+{:.rquestion}
+Today's lecture will point to a wide variety of monastic practice? Despite this variety, does today's lecture point to any "defining features" or "essential characteristics" of medieval monasticism? 
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+{:.rquestion}
+What's one preconception you had about monasticism that was challenged or corrected by today's lecture?
+
+</div>
+
 <!-- # Plenary 2 (Fri, Feb 02)
 ## Medieval Art - Dr. Boeye
 
@@ -48,19 +64,7 @@ What other detail from today's lecture struck you as both strange **and** import
 </div>
 
 
-# Plenary 3 (Fri, Feb 09)
-## Medieval Monasticism - Dr. Bauerschmidt
 
-<div class="discussion" markdown="1">
-
-{:.rquestion}
-As an exercise for thinking about our upcoming paper: does today's lecture point to any "essential characteristics" of medieval monasticism? In other words, what is a detail about medieval monasticism that you learned today that could be used to justify a object's inclusion in a corresponding exhibit? (E.g. This object needs ot be included because it points us to this "essential characteristic" of medieval monasticism.)
-
-{:.rquestion}
-Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
-
-
-</div>
 
 
 # Plenary 4 (Fri, Feb 16)
