@@ -3,7 +3,7 @@ title: '5: Monasticism and its Development'
 layout: lecture
 description: "The Medieval Legacy of Monasticism."
 readings: ""
-published: false
+published: true
 date: 2025-01-28
 nav_order: 5
 ---
@@ -298,7 +298,7 @@ the New." (Cassidorus, *Institutiones*, Preface (trans. Halporn))
 <div class="discussion" markdown="1">
 
 {:.rquestion} 
-Can you see textual evidence in the above passages of Cassidorus's tacit approval of the intellectual study of ancient/pagan culture and the scientific investigation of the natural world? (You could provide a response here or go above and annotate the quoted passage itself.)
+Can you see textual evidence in the above passages of Cassiodorus's tacit approval of the intellectual study of ancient/pagan culture and the scientific investigation of the natural world? (You could provide a response here or go above and annotate the quoted passage itself.)
 
 {:.rquestion}
 Consider for yourself: why might the study of things like astronomy, physics, grammar, logic, or rhetoric be important to a monk's study of Scripture?
