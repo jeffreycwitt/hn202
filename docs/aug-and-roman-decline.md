@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: 'Augustine and Roman Decline'
+title: '2: Augustine and Roman Decline'
 description: "Augustine and the Fall of Rome"
 readings: "Augustine, City of God, Book 2"
 nav_order: 2

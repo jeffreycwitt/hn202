@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title:  "Intro"
+title:  "1: Intro"
 date:   2025-01-14
 nav_order: 1
 published: true

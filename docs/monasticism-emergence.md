@@ -1,5 +1,5 @@
 ---
-title: 'Monasticism'
+title: '4: Monasticism'
 layout: lecture
 description: "The 5th century decline of rome and the rise of monasticism"
 readings: "Rule of St. Benedict"
