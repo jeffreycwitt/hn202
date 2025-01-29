@@ -3,7 +3,7 @@ title: 'Early Byzantium'
 layout: lecture
 description: "The Development of Early Byzantium"
 readings: ""
-published: false
+published: true
 date: 2025-01-30
 nav_order: 6
 ---
@@ -108,7 +108,7 @@ Part of this exhaustion is due to the fact that the peace with the Persians was 
 
 ### In Sum 
 
-Rosenwein in SHMA, Map 1.8, p. 34 gives us a good picture of the still extensive boundaries of the Byzantine Empire in year 600.
+Rosenwein in SHMA, Map 1.8, p. 36 gives us a good picture of the still extensive boundaries of the Byzantine Empire in year 600.
 
 But one has to wonder if this period of "Justinian Expansion" was another example of **imperial overreach**, which Paul Kennedy defines as: "the tendency of empires, in an attempt to protect themselves, to make themselves ever bigger and thus making them indefensible."
 
@@ -139,7 +139,7 @@ How did the Persian emperor (Chosroes react)? (See SHMA p. 42)
 {:.answer}
 "he took advantage of the ensuing political chaos to invade Byzantine territory. By 604 he had captured Dara....Damascus by 613...Jerusalem and Alexandria by 619." (SHMA, p. 42)
 
-Compare these loses to the map in SHMA p. 35 of Byzantine Empire circa 600.
+Compare these loses to the map in SHMA p. 36 of Byzantine Empire circa 600.
 
 Phocas's reign, understandably, is considered a disaster by the Byzantines. And Phocas was overthrown in 610.
 
@@ -149,7 +149,7 @@ Who was his successor, mentioned briefly in the account of the siege?
 {:.answer}
 Heraclius
 
-And Heraclius (r. 610-641) "went on the offensive" (see SHMA, p. 42) against Persia. 
+And Heraclius (r. 610-641) "went on the offensive" (see SHMA, p. 43) against Persia. 
 
 However, his offensive campaigns against the Persians opened up a weakness at home, and the Persians (who had allied with the Avers/Slavs) decided to attack Constantinople itself. 
 
@@ -239,10 +239,11 @@ At this point, we should summarize the state of the empire after these many wars
 It is true that Heraclius recovered most of the cities lost by Phocas. But the condition of the empire had nevertheless significantly changed since the days of Justinian. Here are some bullet points.
 
 * The re-conquered cities were exhausted, depleted, weak.
-* The example of Ephesus in SHMA, 44-46 illustrates this transformation.
+
 * When we consider the sweeping victories of the emerging Islamic culture in the second half of the 7th century (starting around 650) and the early 8th century, surely the weakening strength of Byzantium and Persia (through their own fighting) helps us explain why the Arabs could conquer these regions with such success.
-* The provinces are also changing (SHMA, pp. 46-47)
-  * > "With the disappearance of the traditional town councilors--the curiales--cities and their rural hinterlands were now controlled directly by the reigning imperial governor and the local "notables"--a new elite consisting of the bishop and big land-owners favored by the emperor" (SHMA, p. 46).
+<!-- * The example of Ephesus in SHMA (5th edition ), 44-46 illustrates this transformation. -->
+* The cities and provinces were also changing (SHMA, pp. 44-47)
+  * > "With the disappearance of the traditional town councilors--the curiales--cities and their rural hinterlands were now controlled directly by the reigning imperial governor and the local "notables"--a new elite consisting of the bishop and big land-owners favored by the emperor" (SHMA, p. 44).
   * This is an important note as we turn to the reconstruction period, where we see the considerable influence and the involvement of the emperors, not just in the defense of the city, but in the religious and moral life of the empire. 
   * We see a little of this in the report from the Quinisext council 691/692 (How so? Can you point to any examples?) but also in the emergence of Iconoclasm. Iconoclasm is hard to fully explain without seeing it as a top down, emperor-driven movement.
 
@@ -255,7 +256,7 @@ For my part, the battle is a pivotal point that helps me remember several differ
 * It reminds me of the original "retrenchment" (see SHMA c. 1) of Byzantine (particularly because of the importance of the Theodosian Wall).
 * It reminds me of the ongoing battles with the Sasanians; a world shaping interaction that would last for several hundred years. 
 * It reminds me of the period of contraction:
-  * Consider the map of Byzantium in year 600 (SHMA, p. 35) and compare it to the map of Byzantium in year 700 (SHMA, p. 43).
+  * Consider the map of Byzantium in year 600 (SHMA, p. 36) and compare it to the map of Byzantium in year 700 (SHMA, p. 43).
   * But the contraction is not just about the reach of the empire but also about its vitality.
   * The cities retaken by Heraclius are exhausted and depleted.
   * The provincial middle class is significantly reduced and replaced by an emerging new imperial elite exercising local control.
@@ -312,7 +313,7 @@ But something happened to turn the tide.
 <div class="discussion" markdown="1">
 
 {:.dquestion }
-What does our textbook suggest are some reason for the rise of iconoclasm in the late 7th century and early 8th century (See SHMA p. 47)? Can you think of any other reasons for the disagreement?
+What does our textbook suggest are some reason for the rise of iconoclasm in the late 7th century and early 8th century (See SHMA p. 47-49)? Can you think of any other reasons for the disagreement?
 
 <div class="answer" markdown="1">
 
