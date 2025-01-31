@@ -44,7 +44,7 @@ What's one preconception you had about monasticism that was challenged or correc
 
 </div>
 
-# Plenary 2 (Fri, Jan 31)
+# Plenary 3 (Fri, Jan 31)
 ## Glossing the Bible with Medieval Art  - Dr. Boeye
 
 <div class="discussion" markdown="1">
