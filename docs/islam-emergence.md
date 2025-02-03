@@ -3,7 +3,7 @@ title: 'Origins and Development of Islam'
 layout: lecture
 description: "Origins and Development of Islam"
 readings: ""
-published: false
+published: true
 date: 2025-02-04
 nav_order: 7
 ---
@@ -159,6 +159,7 @@ How are Muhammad's revelations received in Mecca? To what extent does he introdu
 </div>
 
 Some basic events we know:
+
 * Muhammed was born between 570 and 580 and dies in 632.
 * He started having visions around 615
 
