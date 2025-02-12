@@ -3,7 +3,7 @@ title: 'Lead up to the First Crusade'
 layout: lecture
 description: "Lead up to the First Crusade"
 readings: ""
-published: false
+published: true
 date: 2025-02-13
 nav_order: 10
 ---
@@ -273,7 +273,7 @@ Killing is a sin, fighting is a sin that requires penance.
 </div>
 
 {:.question}
-Is there anything particularly Augustinian about this attitude? 
+Is there anything particularly Augustinian about this attitude? (See *City of God*, 19, c. 7)
 
 <div class="answer" markdown="1">
 
