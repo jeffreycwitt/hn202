@@ -73,9 +73,9 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 Gender was an issue that has come up before in our discussion of medieval monasticism and early Islamic society. Do you see any connections between what we've discussed before and the theme explored by Dr. Bauerschmidt? Describe that connection.
 
 
-<!-- 
 
-# Plenary 4 (Fri, Feb 16)
+
+# Plenary 5 (Fri, Feb 14)
 ## Islam - Dr. Zaleski
 
 {:.rquestion}
@@ -83,6 +83,9 @@ As an exercise for thinking about our upcoming paper: does today's lecture point
 
 {:.rquestion}
 What's something surprising about Islam that you learned today? Why was it is surprising? Explain how it makes you think about Islam from a new perspective or in a new light?
+
+
+<!-- 
 
 # Plenary 5 (Fri, Feb 23)
 ## Medieval Gothic Art and Architecture - Dr. Moser
