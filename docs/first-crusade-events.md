@@ -3,7 +3,7 @@ title: 'The First Crusade according to Fulcher of Chartres'
 layout: lecture
 description: "The First Crusade according to Fulcher of Chartres"
 readings: "Reading: Fulcher of Chartres"
-published: false
+published: true
 date: 2025-02-18
 nav_order: 11
 ---
