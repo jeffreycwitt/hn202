@@ -3,7 +3,7 @@ title: "Midterm Exam Review Sheet"
 layout: lecture
 description: "Midterm Exam Review Sheet"
 readings: 
-published: false
+published: true
 date: 2025-02-25
 nav_order: 13
 ---
