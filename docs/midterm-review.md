@@ -39,6 +39,7 @@ Let's study together. Use our annotation tool to point to texts or notes that mi
 * The origins of Charlemagne and the Carolingian empire.
 * The key achievements of Charlemagne.
 * The decline of Carolingian Empire.
+* The changing nature of the Papacy from 750 to 1000.
 * The causes and catalysts for the First Crusade.
 * The basic timeline of First Crusade and the significance of key events.
 
