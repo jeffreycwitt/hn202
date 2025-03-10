@@ -3,7 +3,7 @@ title: "Anglo Saxon Background and Beowulf"
 layout: lecture
 description: "Anglo Saxon Background and Beowulf"
 readings: 
-published: false
+published: true
 date: 2025-03-11
 nav_order: 15
 ---
