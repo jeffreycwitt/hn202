@@ -206,7 +206,7 @@ But in our second paper, I'm going to ask you to identify a question/problem/puz
 
 ...and then to argue for a resolution of that problem.
 
-The recognition of a problem can often start from noticing things that are interesting, weird, or unexpected. Observing the feeling of -- "that doesn't seem quite right" or "I wouldn't have expected that" -- is a good places to start.
+The recognition of a problem can often start from noticing things that are interesting, weird, or unexpected. Observing the feeling of -- "that doesn't seem quite right" or "I wouldn't have expected that" -- is a good place to start.
 
 <div class="discussion" markdown="1">
 
