@@ -89,7 +89,7 @@ I wanted to review this because, in recognizing this geographical growth, I want
 
 She writes: 
 
-> While the Byzantine government was becoming more like the West — with emperors giving away land grants and dynatoi creating regional dynasties — some Wester polities were starting to look more Byzantine; more impersonal and bureaucratic. They entered a new phase of self-definition, codification, and institutionalization. (SHMA, 5th edition, p. 214)
+> While the Byzantine government was becoming more like the West — with emperors giving away land grants and dynatoi creating regional dynasties — some Western polities were starting to look more Byzantine; more impersonal and bureaucratic. They entered a new phase of self-definition, codification, and institutionalization. (SHMA, 5th edition, p. 214)
 
 <div class="discussion" markdown="1">
 
@@ -307,7 +307,7 @@ Clerical administrators (from which we get the word "clerks")
 
 Kay writes: 
 
-> "Court clerks promoted literacy and learning in lay princes, whilst themselves serving as courtiers of their masters. Under the influence of such clerks, the aristocracy became progressively more 'clericalized,' whilst the clerks, conversely, became increasingly engaged in lay interest. Yet there were also ample reasons for tension between the two groups, who belonged, in medieval social thinking, to two separate "orders", each with its characteristic training, dress, and expectations, dependently legally on separate jurisdictions..." (Sarah Kay, p. 86)
+> "Court clerks promoted literacy and learning in lay princes, whilst themselves serving as courtiers of their masters. Under the influence of such clerks, the aristocracy became progressively more 'clericalized,' whilst the clerks, conversely, became increasingly engaged in lay interest. Yet there were also ample reasons for tension between the two groups, who belonged, in medieval social thinking, to two separate "orders", each with its characteristic training, dress, and expectations, dependent legally on separate jurisdictions..." (Sarah Kay, p. 86)
 
 What it would be like to be surrounded by Clerks is something hard for a 21st century person to image. We hear the word "clergy" and we are likely to think of a celibate priest.
 
