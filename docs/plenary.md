@@ -92,6 +92,16 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 {:.rquestion}
 Is there connection you see between the story of the Bayeux Tapestry and any of the events, movements, or ideas we've discussed class. If so, tell us what and why it seems important.
 
+
+# Plenary  (Fri, Feb 21)
+## Medieval Times Pret
+
+{:.rquestion}
+If you've been to Medieval Times before, what did you learn today that connected or corrected to something you remember from Medieval Times. Explain.
+
+{:.rquestion}
+If you've never been to Medieval Times before, what came up in today's plenary that you want to keep an eye out for when we go to Medieval Times. Explain why?
+
 <!-- 
 
 # Plenary 5 (Fri, Feb 23)
