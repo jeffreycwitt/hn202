@@ -94,7 +94,7 @@ Is there connection you see between the story of the Bayeux Tapestry and any of 
 
 
 # Plenary  (Fri, Feb 21)
-## Medieval Times Pret
+## Medieval Times Prep
 
 {:.rquestion}
 If you've been to Medieval Times before, what did you learn today that connected or corrected to something you remember from Medieval Times. Explain.
