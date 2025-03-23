@@ -3,7 +3,7 @@ title: "Schools and Scholasticism"
 layout: lecture
 description: "Schools and Scholasticism"
 readings: 
-published: false
+published: true
 date: 2025-03-25
 nav_order: 19
 ---
@@ -16,9 +16,9 @@ nav_order: 19
 
 ## Intro
 
-This week (and the next) we're going to focus on the rise of the medieval universities and the intellectual tradition known as medieval scholasticism.
+This week we're going to focus on the rise of the medieval universities and the intellectual tradition known as medieval scholasticism.
 
-Next week we will focus on the text of Thomas of Aquinas and we will have a plenary entitled "The Rise of the Universities"
+Thursday we will focus on the text of Thomas of Aquinas and we will have a plenary entitled "The Rise of the Universities"
 
 Today I want to use our assigned readings to really look at some of the preceding intellectual traditions and consider how the university tradition both emerged from that tradition and departed from it.
 
