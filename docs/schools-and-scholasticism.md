@@ -227,7 +227,7 @@ The clearest example of this process of dialectic is Abelard's work known as *Si
 
 *Sic et Non* is Latin for *Yes and No*. This title, while seemingly cryptic, perfectly captures Abelard's intentions. 
 
-Instead of preceding by story or chronology, Abelard create a work **organized around topics**, more precisely questions, and then loosely groups those questions together around a broader topic.
+Instead of preceding by story or chronology, Abelard created a work **organized around topics**, more precisely questions, and then loosely groups those questions together around a broader topic.
 
 The text itself contains 158 questions ranging from questions about the Faith and Reason, the Trinity, whether God knows everything, whether all the apostles are equal, how baptism should be performed, the nature of sin, etc. 
 
@@ -245,7 +245,7 @@ Abelard's purposeful juxtaposition of bible verses and church authorities is NOT
 
 Another way to think of this might be to imagine a room with a window placed in a wall to high from which to see. 
 
-On the floor is a deconstructed ladder strewn in pieces. The pieces of the ladder represent the pieces of revelation and church authority that reason alone could never fathom. Contra the Pseudo-Dialecticians, who refuse to engage with the pieces on the floor, no amount of intellectual effort will allow them to reach the window. But contra Bernard, with the engagement of reason, the pieces on the floor will never be able to serve as a ladder. Abelard's dialectic is precisely this process of re-assembly; figuring out how to put the different pieces of the ladder together; and eventually with enough refinement one can climb the ladder of faith and see clearly.
+On the floor is a deconstructed ladder strewn in pieces. The pieces of the ladder represent the pieces of revelation and church authority that reason alone could never fathom. Contra the Pseudo-Dialecticians, who refuse to engage with the pieces on the floor, no amount of intellectual effort will allow them to reach the window. But contra Bernard, without the engagement of reason, the pieces on the floor will never be able to serve as a ladder. Abelard's dialectic is precisely this process of re-assembly; figuring out how to put the different pieces of the ladder together; and eventually with enough refinement one can climb the ladder of faith and see clearly.
 
 "Sic et Non" then is Abelard's presentation of these pieces of the ladder and in the Prologue to this work, he invites his students to use the tools of dialectic to put the pieces back together. 
 
