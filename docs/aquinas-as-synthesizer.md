@@ -3,7 +3,7 @@ title: "Aquinas as Synthesizer"
 layout: lecture
 description: "Aquinas as Synthesizer"
 readings: 
-published: false
+published: true
 date: 2025-03-27
 nav_order: 20
 ---
