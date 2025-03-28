@@ -93,7 +93,7 @@ Based on today's plenary, what would be a good multiple choice quiz or exam ques
 Is there connection you see between the story of the Bayeux Tapestry and any of the events, movements, or ideas we've discussed class. If so, tell us what and why it seems important.
 
 
-# Plenary  (Fri, Feb 21)
+# Plenary 7 (Fri, Feb 21)
 ## Medieval Times Prep
 
 {:.rquestion}
@@ -102,6 +102,14 @@ If you've been to Medieval Times before, what did you learn today that connected
 {:.rquestion}
 If you've never been to Medieval Times before, what came up in today's plenary that you want to keep an eye out for when we go to Medieval Times. Explain why?
 
+# Plenary 8 (Fri, March 28)
+## Rise of the Medieval Universities - Dr. Jeffrey C. Witt
+
+{:.rquestion}
+What's a connection between what we discussed in class during "Scholasticism Week" and the plenary talk? Why does this connection seem important or significant?
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
 <!-- 
 
 # Plenary 5 (Fri, Feb 23)
@@ -122,11 +130,7 @@ We spent some time discussing Medieval Jewish communities and their relationship
 {:.rquestion}
 Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
 
-# Plenary 7 (Fri, Apr 5)
-## Rise of the Medieval Universities - Dr. Jeffrey C. Witt
 
-{:.rquestion}
-Describe something you learned today or a connection to something we've discussed in class
 
 
 
