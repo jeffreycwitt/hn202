@@ -3,7 +3,7 @@ title: "Introduction to Dante's Purgatory"
 layout: lecture
 description: "Introduction to Dante's Purgatory"
 readings: 
-published: false
+published: true
 date: 2025-04-01
 nav_order: 21
 ---
