@@ -218,7 +218,7 @@ With this in mind, as we read Dante's "Purgatory", I would like us to especially
 
 * Where do we see natural reason at work? 
   * Where do we see natural reason failing? (Why does it fail? Does it fail because it is weak? Or does it fail because it has reached a limit)?
-  * If Virgil is the personification of natural reasons, where do we see him struggling or falling short?
+  * If Virgil is the personification of natural reason, where do we see him struggling or falling short?
 * Where do we see Aristotle's system of moral formation playing out?
 * Where do we see Christian themes being added to this moral psychology and how (as a supplement or as a correction)?
 * Finally, how do we see grace illustrated and depicted in this story? In what capacity is grace/revelation functioning? As an assistance to the weakness of our natural power or as a supernatural addition or infusion.
