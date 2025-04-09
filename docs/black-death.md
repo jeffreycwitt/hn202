@@ -3,7 +3,7 @@ title: "The Black Death and its 14th Century Context"
 layout: lecture
 description: "The Black Death and its 14th Century Context"
 readings: 
-published: false
+published: true
 date: 2025-04-10
 nav_order: 24
 ---
