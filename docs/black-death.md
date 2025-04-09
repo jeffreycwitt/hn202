@@ -14,25 +14,6 @@ nav_order: 24
 1. TOC 
 {:toc}
 
-# Spring is here
-
-I hope you all had a lovely weekend and did something wonderful outside. Here's a few pictures from my bike ride!
-
-
-<div style="display: flex; height: 400px; justify-content: space-between;">
-
-<img src="{{site.assets_url}}biking-2024-04-14/img1.jpg"/>
-
-<img src="{{site.assets_url}}biking-2024-04-14/img2.jpg"/>
-
-<video src="{{site.assets_url}}biking-2024-04-14/vid1.mp4" autoplay muted loop>
-<source src="movie.mp4" type="video/mp4">
-</video>
-
-<video src="{{site.assets_url}}biking-2024-04-14/vid2.mp4" autoplay muted loop>
-<source src="movie.mp4" type="video/mp4">
-</video>
-</div>
 
 # The Black Death: Basic Details
 
