@@ -68,7 +68,7 @@ First, we need to remember what is happening in the Middle East. We've already s
 
 By 1250 both of these powers begin to fade.
 
-In their place, emerged the empire of Malmuks in the West and Mongols in the East. (See the Map on SHMA, p. 25).
+In their place, emerged the empire of Malmuks in the West and Mongols in the East. (See the Map on SHMA, p. 257 and p. 260).
 
 The rise of the Mongolian Empire is our concern here.
 
