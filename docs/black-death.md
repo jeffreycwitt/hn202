@@ -115,7 +115,7 @@ The peace established across this vast area is often referred to as the "Pax Mon
 
 Lots more information can be found here: [https://en.wikipedia.org/wiki/Pax_Mongolica](https://en.wikipedia.org/wiki/Pax_Mongolica)
 
-My favorite quote is about this "peace" is the following: 
+My favorite quote about this "peace" is the following: 
 
 It was commonly said that "a maiden bearing a nugget of gold on her head could wander safely throughout the realm."
 
