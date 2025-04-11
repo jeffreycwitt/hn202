@@ -110,6 +110,16 @@ What's a connection between what we discussed in class during "Scholasticism Wee
 
 {:.rquestion}
 Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+# Plenary 9 (Fri, Apr 11)
+## The Western Schism - Dr. Jeffrey Witt
+
+{:.rquestion}
+Rosewein titles her chapter on the 14th century, "Catastrophe and Creativity". In today's lecture, where do we see creativity emerging from the "Catastrophe" of the Western Schism? Explain why this "creativity" is important and significant?
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
 <!-- 
 
 # Plenary 5 (Fri, Feb 23)
