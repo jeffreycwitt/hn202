@@ -3,9 +3,9 @@ title: "Julian of Norwich and the Mystical Tradition"
 layout: lecture
 description: "Julian of Norwich and the Mystical Tradition"
 readings: 
-published: false
-date: 2025-04-15
-nav_order: 25
+published: true
+date: 2025-04-22
+nav_order: 26
 ---
 
 ## Table of contents
@@ -103,9 +103,9 @@ Thanksgiving also belongs to prayer. Through beseeching God’s good nature beco
 
 In sum: What I see in this passage is a unique concern to create an alternative impression of God in the minds of her readers. The new image she is offering also helps us get a sense of the popular or dominant image of God that would seem to surround her: an image of God that **deters people from prayer** and frequently makes **God seem unapproachable**, an image of God who is **angry** and **wrathful**.
 
-As we go forward, it will help us to step back a bit and consider why God (perhaps especially in thr 14th century) might have been seen as **angry** or **wrathful**. Then we can look at a few further passages from Julian's 14th revelation and consider how she opposes this traditional view.
+<!-- As we go forward, it will help us to step back a bit and consider why God (perhaps especially in thr 14th century) might have been seen as **angry** or **wrathful**. Then we can look at a few further passages from Julian's 14th revelation and consider how she opposes this traditional view. -->
 
-# Medieval Theodicies
+<!-- # Medieval Theodicies
 
 ## Manicheans and the Cathars
 
@@ -143,9 +143,9 @@ Instead of saying God was omnipotent, they posited a second divine being, the ev
 </div>
 </div>
 
-It is important for us to recognize that this position has a staying power in the Middle Ages and a version of it was revived in a 11-14th century movement in Southern Europe by a group known as the [Cathars](https://en.wikipedia.org/wiki/Catharism). The Cathars were eventually persecuted by the Church as a heretical sect, but the point is that the Manichean solution to the problem of evil was an attractive worldview.
+It is important for us to recognize that this position has a staying power in the Middle Ages and a version of it was revived in a 11-14th century movement in Southern Europe by a group known as the [Cathars](https://en.wikipedia.org/wiki/Catharism). The Cathars were eventually persecuted by the Church as a heretical sect, but the point is that the Manichean solution to the problem of evil was an attractive worldview. -->
 
-## Augustine’s Response and Julian’s Basic Agreement
+<!-- ## Augustine’s Response and Julian’s Basic Agreement
 
 Long before Julian, Augustine rejected the view of the Manicheans, and in doing so, he established the dominant Christian paradigm for responding to the problem of evil.
 
@@ -156,11 +156,11 @@ From your reading of the *Confessions*, do you call Augustine's response?
 
 Here are few helping quotations.
 
-> "Therefore, whatsoever is, is good. Evil, then, the origin of which I had been seeking, has no substance at all; for if it were a substance, it would be good." (Augustine, *Confessions*) <!-- See Baker, p. 65 -->
+> "Therefore, whatsoever is, is good. Evil, then, the origin of which I had been seeking, has no substance at all; for if it were a substance, it would be good." (Augustine, *Confessions*) See Baker, p. 65
 
 Here's a similar statement from another important Patristic author who holds the same view:
 
-> So, then, evil has no being nor does it inhere in the things that have being. There is no place for evil as such and its origin is due to a defect rather than to capacity." (Ps-Dionysius)  <!-- (See Baker, p. 65) -->
+> So, then, evil has no being nor does it inhere in the things that have being. There is no place for evil as such and its origin is due to a defect rather than to capacity." (Ps-Dionysius)  (See Baker, p. 65)
 
 {:.rquestion}
 How do these quotations suggest Augustine would respond to the problem of evil? Which of the two premises does he hold on to? Which one does he let go?
@@ -173,9 +173,15 @@ Thus "evil" is an "absence of the good", a "privation of the good."
 
 In this respect, Julian is basically in agreement. Showing a remarkable familiarity with the Christian intellectual tradition, despite be barred from most of its intellectual institutions, she writes in Revelation 13:
 
-> "But I did not see sin, for I believe that it has no kind of substance..." (Revelation 13, c. 27, p. 225). <!-- ll. 404-406 -->
+> "But I did not see sin, for I believe that it has no kind of substance..." (Revelation 13, c. 27, p. 225). ll. 404-406 -->
 
-# Accounting for the "privation"
+# Accounting for evil as the "privation" of the good.
+
+Last class we looked at the theory of evil as "privation".
+
+Julian is basically in agreement with this view. Showing a remarkable familiarity with the Christian intellectual tradition, despite be barred from most of its intellectual institutions, she writes in Revelation 13:
+
+> "But I did not see sin, for I believe that it has no kind of substance..." (Revelation 13, c. 27, p. 225). <!--ll. 404-406 -->
 
 But while Julian follows Augustine and the wider medieval church in protecting God from being the "creator" of evil, no one can deny that the privation of the good still has painful effects. And the question remains: why would God allow there to be a privation of the good when he knows that it can cause so much pain. 
 
@@ -187,9 +193,9 @@ From the Human Perspective it may seem like a flaw, but from the divine perspect
 
 Again, Julian seems to follow Augustine and the larger tradition here as well.
 
-> "...For a man regards some deeds as well done and some as evil" (Revelation 3, chapter 11, p. 198) <!-- (see Baker, p. 66)) -->
+> "...For a man regards some deeds as well done and some as evil" (Revelation 3, chapter 11, p. 198) (see Baker, p. 66))
 
-But where she seems to be uncomfortable is in the explanation of why this pain and suffering is considered "right" or "fitting".
+But where she seems to be uncomfortable is in the explanation of why this pain and suffering is considered "right" or "fitting" from the divine perspective.
 
 <div class="discussion" markdown="1">
 
@@ -209,11 +215,11 @@ On the one hand, there is the portrait of God in which there is no anger and no 
 
 On the other hand, there is the portrait seen in the "common teaching" where God is an angry punisher of sin. 
 
-# Augustine and the Juridical Response
+# Augustine and the Juridical Response (Review)
 
-The common teaching offers a fairly straight forward explanation for pain and suffering; this is a theodicy sometimes called the "Juridical Paradigm". In this paradigm, pain and suffering are allowed by God because humans have sinned an angered God. God therefore is justified in dolling out a wrathful punishment to correct the wrong. 
+The *common teaching* (following Augustine as we discussed last class) offers a fairly straight forward explanation for pain and suffering; this is a theodicy which we called the "Juridical Paradigm". In this paradigm, pain and suffering are allowed by God because humans have sinned an angered God. God therefore is justified in dolling out a wrathful punishment to correct the wrong. 
 
-Augustine here is a good representative. In his *Unfinished Commentary on Genesis*, he says: 
+Augustine, in his *Unfinished Commentary on Genesis*, writes: 
 
 > "whatever is called evil is either sin or **punishment of sin**"
 <!-- (See Baker, p. 67) -->
@@ -224,7 +230,7 @@ Every sin is an affront to the balance of the universe and justice.
 
 Punishment (most often experienced as pain and sorrow) must therefore be meted out by God in order to restore that balance.
 
-And even though this might appear painful and evil, from the divine perspective, this is considered good because it amounts to restoring the balance of justice. 
+And even though this might appear painful and evil, from the divine perspective this is considered good because it amounts to restoring the balance of justice. 
 
 In other words, punishment is a necessary (and good) part of an ordered world. Without it, the world would be un-ordered and less good. 
 
@@ -254,13 +260,13 @@ I think we already saw a bit of this concern in  14.41 (p. 248).
 
 From the Juridical Paradigm, every pain, every instance of suffering, must therefore be interpreted as an indication of sin or wrong doing. In a world where suffering is pervasive (think of the 14th century plague), we can imagine that this view would have a dramatic psychological effect.
 
-Another detail that may br important here is to note the considerable impact that the decision about penitence made at the fourth Lateran Council (1215) had on the minds of everyday pilgrims. 
+Another detail that may be important here is the considerable impact that the new decision about penitence — made at the fourth Lateran Council (1215) — had on the minds of everyday pilgrims. 
 
 The 4th Lateran council required confession at least once a year, creating an entire economic industry around the idea of introspection, confession, and penance. One effect of this was to shape people’s self-perception of themselves as bad, and even unlovable sinners, in a powerful way.
 
-And thus, this solution of explaining away sorrow and pain as punishment and retribution is problematic.
+And thus, for Julian, this solution of explaining away sorrow and pain as punishment and retribution is problematic.
 
-She must therefore find a new way to explain why God allows sorrow and pain in the world. 
+She must find a new way to explain why God allows sorrow and pain in the world. 
 
 <div class="discussion" markdown="1">
 
@@ -275,11 +281,11 @@ Consider the following passage in particular from chapter 48 (p. 263):
 How does this quotation connect to where we started, namely the idea that there is an experiential way of knowing God that is beyond rational argumentation?
 
 {:.rquestion}
-Why might the experience of "woe" be necessary for this kind of knowledge? Can you think of a examples where "woe" (suffering or pain) might be necessary to gain a certain kind of knowledge, a knowledge that could not be acquired by any other means?
+Why might the experience of "woe" be necessary for this kind of knowledge? Can you think of examples where "woe" (suffering or pain) might be necessary to gain a certain kind of knowledge, a knowledge that could not be acquired by any other means?
 
 </div>
 
-In contrast to the "Juridical Paradigm", one scholar calls Julian's view the "Teleological Paradigm"
+In contrast to the "Juridical Paradigm", one scholar calls Julian's view the "Teleological Paradigm".
 
 It is "Teleological" because it looks **forward** toward the result of pain and suffering, and Julian sees a result emerging from sin and suffering that is better than if the sin and suffering had never occurred. 
 
@@ -323,7 +329,7 @@ Finally, that Julian is aware that her "teleological paradigm" opposes the class
 
 Despite her presenting this as a revelation, her story of the Lord and Servant is similar to the story given by Anselm (11th century), who is attempting to illustrate and explain the classical "juridical paradigm". 
 
-Let's look at Anselm's account first and then compare the two accounts.
+Let's recall Anselm's account, and then compare the two accounts.
 
 Anselm's story is short and reads as follows: 
 
