@@ -3,7 +3,7 @@ title: "Final Exam Review"
 layout: lecture
 description: "Final Exam Review"
 readings: 
-published: false
+published: true
 date: 2025-04-24
 nav_order: 27
 ---
@@ -51,10 +51,10 @@ As you review authors and figures we have discussed, try to recall the main poin
 * Gratian
 * Thomas Aquinas
 * Dante
-* Edward III
+* Edward III and Phillip VI
 * Julian of Norwich
-* Geoffrey Chaucer
-* Henry V
+<!-- * Geoffrey Chaucer
+* Henry V -->
 * Joan of Arc
  
 <div class="discussion" markdown="1">
@@ -88,22 +88,24 @@ As you review these events and places, try to make sure you have a rough idea of
 * Norman Conquest
 * Rise of Courtly Life (and Love)
 * 12th century Renaissance; rise of cathedral schools
+* The Flail!
 * Little Optimum (Medieval Warming Period)
 * The Rise of the University
 * Mongolian Empire and its impact (Pax Mongolica)
 * Re-Discovery of Aristotle
 * Rise of the Ottoman Empire
+* 14th Century as "Catastrophe" leading to "Creativity".
 * The Great Famine
 * Black Plague (and causes)
 * 100 Years' War
-* 14th Century as "Catastrophe" leading to "Creativity".
 * Avignon papacy and Western Schism
 * Scholasticism vs. Mysticism
-* The Fall of Constantinople 
-* Rise of Humanism (Italian Renaissance)
+* Problem of Evil and Medieval Responses
+* The Fall of Constantinople to the Ottomans (1453)
+<!--* Rise of Humanism (Italian Renaissance)
 * Invention of the Printing Press
 * John Wycliff (Lollards) and Jan Huss (Hussites)
-* Beginnings of colonialism.
+* Beginnings of colonialism. -->
 
 
 <div class="discussion" markdown="1">
@@ -121,11 +123,11 @@ What else should be added to this list? Tell us why?
   * In what way could the medieval universities be seen as caused by repeated calls for clerical reform stretching back to Charlemagne?
   * In what way does Dante call for reform?
   * In what way is Julian suggesting reform?
-  * How does Chaucer continue this call for reform?
-    * What is estate satire? How do the Pardoner’s Tale exemplify this?
-* What kind of church abuses/problems are rising in the 14th and 15th century?
+  <!-- * How does Chaucer continue this call for reform?
+    * What is estate satire? How do the Pardoner’s Tale exemplify this? -->
+<!-- * What kind of church abuses/problems are rising in the 14th and 15th century?
   * What kind of reforms do John Wycliff and Jan Huss call for? 
-  * How does contribute to the growth of increasingly independent "national churches"?
+  * How does contribute to the growth of increasingly independent "national churches"? -->
 * Tensions between Church and State
   * Why is the year 800 an important year for the relationship between Church and State?
   * How is this tension illustrated in the Investiture Controversy?
@@ -148,6 +150,8 @@ What else should be added to this list? Tell us why?
   * Why does the rediscovery of Aristotle pose a particular challenge for medieval Christians in the 13th century?
   * How does Aquinas attempt to respond to this challenge?
   * How does Dante invoke Aquinas’s response (synthesis) in his account of Dante’s ascent through purgatory?
+* Scholasticism vs. Mysticism
+  * What are some of the distinguishing hallmarks of the mystical tradition? How do the mystical and scholastic traditions take different views on the highest kind of knowledge?
 * The Problem of Evil
   * What is the problem of evil?
   * What are the common medieval responses to this problem?
