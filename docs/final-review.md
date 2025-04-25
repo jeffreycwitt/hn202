@@ -53,8 +53,6 @@ As you review authors and figures we have discussed, try to recall the main poin
 * Dante
 * Edward III and Phillip VI
 * Julian of Norwich
-<!-- * Geoffrey Chaucer
-* Henry V -->
 * Joan of Arc
  
 <div class="discussion" markdown="1">
@@ -102,11 +100,6 @@ As you review these events and places, try to make sure you have a rough idea of
 * Scholasticism vs. Mysticism
 * Problem of Evil and Medieval Responses
 * The Fall of Constantinople to the Ottomans (1453)
-<!--* Rise of Humanism (Italian Renaissance)
-* Invention of the Printing Press
-* John Wycliff (Lollards) and Jan Huss (Hussites)
-* Beginnings of colonialism. -->
-
 
 <div class="discussion" markdown="1">
 {:.rquestion}
@@ -123,11 +116,6 @@ What else should be added to this list? Tell us why?
   * In what way could the medieval universities be seen as caused by repeated calls for clerical reform stretching back to Charlemagne?
   * In what way does Dante call for reform?
   * In what way is Julian suggesting reform?
-  <!-- * How does Chaucer continue this call for reform?
-    * What is estate satire? How do the Pardoner’s Tale exemplify this? -->
-<!-- * What kind of church abuses/problems are rising in the 14th and 15th century?
-  * What kind of reforms do John Wycliff and Jan Huss call for? 
-  * How does contribute to the growth of increasingly independent "national churches"? -->
 * Tensions between Church and State
   * Why is the year 800 an important year for the relationship between Church and State?
   * How is this tension illustrated in the Investiture Controversy?
