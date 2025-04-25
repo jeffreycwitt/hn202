@@ -120,6 +120,14 @@ Rosewein titles her chapter on the 14th century, "Catastrophe and Creativity". I
 {:.rquestion}
 Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
 
+# Plenary 10 (Fri, Apr 25)
+## King Arthur - Dr. Kathy Forni
+
+{:.rquestion}
+Identify one connection between today's lecture and our class discussion of "Knight of the Cart". Why is this connection significant? What does it reveal, clarify, or challenge?
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
 <!-- 
 
 # Plenary 5 (Fri, Feb 23)
