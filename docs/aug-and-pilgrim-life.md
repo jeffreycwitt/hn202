@@ -1,10 +1,10 @@
 ---
-title: '3: Augustine and Pilgrim Life'
+title: 'Augustine and Pilgrim Life'
 layout: lecture
 description: "Augustine the Pilgrim in the Earthly City"
 readings: "Augustine, City of God, Book 19"
 published: true
-date: 2025-01-21
+date: 2026-01-21
 nav_order: 3
 ---
 

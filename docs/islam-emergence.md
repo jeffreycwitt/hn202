@@ -4,7 +4,7 @@ layout: lecture
 description: "Origins and Development of Islam"
 readings: ""
 published: true
-date: 2025-02-04
+date: 2026-02-04
 nav_order: 7
 ---
 

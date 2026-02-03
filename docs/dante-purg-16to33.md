@@ -3,7 +3,7 @@ title: "Dante, Purgatorio, Cantos 16-33"
 layout: lecture
 description: "Dante, Purgatorio, Cantos 16-33"
 readings: 
-published: true
+published: false
 date: 2025-04-08
 nav_order: 23
 ---

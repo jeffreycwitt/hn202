@@ -3,7 +3,7 @@ title: 'Plenaries'
 layout: lecture
 description: "Plenary Responses"
 readings: ""
-published: true
+published: false
 nav_order: 28
 
 ---
@@ -129,3 +129,44 @@ Identify one connection between today's lecture and our class discussion of "Kni
 {:.rquestion}
 Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
 
+<!-- 
+
+# Plenary 5 (Fri, Feb 23)
+## Medieval Gothic Art and Architecture - Dr. Moser
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+{:.rquestion}
+Now that we've had several plenaries, let's focus on making connections. Can you identify a point of intersection or connection between the material discussed today and any of our previous plenaries? Explain the connection you see and why it feels significant?
+
+# Plenary 6 (Fri, March 22)
+## Medieval Judaism - Dr. Yitzhak Melamedser
+
+{:.rquestion}
+We spent some time discussing Medieval Jewish communities and their relationship to Christian Communities before Spring Break. Do you see any connections between our discussion and material discussed by Dr. Melamedser? Explain any connection you see. 
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+
+
+
+
+
+# Plenary 9 (Fri, Apr 19)
+## Love Poetry in the Middle Ages - Dr. Matt Moser
+
+{:.rquestion}
+I expect Dr. Moser's lecture will have a something to say about the character of Beatrice. What connections do you see between the Dr. Moser's lecture and our class discussions (and puzzling over) the character of Beatrice? Did the lecture offer any new lenses through which to interpret or understand the character of Beatrice? 
+
+{:.rquestion}
+Based on today's plenary, what would be a good multiple choice quiz or exam question? Tell us why this would be a good question that captures a significant point raised in today's lecture.
+
+# Plenary 10 (Fri, Apr 26)
+## The Western Schism - Dr. Jeffrey Witt
+
+{:.rquestion}
+I forgot to post this before the lecture...but if you want to respond...what was a detail from today's lecture that struck you as particularly interesting? 
+
+-->

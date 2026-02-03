@@ -1,10 +1,10 @@
 ---
 layout: lecture
-title: '2: Augustine and Roman Decline'
+title: 'Augustine and Roman Decline'
 description: "Augustine and the Fall of Rome"
 readings: "Augustine, City of God, Book 2"
 nav_order: 2
-date: 2025-01-16
+date: 2026-01-16
 published: true
 ---
 
@@ -51,7 +51,7 @@ Rosenwein notes:
 
 > p. 4: "To contend with attacks, the Romans responded with wide-ranging reforms that brought **new prominence to the provinces**".
 
-Most importantly, attacking groups were actually absorbed into the empire and turned into fighting units. Converted groups were payed in the form of land which strengthened their position within the borders of the empire (but also fostered resentment among older generation Romans)
+Most importantly, attacking groups were actually absorbed into the empire and turned into fighting units. Converted groups were paid in the form of land which strengthened their position within the borders of the empire (but also fostered resentment among older generation Romans)
 
 Further, to support military campaigns, tax money from across the empire was being re-distributed to these provincial regions. (Again, contributing to resentment against the new and wealthy provincial class)
 
@@ -118,7 +118,7 @@ On the assumption that divine favor and worldly success/happiness are linked, th
 How is this problem motivating Augustine in the *City of God*?
 
 {:.answer}
-Augustine is trying to offer a defense of the Christian's against these Roman accusations.
+Augustine is trying to offer a defense of the Christians against these Roman accusations.
 
 </div>
 

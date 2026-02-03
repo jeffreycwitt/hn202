@@ -4,7 +4,7 @@ layout: lecture
 description: "The Development of Early Byzantium"
 readings: ""
 published: true
-date: 2025-01-30
+date: 2026-01-26
 nav_order: 6
 ---
 
@@ -13,9 +13,9 @@ nav_order: 6
 1. TOC 
 {:toc}
 
-# Introductory Note
+<!-- # Introductory Note
 
-We have a lot of history to cover today. What follows therefore will include lots of historical notes and bullet point lists. Please use these lists, combined with our reading, to develop your own narrative that you can think and walk through on your own. The goal of course is not that you can read and report someone else's notes, but that you yourself possess a sense of this narrative and could walk someone else through it. So after reading, step away from the class notes for a while and try to see if you can walk yourself (perhaps in your own notebook or talking to yourself aloud) through the main events. When you find places in your own account that are fuzzy, create an annotation and we can work through this places of un-clarity together. Likewise, if there are dates, events, or ideas that you think need to be added to our class narrative, please suggest them and tell us why they should be added using a "page annotation".
+We have a lot of history to cover today. What follows therefore will include lots of historical notes and bullet point lists. Please use these lists, combined with our reading, to develop your own narrative that you can think and walk through on your own. The goal of course is not that you can read and report someone else's notes, but that you yourself possess a sense of this narrative and could walk someone else through it. So after reading, step away from the class notes for a while and try to see if you can walk yourself (perhaps in your own notebook or talking to yourself aloud) through the main events. When you find places in your own account that are fuzzy, create an annotation and we can work through this places of un-clarity together. Likewise, if there are dates, events, or ideas that you think need to be added to our class narrative, please suggest them and tell us why they should be added using a "page annotation". -->
 
 <!-- 
 When we talked about the changes to the empire after 410, we noted the migration patterns of some important ethnic groups. At the same time, we also mentioned in passing the reaction of the Eastern Empire. 
@@ -43,7 +43,9 @@ But what happens next? What happens such that by 600 we see it labeled as the Ki
 
 # The development of Early Byzantium
 
-Today, we want to the trace the historical narrative of the Early Medieval Byzantine Empire, while planting seeds for connections to the rise of Islam that we will begin next week and to the rise of the Carolingians that we will look at the following week. (This is a development to which chapter 2 of SHMA has already started to introduce us).
+Today, we want to the trace the historical narrative of the Early Medieval Byzantine Empire, while planting seeds for connections to the rise of Islam that we will begin next week and to the rise of the Carolingians that we will look at the following week. 
+
+<!-- (This is a development to which chapter 2 of SHMA has already started to introduce us). -->
 
 Historian Paul Freedman provides a break down of the developments within Byzantium that will be useful to frame our conversation. He breaks down the development as follows.
 
@@ -73,7 +75,7 @@ Can you think of any reasons why this is such a remarkable cultural achievement?
 What might Roman Law have looked like prior to these compiled law codes?
 
 {:.rquestion} 
-Why would creating this kind of compilation have been extremely hard and requires hundreds, if not thousands, of laborers? What would a legal research team have to do in order create these compilations? 
+Why would creating this kind of compilation have been extremely hard and require hundreds, if not thousands, of laborers? What would a legal research team have to do in order create these compilations? 
 
 </div>
 
@@ -104,13 +106,13 @@ But these campaigns went pretty poorly. And by the time they were done, Byzantin
 
 ### New Justinian Wars with the Sasanian Empire (540-562)
 
-Part of this exhaustion is due to the fact that the peace with the Persians was breaking down, and Justinian was suddenly embroiled in further military campaigns in the east. Thus Justinian was forced to fight in the East at the same time he was fighting in the West.
+Part of this exhaustion is due to the fact that the peace with the Persians was breaking down, and Justinian was suddenly embroiled in further military campaigns in the east. Thus, Justinian was forced to fight in the East at the same time he was fighting in the West.
 
 ### In Sum 
 
-Rosenwein in SHMA, Map 1.8, p. 36 gives us a good picture of the still extensive boundaries of the Byzantine Empire in year 600.
+<!-- Rosenwein in SHMA, Map 1.8, p. 36 gives us a good picture of the still extensive boundaries of the Byzantine Empire in year 600. -->
 
-But one has to wonder if this period of "Justinian Expansion" was another example of **imperial overreach**, which Paul Kennedy defines as: "the tendency of empires, in an attempt to protect themselves, to make themselves ever bigger and thus making them indefensible."
+One has to wonder if this period of "Justinian Expansion" was another example of **imperial overreach**, which Paul Kennedy defines as: "the tendency of empires, in an attempt to protect themselves, to make themselves ever bigger and thus making them indefensible."
 
 Justinian certainly had success, but when he died, this success quickly came undone.
 
@@ -134,12 +136,14 @@ Leading up to the event:
 * Phocas becomes ruler in 602.
 
 {:.dquestion}
-How did the Persian emperor (Chosroes react)? (See SHMA p. 42)
+How did the Persian emperor (Chosroes react)? 
+
+<!-- (See SHMA p. 42) -->
 
 {:.answer}
-"he took advantage of the ensuing political chaos to invade Byzantine territory. By 604 he had captured Dara....Damascus by 613...Jerusalem and Alexandria by 619." (SHMA, p. 42)
+"he took advantage of the ensuing political chaos to invade Byzantine territory. By 604 he had captured Dara....Damascus by 613...Jerusalem and Alexandria by 619." (Rosenwein, p. 42)
 
-Compare these loses to the map in SHMA p. 36 of Byzantine Empire circa 600.
+<!-- Compare these loses to the map in SHMA p. 36 of Byzantine Empire circa 600. -->
 
 Phocas's reign, understandably, is considered a disaster by the Byzantines. And Phocas was overthrown in 610.
 
@@ -149,7 +153,9 @@ Who was his successor, mentioned briefly in the account of the siege?
 {:.answer}
 Heraclius
 
-And Heraclius (r. 610-641) "went on the offensive" (see SHMA, p. 43) against Persia. 
+And Heraclius (r. 610-641) "went on the offensive" against Persia. 
+
+<!-- (see SHMA, p. 43) -->
 
 However, his offensive campaigns against the Persians opened up a weakness at home, and the Persians (who had allied with the Avers/Slavs) decided to attack Constantinople itself. 
 
@@ -242,10 +248,12 @@ It is true that Heraclius recovered most of the cities lost by Phocas. But the c
 
 * When we consider the sweeping victories of the emerging Islamic culture in the second half of the 7th century (starting around 650) and the early 8th century, surely the weakening strength of Byzantium and Persia (through their own fighting) helps us explain why the Arabs could conquer these regions with such success.
 <!-- * The example of Ephesus in SHMA (5th edition ), 44-46 illustrates this transformation. -->
-* The cities and provinces were also changing (SHMA, pp. 44-47)
-  * > "With the disappearance of the traditional town councilors--the curiales--cities and their rural hinterlands were now controlled directly by the reigning imperial governor and the local "notables"--a new elite consisting of the bishop and big land-owners favored by the emperor" (SHMA, p. 44).
+* The cities and provinces were also changing 
+  * > "With the disappearance of the traditional town councilors--the curiales--cities and their rural hinterlands were now controlled directly by the reigning imperial governor and the local "notables"--a new elite consisting of the bishop and big land-owners favored by the emperor" (Rosenwein, p. 44).
   * This is an important note as we turn to the reconstruction period, where we see the considerable influence and the involvement of the emperors, not just in the defense of the city, but in the religious and moral life of the empire. 
   * We see a little of this in the report from the Quinisext council 691/692 (How so? Can you point to any examples?) but also in the emergence of Iconoclasm. Iconoclasm is hard to fully explain without seeing it as a top down, emperor-driven movement.
+
+  <!-- (SHMA, pp. 44-47) -->
 
 ### In sum
 
@@ -253,20 +261,21 @@ To summarize, we might ask: How does the siege of 626 event help us capture and 
 
 For my part, the battle is a pivotal point that helps me remember several different developments.
 
-* It reminds me of the original "retrenchment" (see SHMA c. 1) of Byzantine (particularly because of the importance of the Theodosian Wall).
+* It reminds me of the original "retrenchment" of Byzantine (particularly because of the importance of the Theodosian Wall).
 * It reminds me of the ongoing battles with the Sasanians; a world shaping interaction that would last for several hundred years. 
 * It reminds me of the period of contraction:
-  * Consider the map of Byzantium in year 600 (SHMA, p. 36) and compare it to the map of Byzantium in year 700 (SHMA, p. 43).
   * But the contraction is not just about the reach of the empire but also about its vitality.
   * The cities retaken by Heraclius are exhausted and depleted.
   * The provincial middle class is significantly reduced and replaced by an emerging new imperial elite exercising local control.
 * It also reminds me of what is coming. The siege of 626, will be followed by new sieges of Constantinople by Arab forces in 674 and 717.
 * And as we will see Arab forces will re-capture much of the cities previously traded back and forth between Byzantium and Persia. 
-  * And they will quickly take most of the Byzantium holdings around the Mediterranean, giving us the map in SHMA. p. 43 circa 700.
+  <!-- * And they will quickly take most of the Byzantium holdings around the Mediterranean, giving us the map in SHMA. p. 43 circa 700. -->
 * It reminds us of changes in the Balkans, particularly the resettlement of the Bulgars, Avars, and Slavs.
-  * Rosenwein writes: "the place where once the two halves of the Roman Empire had met was now a wedge--created by Bulgars Avars, and Slavs" (SHMA, p. 43; see map 2.2 in SHMA, p. 43). 
+  * Rosenwein writes: "the place where once the two halves of the Roman Empire had met was now a wedge--created by Bulgars Avars, and Slavs" (Rosenwein, p. 43) 
 * Finally, the religiously infused myths/legends surrounding the defense of the city point toward the coming iconoclasm controversy. 
   
+<!-- * Consider the map of Byzantium in year 600 (SHMA, p. 36) and compare it to the map of Byzantium in year 700 (SHMA, p. 43). -->
+
 ## Reconstruction (717-843)
 
 Starting in the 8th century, things seem to be settling down a bit. We have some strong emperors and the Arab expansion slows. 
@@ -313,7 +322,8 @@ But something happened to turn the tide.
 <div class="discussion" markdown="1">
 
 {:.dquestion }
-What does our textbook suggest are some reason for the rise of iconoclasm in the late 7th century and early 8th century (See SHMA p. 47-49)? Can you think of any other reasons for the disagreement?
+Can you think of any reasons why "iconoclasm" might emerge in the late 7th century and early 8th century?
+<!-- What does our textbook suggest are some reason for the rise of iconoclasm in the late 7th century and early 8th century (See SHMA p. 47-49)? Can you think of any other reasons for the disagreement? -->
 
 <div class="answer" markdown="1">
 
@@ -321,14 +331,16 @@ What does our textbook suggest are some reason for the rise of iconoclasm in the
 * Leo III (r. 717-741) pushed the idea that the use of images were the cause of Byzantium's misfortune.  After a Volcano in 726, he denounced religious images publicly.
 * It is also possible that he saw the success of Arab forces, and being aware of their disuse of images, concluded that Arab iconoclasm was a cosmic reason for their success.
 * Our textbook also suggests that ruling elites may have seen icons and the spiritual power they possessed as a threat to their power and control.
-  * Rosenwein writes: "religious elite are worried about losing control over the sacred" (SHMA, p. 48)
+  * Rosenwein writes: "religious elite are worried about losing control over the sacred" (Rosenwein, p. 48)
 
 </div>
 </div>
 
 When Leo dies in 741 his Son, Emperor Constantine V (r. 741-775) follows the iconoclastic trend initiated by his father, but he takes it to another level. He used his imperial power to enforce and even persecute the iconophiles.  
 
-For example: Emperor Constantine along with 300 bishops was present at the synod of Constantinople in 754 where the use of images was "banned outright" (SHMA, p. 48). He further tries to purge the army and bureaucracy of iconophiles. 
+For example: Emperor Constantine along with 300 bishops was present at the synod of Constantinople in 754 where the use of images was "banned outright". He further tries to purge the army and bureaucracy of iconophiles. 
+
+<!-- (SHMA, p. 48) -->
 
 With Constantine's death, the ban abated, but there was a second iconoclastic period from 815-843.
 
