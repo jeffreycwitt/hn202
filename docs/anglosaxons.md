@@ -3,9 +3,9 @@ title: "Anglo Saxon Background and Beowulf"
 layout: lecture
 description: "Anglo Saxon Background and Beowulf"
 readings: 
-published: false
-date: 2025-03-11
-nav_order: 15
+published: true
+date: 2026-02-10
+nav_order: 10
 ---
 
 ## Table of contents
@@ -13,7 +13,7 @@ nav_order: 15
 1. TOC 
 {:toc}
 
-# Reminder 
+<!-- # Reminder 
 
 Reminder: Thursday will be our class led discussion of *Beowulf*. The group assigned to *Beowulf* will create the class notes and then lead the discussion on Thursday. 
 
@@ -21,7 +21,7 @@ For the group composing the class notes, as a rule of thumb:
    * aim to write at least 1,000 words, 
    * use sections (approximately 4) to organize your notes and the readers path through them (provide a table of contents at the top)
    * provide  narrative commentary that guide us through these sections and prepares us for your questions
-   * make sure to offer a significant discussion block per section to which the class can respond.
+   * make sure to offer a significant discussion block per section to which the class can respond. -->
 
 # Intro
 
@@ -29,7 +29,7 @@ Welcome to our week on *Beowulf*. I read this book ever year, and every year I c
 
 While thoroughly enjoying it, I also always come away perplexed. What is the point of this poem? What is its message? Perhaps this ambiguity is part of its charm. But each year new details draw me into different possibilities.
 
-While we will reserve most of our focused class-led discussion of the poem, its plot, and our ideas about its meaning for Thursday's class, today I wanted provide us with some background information and then point to a couple of problems of interest in the poem.
+<!-- While we will reserve most of our focused class-led discussion of the poem, its plot, and our ideas about its meaning for Thursday's class, today I wanted provide us with some background information and then point to a couple of problems of interest in the poem. -->
 
 To begin, we can start with a general question.
 
@@ -43,9 +43,9 @@ While the precise dating of the poem is unknown, our book introduction suggests 
 {:.rquestion}
 But again, why are these people, who live in England, writing about events that took place much earlier and in an entirely different geographic area?
 
-One suggestion is that, like many other epic poems, it could be seen as a commemoration of an ancestral legacy. That it is, it could be part of a present society’s (the Anglo-Saxon society) attempt to define their identity through defining their past.
+One suggestion is that, like many other epic poems, it could be seen as a commemoration of an ancestral legacy. That is, it could be part of a present society’s (the Anglo-Saxon society) attempt to define their identity through defining their past.
 
-This is a phenomenon we've discussed before in our class; we've discussed how we use the past to construct our own identities. It is possible, then, to think of *Beowulf* as a historical example of this same phenomenon. It could be the 7th-, 8th-, 9th-, or 10th-century present attempting to define itself by telling stories about its past. Thus an interesting question for us is what does the poem tell us about 7th-10th Anglo-Saxons.
+<!-- This is a phenomenon we've discussed before in our class; we've discussed how we use the past to construct our own identities. It is possible, then, to think of *Beowulf* as a historical example of this same phenomenon. It could be the 7th-, 8th-, 9th-, or 10th-century present attempting to define itself by telling stories about its past. Thus an interesting question for us is what does the poem tell us about 7th-10th Anglo-Saxons. -->
 
 # Anglo-Saxon History
 
@@ -82,7 +82,7 @@ As we will see in *Beowulf*, Christian language is intertwined within the narrat
 
 Accordingly, we need to make sure to spend a little time thinking about the Anglo-Saxons' relationship to Christianity. 
 
-<div class="discussion" markdown="1">
+<!-- <div class="discussion" markdown="1">
 
 Rosenwein provides a few interesting details in SHMA, p. 65-68. Stop for a moment and read SHMA, pp. 65-68, then consider the following questions.
 
@@ -108,22 +108,24 @@ What seems most critical here is Rosenwein's note that...
 
 While Christianity may have been present early on, it was "decentralized and local". It lacked the kind of centralized uniformity of Roman Christianity that one might see on the continent.
 </div>
-</div>
+</div> -->
 
 In the timeline of the "Roman Christianization" of early Anglo-Saxon England a couple of dates stand out. 
 
 565: Columba left Ireland and brought a celtic or Irish form of Christianity to Scotland. Columba founded an important and influential monastery on the Scottish island of Iona. (This part of Christianity's life in the British Isles is almost completely ignored in Bede's account.)
 
-{:.rquestion} 
-But this begs a question. How did Christianity get to Ireland in the first place?
+<!-- {:.rquestion} 
+But this begs a question. How did Christianity get to Ireland in the first place? -->
  
-597: Another critical event occurs in 597 (an event that we've actually already mentioned, albeit very briefly).
+597: Another critical event occurs in 597 
+<!-- (an event that we've actually already mentioned, albeit very briefly). -->
 
 Augustine of Canterbury is sent to the Kingdom of Kent by Gregory the Great. This initiates the practice of Benedictine Monasticism in Kent and facilitates the introduction of "Roman" style Christianity.
 
 <!-- “In June 597 Columba died, as a quirk of history at the same time Augustine landed on the Isle of Thanet and proceeded to King Æthelberht's main town of Canterbury. He had been the prior of a monastery in Rome when Pope Gregory the Great chose him in 595 to lead the Gregorian mission to Britain to Christianise the Kingdom of Kent from their native Anglo-Saxon paganism. Kent was probably chosen because Æthelberht had married a Christian princess, Bertha, daughter of Charibert I the King of Paris, who was expected to exert some influence over her husband. Æthelberht was converted to Christianity, churches were established, and wider-scale conversion to Christianity began in the kingdom. Æthelberht's law for Kent, the earliest written code in any Germanic language, instituted a complex system of fines. Kent was rich, with strong trade ties to the continent, and Æthelberht may have instituted royal control over trade. For the first time following the Anglo-Saxon invasion, coins began circulating in Kent during his reign.” (Wikipedia) -->
 
-664: Another important date is the Synod of Whitby in 664 (see SHMA, p. 66).
+664: Another important date is the Synod of Whitby in 664 
+<!-- (see SHMA, p. 66). -->
 
 At this Synod it was decided that the Roman Rite would be observed in Northumbria rather than the Ionian/Celtic Rite (i.e. the liturgy and traditions established by Irish Christianity and St. Columba).
 
@@ -136,7 +138,7 @@ In many divisions of Anglo-Saxon history, this constitutes the early period of A
 A middle Anglo-Saxon period is often identified around 660-899. 
 
 During this time... 
-* one of the first histories of Britain ever written was composed. This is the monumental work by the monk Bede (c. 670-735) (discussed above) titled, *Ecclesiastical History of the English People*. Bede's cultural achievement is a representative example of the "cultural flowering" of this period. 
+* one of the first histories of Britain ever written was composed. This is the monumental work by the monk Bede (c. 670-735) titled, *Ecclesiastical History of the English People*. Bede's cultural achievement is a representative example of the "cultural flowering" of this period. 
 * Alcuin (a student of one Bede's students) served as an important wise and learned "Anglo-Saxon" advisor in Charlemagne's Court (9th century).
 * And this was also the period in which our poem *Beowulf* was written. 
 
@@ -187,7 +189,7 @@ Why 1066? This is also a date we know. This is the year of the Battle of Hasting
 
 <!-- Renewed viking raids in the late 900s leading to full scaled conquering in 1013-1014 "Swein Forkbeard" and his son Cnut (1015-16) -->
 
-# Thinking about a Literary Problem
+<!-- # Thinking about a Literary Problem
 
 With this background in place, I want to start thinking a little bit about *Beowulf* as a source of literary puzzles that deserve resolution. 
 
@@ -308,12 +310,12 @@ assume that the Beowulf-poet had thought long and hard about the problem and
 had arrived at...an essentially “humanistic” reading of his forefathers’ paganism. He
 seemed to have believed that the best and greatest of these men knew about God,
 creation, and natural moral law, and that when they died their souls went to heaven.
-All of these beliefs can be explicitly supported from the text..." (p. 202)
+All of these beliefs can be explicitly supported from the text..." (p. 202) -->
 
 <!-- Video 
 https://www.youtube.com/watch?v=1C0sFXU0SLo&t=2145s -->
 
-For my part, I wonder if it can be both an attempt to sanction the past -- to acknowledge that the same God was watching over their ancestors -- but also a kind of farewell to an old world. 
+<!-- For my part, I wonder if it can be both an attempt to sanction the past -- to acknowledge that the same God was watching over their ancestors -- but also a kind of farewell to an old world. 
  
 As I read the final scenes of Beowulf's funeral pyre, I can’t help but imagine a 9th century Christian Anglo-Saxon reading these parting words while simultaneously waiving farewell to a cherished past that must be let go.
 
@@ -332,7 +334,7 @@ What passages jump out as you as approval and celebration?
 
 {:.rquestion}
 Are there any passages that jump out at you as negative criticism?
-</div>
+</div> -->
 
 <!-- Hrothgar’s Advice to Beowulf before returning home (p. 46)
 
@@ -357,7 +359,7 @@ The narrator’s attitude toward fate and mortality juxtaposed against the chara
 > P. 76, ll. 3062: "Famous for his deeds a warrior may be, but it remains a mystery where his life will end". -->
 
 
-# Key Takeaways
+<!-- # Key Takeaways
 
 * As part of our set up for understanding *Beowulf*, we reviewed the basic timeline of Anglo-Saxon History.
 * We then spent a little time thinking about the general form of a literary "problem" that might motivate an argued response.
@@ -366,4 +368,4 @@ The narrator’s attitude toward fate and mortality juxtaposed against the chara
 
 # What's Next
 
-* Next we're going to use the class discussion notes generated by members of our class to look closer at the story of *Beowulf* and consider what other puzzles (and answers) it contains.
+* Next we're going to use the class discussion notes generated by members of our class to look closer at the story of *Beowulf* and consider what other puzzles (and answers) it contains. -->
