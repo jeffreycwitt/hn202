@@ -3,8 +3,8 @@ title: 'Lead up to the First Crusade'
 layout: lecture
 description: "Lead up to the First Crusade"
 readings: ""
-published: false
-date: 2025-02-13
+published: true
+date: 2026-02-17
 nav_order: 10
 ---
 

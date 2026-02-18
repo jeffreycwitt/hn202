@@ -4,7 +4,7 @@ layout: lecture
 description: "The First Crusade according to Fulcher of Chartres"
 readings: "Reading: Fulcher of Chartres"
 published: false
-date: 2025-02-18
+date: 2026-02-18
 nav_order: 11
 ---
 
@@ -36,7 +36,7 @@ Some notes about the Seljuk Turks:
   * This pattern appears similar to the way Lombards helped the Byzantines and then became conquerors themselves.
 * In 1055, they captured Baghdad (and they began using the Abbasid caliphs as figure heads).
 * In 1071, they defeated the Byzantines at Manzikert (SHMA, p. 164).
-  * Incidentally, this was the date (1071) that we used to mark the end of the Golden Era of Byzantine expansion (843-1071 Expansion, see [class 6](byzantium.html#expansion-843-1071](https://jeffreycwitt.com/hn202/docs/class-6.html#expansion-843-1071)).
+  * Incidentally, this was the date (1071) that we used to mark the end of the Golden Era of Byzantine expansion (843-1071 Expansion, see [class 6](byzantium.html#expansion-843-1071](https://jeffreycwitt.com/hn202/docs/byzantium.html#expansion-843-1071)).
 * And especially important for our story, in 1075, the Turks occupied Jerusalem. 
 
 In response to these Turkish conquests, in January of 1095, at the Council of Piacenza, and in March of 1095 (See SHMA p. 186 and TFC, p. 52n1-2) Byzantine Emperor Alexius appealed to Pope Urban II for a small band of mercenary knights to fight the Turks who had by this time conquered most of Asia Minor.  
@@ -78,7 +78,8 @@ As discussed last time, we know the Crusades were initiated through Pope Urban I
 
 But note that it took a long time before the Crusade could actually get underway. Pope Urban's initial call was at the beginning of the winter in 1095. It wasn't until the summer of 1096 that the so-called "crusaders" could begin marching.
 
-For a good map of the crusading routes, see SHMA, p. 187. See also the map below. 
+<!-- For a good map of the crusading routes, see SHMA, p. 187. See also the map below.  -->
+See also the map below for a sense of crusading routes.
 
 <a title="By QWerk (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMap_of_First_Crusade_-_Roads_of_main_armies-fi.png">
       <img width="512" alt="Map of First Crusade - Roads of main armies-fi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Map_of_First_Crusade_-_Roads_of_main_armies-fi.png/512px-Map_of_First_Crusade_-_Roads_of_main_armies-fi.png"/></a>
