@@ -3,7 +3,7 @@ title: "The People's Crusade and the Erosion of Jewish Protection"
 layout: lecture
 description: "The People's Crusade and the Erosion of Jewish Protection"
 readings: 
-published: false
+published: true
 date: 2026-02-24
 nav_order: 12
 ---
