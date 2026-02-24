@@ -4,7 +4,7 @@ layout: lecture
 description: "The People's Crusade and the Erosion of Jewish Protection"
 readings: 
 published: true
-date: 2026-02-24
+date: 2026-02-23
 nav_order: 12
 ---
 
