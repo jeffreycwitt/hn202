@@ -4,7 +4,7 @@ layout: lecture
 description: "The People's Crusade and the Erosion of Jewish Protection"
 readings: 
 published: false
-date: 2025-02-20
+date: 2026-02-24
 nav_order: 12
 ---
 
@@ -29,7 +29,7 @@ Here's what what the introduction to our reader states:
 
 > "The incursions of the Turks and the growth of mature Jewish communities in western Europe became the focus of yet two other aspects of eleventh-century Christian consciousness: a sharpened awareness of the differences between Christianity and Judaism on the one hand and Christianity and Islam on the other — a new recognition of the "other" as "enemy" – and the legitimacy of the Holy war." (TFC, Peters, p. 13).
 
-In this light consider the question I pose on the [mid-term exam review sheet](midterm-review.html):
+In this light consider the question I pose on the mid-term exam review sheet:
 
 > In what ways might the blurring of the boundaries between the sacred and secular in the run up to the First Crusade lead to the development of new and more hostile conception of the "other"?
 
