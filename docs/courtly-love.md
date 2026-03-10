@@ -3,8 +3,8 @@ title: "The 12th Century, Court Life, and Courtly Love"
 layout: lecture
 description: "The 12th Century, Court Life, and Courtly Love"
 readings: 
-published: false
-date: 2025-03-18
+published: true
+date: 2026-03-09
 nav_order: 17
 ---
 
@@ -14,7 +14,7 @@ nav_order: 17
 {:toc}
 
 
-# Review: Beowulf and the Movie
+<!-- # Review: Beowulf and the Movie
 
 <div class="discussion" markdown="1">
 
@@ -30,13 +30,13 @@ On the assumption that the goal of the movie is to provide the viewer with an un
 {:.rquestion}
 If the movie’s goal was to do something other than provide the viewer with an understanding of the core message of the poem, what do you think this goal was, and how successful was the movie in achieving it?
 
-</div>
+</div> -->
 
-# Introduction
+<!-- # Introduction
 
 This week, we're going to focus our attention on the Arthurian legends that arose in the 12th century, especially in Chrétien de Troyes's "Knight of the Cart". 
 
-Our procedure will be similar to last week. Today, I'd like to spend time with some of the historical background and then point to some major themes we should be on the look out for as we read. Thursday we will dig into the details of the story itself, led by our class discussion leaders.
+Our procedure will be similar to last week. Today, I'd like to spend time with some of the historical background and then point to some major themes we should be on the look out for as we read. Thursday we will dig into the details of the story itself, led by our class discussion leaders. -->
 
 # Historical Background: The rise of the "Angevin Empire"
 
