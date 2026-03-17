@@ -3,8 +3,8 @@ title: "Aquinas as Synthesizer"
 layout: lecture
 description: "Aquinas as Synthesizer"
 readings: 
-published: false
-date: 2025-03-27
+published: true
+date: 2025-03-17
 nav_order: 20
 ---
 
@@ -13,7 +13,6 @@ nav_order: 20
 1. TOC 
 {:toc}
 
-(Note: I don't have many questions or discussions blocks in today's notes. But I do have many quotations pulled from our readings along with my own commentary. Thus, for today's notes, I encourage you to annotate freely. Annotate on any part of the course notes that struck you as interesting, important, or puzzling. If there was something interesting in our assigned reading that connects to what follows, share that connection with us. And as always please make sure to respond to one peer response.)
 
 # Introduction
 
@@ -319,6 +318,6 @@ In this way, Dante uses the idea that we are oriented to two kinds of happiness 
   * We observed this in two examples: on Truth and on Happiness.
   * Finally, we looked at the political consequence of this dual view of happiness as seen in Dante's *De Monarchia*
 
-# What's Next
+<!-- # What's Next
 
-* Next class, we'll continue our "Scholasticism Week" by reviewing Aristotle's Ethics and discussing how it will inform the moral framework we see illustrated in Dante's *Purgatorio*
+* Next class, we'll continue our "Scholasticism Week" by reviewing Aristotle's Ethics and discussing how it will inform the moral framework we see illustrated in Dante's *Purgatorio* -->

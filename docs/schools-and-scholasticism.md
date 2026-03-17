@@ -3,8 +3,8 @@ title: "Schools and Scholasticism"
 layout: lecture
 description: "Schools and Scholasticism"
 readings: 
-published: false
-date: 2025-03-25
+published: true
+date: 2026-03-17
 nav_order: 19
 ---
 
@@ -16,11 +16,7 @@ nav_order: 19
 
 ## Intro
 
-This week we're going to focus on the rise of the medieval universities and the intellectual tradition known as medieval scholasticism.
-
-Thursday we will focus on the text of Thomas of Aquinas and we will have a plenary entitled "The Rise of the Universities"
-
-Today I want to use our assigned readings to really look at some of the preceding intellectual traditions and consider how the university tradition both emerged from that tradition and departed from it.
+Today I want to look at some of the preceding intellectual traditions and consider how the university and scholastic tradition both emerged from that tradition and departed from it.
 
 ## Developing Intellectual Traditions
 
@@ -106,8 +102,8 @@ Besides the role of education in the monasteries, there was also a growing trend
 
 These centers of training were known as cathedral schools (see p. 193 of the Richard Southern article).
 
-{:.rquestion}
-What exactly is a cathedral school? Did you get a sense from the reading?
+<!-- {:.rquestion}
+What exactly is a cathedral school? Did you get a sense from the reading? -->
 
 It is important to recognize that other kinds of clerical fraternities developed in the middles ages besides monasteries.
 
