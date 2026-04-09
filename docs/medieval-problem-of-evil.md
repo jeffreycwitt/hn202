@@ -3,7 +3,7 @@ title: "Medieval Problem of Evil"
 layout: lecture
 description: "Medieval Problem of Evil"
 readings: 
-published: true
+published: false
 date: 2025-04-15
 nav_order: 25
 ---
