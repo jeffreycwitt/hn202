@@ -3,8 +3,8 @@ title: "The Black Death and its 14th Century Context"
 layout: lecture
 description: "The Black Death and its 14th Century Context"
 readings: 
-published: false
-date: 2025-04-10
+published: true
+date: 2026-04-09
 nav_order: 24
 ---
 
@@ -62,13 +62,17 @@ The "Pax Mongolica" refers to a vast period of relative peace extending from Eas
 
 This event has many connections to other important aspects of the Middle Ages that we need to know about. Thus, please make sure to have read the Rosenwein account of the Mongolian Empire, SHMA, pp. 255-258. 
 
-I will highlight a few key important details here. Please annotate with any thoughts/questions/links.
+I will highlight a few key important details here. 
+
+<!-- Please annotate with any thoughts/questions/links. -->
 
 First, we need to remember what is happening in the Middle East. We've already seen the rising of the Turks alongside the reign of Abbasid empire. 
 
 By 1250 both of these powers begin to fade.
 
-In their place, emerged the empire of Malmuks in the West and Mongols in the East. (See the Map on SHMA, p. 257 and p. 260).
+In their place, emerged the empire of Malmuks in the West and Mongols in the East. 
+
+<!-- (See the Map on SHMA, p. 257 and p. 260). -->
 
 The rise of the Mongolian Empire is our concern here.
 
@@ -215,19 +219,23 @@ But strangely he is also considered the first Angevin King. Why? Where does the 
 {:.answer}
 The term Angevin comes from land title "Anjou" which lies in the northwest part of modern-day France. 
 
-Please look at the map in SHMA on p. 217 to get a sense of the land holdings of Henry II. 
+<!-- Please look at the map in SHMA on p. 217 to get a sense of the land holdings of Henry II.  -->
 
 I find this a somewhat astonishing reminder that there is nothing "necessary" or "inevitable" about the present, including its geo-political divisions. For us today England as a nation is obviously an island set apart from the European continent, while France is a nation contained entirely on the continent. However, the map on page 218 shows us how different things were in the Middle Ages and how different they could have been for us today had events like the Hundred Years' War not shaped the future in very specific ways. 
 
 Henry II surely did not think of himself as primarily English or belonging to an island country. He spent most of his time in Anjou. His first language was probably an earlier form of French. 
 
-As we've discussed before, all things considered, Henry II was a powerful King who set up strong bureaucracies and administrative systems. (See SHMA, p. 215-220.)
+As we've discussed before, all things considered, Henry II was a powerful King who set up strong bureaucracies and administrative systems. 
+
+<!-- (See SHMA, p. 215-220.) -->
 
 But important for our story is that his sons were somewhat disappointing. 
 
 Both of their epithets are revealing and helpful ways to remember this story.
 
-Richard I the Lionheart succeeded his father, but as Rosenwein notes on SHMA, p. 219: "Richard was rarely in England, since half of France was his to subdue." He also wanted to be a fierce warrior but ended up being rather pathetic. In various escapades (see SHMA, p. 219), he was repeatedly captured only to be saved by expensive ransoms.
+Richard I the Lionheart succeeded his father, but as Rosenwein notes: "Richard was rarely in England, since half of France was his to subdue." He also wanted to be a fierce warrior but ended up being rather pathetic. In various escapades , he was repeatedly captured only to be saved by expensive ransoms.
+
+<!-- on SHMA, p. 219 (see SHMA, p. 219) -->
 
 Richard died in 1199 in battle, and his brother John took his place. 
 
@@ -263,7 +271,7 @@ Instead of supporting Edward III, they threw their support to Philip VI, who was
 
 Thus, while Edward III could claim to be a direct descendant (great-grandson) of the first-born male child of Philip III, Philip VI could claim to be the grandson of Philip III through an all-male line (albeit through the second-born son of Philip III rather than the first-born).
 
-(See the French Genealogy in SHMA p. 306.) 
+<!-- (See the French Genealogy in SHMA p. 306.)  -->
 
 To enforce his claims, Edward III began a war against the French King in 1337 (only 10 or so years before the outbreak of the plague) which lasted until 1453. 
 
@@ -275,7 +283,7 @@ One answer is that it generated new political formations, especially in France. 
 
 > "Ultimately, the war was not so much between England and France as between two conceptions of France: one, a centralized monarchy, the other, and association of territories ruled by counts and dukes. The centralized model won." (SHMA, 5th edition, p. 311)
 
-> "Ultimately, the war marked the transformation of France and England into nation-states" (SHMA, 6th (our) edition, p. 305)
+> "Ultimately, the war marked the transformation of France and England into nation-states" (SHMA, 6th edition, p. 305)
 
 One way that I think we can get a sense of how the Hundred Years' War helped create the centralized nation state that we know today as France is by comparing into the Holy Roman Empire. 
 

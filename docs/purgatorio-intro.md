@@ -3,8 +3,8 @@ title: "Introduction to Dante's Purgatory"
 layout: lecture
 description: "Introduction to Dante's Purgatory"
 readings: 
-published: false
-date: 2025-04-01
+published: true
+date: 2026-03-26
 nav_order: 21
 ---
 
@@ -206,7 +206,7 @@ Thus we get something like the following:
 * Natural reason --> actions/acquisition --> cardinal virtues (4) --> natural happiness
 * Faith --> grace/gift/infusion --> theological virtues (3) --> supernatural happiness
 
-But, as we mentioned before, there is one other reason God give us the grace of revelation. 
+But, as we mentioned before, there is one other reason God gives us the grace of revelation. 
 
 Even though the truths required for natural happiness are in principle achievable, they are also HARD to achieve. It takes a tremendous amount of time to achieve them and they are often discovered imperfectly. 
 
